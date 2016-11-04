@@ -1,0 +1,26 @@
+2016-10-20 22:45:42 INFO  searcher:29 - 1 domains selected to search
+2016-10-20 22:45:42 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-20 22:45:42 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-19T13:41:48Z
+2016-10-20 22:45:43 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-19T13:41:48Z TO NOW]] get 0 results
+2016-10-20 22:45:43 INFO  searcher:76 - {}
+2016-10-20 23:00:36 INFO  searcher:29 - 1 domains selected to search
+2016-10-20 23:00:36 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-20 23:00:36 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-20T15:45:42Z
+2016-10-20 23:00:36 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-20T15:45:42Z TO NOW]] get 0 results
+2016-10-20 23:05:59 INFO  searcher:29 - 1 domains selected to search
+2016-10-20 23:05:59 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-20 23:05:59 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-20T00:00:36Z
+2016-10-20 23:05:59 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-20T00:00:36Z TO NOW]] get 0 results
+2016-10-20 23:08:58 INFO  searcher:29 - 1 domains selected to search
+2016-10-20 23:08:58 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-20 23:08:58 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-19T10:00:36Z
+2016-10-20 23:08:58 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-19T10:00:36Z TO NOW]] get 9 results
+2016-10-20 23:08:58 INFO  searcher:78 -  - Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - 'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-20 23:08:58 INFO  searcher:78 -  - Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html

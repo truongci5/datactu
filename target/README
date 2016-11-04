@@ -1,0 +1,38 @@
+1. Install JRE (version >= 1.7)
+
+2. Install & Run MongoDB (version >= 3.0)
+$ mongod --config /etc/mongod.conf --replSet rs0
+$ mongo
+$ rs.initiate()
+$ rs.status()
+$ use datactu
+$ db.createCollection("articles");
+$ db.createCollection("links");
+
+3. Install & Run Apache Solr (version >= 6.0)
+$ solr start
+$ solr create -c datactu
+
+4. Add this line to /etc/hosts 
+$ 127.0.0.1 localhost.localdomain
+
+5. Add the following line to $SOLRPATH/server/solr/datactu/conf/solrconfig.xml
+<requestHandler name="/admin/luke" class="org.apache.solr.handler.admin.LukeRequestHandler" />
+
+6. Add the following lines to $SOLRPATH/server/solr/datactu/conf/managed-schema
+ <field name="_ts" type="long" indexed="true" stored="true"/>
+ <field name="_version_" type="long" indexed="true" stored="false"/>
+ <field name="content" type="text_general" indexed="true" stored="false"/>
+ <field name="description" type="string" indexed="true" stored="false"/>
+ <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
+ <field name="ns" type="string" indexed="true" stored="true"/>
+ <field name="source" type="string" indexed="true" stored="false"/>
+ <field name="title" type="string" indexed="true" stored="false"/>
+ <field name="timestamp" type="date" indexed="true" stored="true" default="NOW"/>
+ 
+7. Install Mongo-connector (version >= 2.3)
+
+8. Move to the directory containing the codes and Execute run.sh
+
+8. Execute the jar file
+java -jar datactu-0.0.1-jar-with-dependencies.jar

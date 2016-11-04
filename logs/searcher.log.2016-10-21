@@ -1,0 +1,639 @@
+2016-10-21 00:00:48 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 00:00:49 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 00:00:49 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-16T17:00:49Z
+2016-10-21 00:00:50 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-16T17:00:49Z TO NOW]] get 110 results
+2016-10-21 00:00:56 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 00:00:56 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 00:00:56 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-20T17:00:49Z
+2016-10-21 00:00:57 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-20T17:00:49Z TO NOW]] get 0 results
+2016-10-21 00:02:19 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 00:02:19 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 00:02:20 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-16T17:02:20Z
+2016-10-21 00:02:20 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-16T17:02:20Z TO NOW]] get 110 results
+2016-10-21 00:05:38 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 00:05:38 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 00:05:38 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-20T17:02:20Z
+2016-10-21 00:05:39 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-20T17:02:20Z TO NOW]] get 0 results
+2016-10-21 00:05:53 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 00:05:53 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 00:05:53 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-16T17:05:53Z
+2016-10-21 00:05:54 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-16T17:05:53Z TO NOW]] get 110 results
+2016-10-21 00:05:54 INFO  searcher:99 -  Đã có người trúng 92 tỉ đồng vé số Vietlott : http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão tăng 2 cấp khi vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-tang-2-cap-khi-vao-bien-dong-3484433.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Đất đã trôi sông vẫn được cấp giấy đỏ : http://tuoitre.vn/tin/phap-luat/20161019/dat-da-troi-song-van-duoc-cap-giay-do/1191013.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Tin tức, tin nóng, đọc báo điện tử : http://tuoitre.vn/
+2016-10-21 00:05:54 INFO  searcher:99 -  Chàng trai 9X bỏ phố về quê mở trang trại trồng nấm : http://khoinghiep.thanhnien.vn/20161014/chang-trai-9x-bo-pho-ve-que-mo-trang-trai-trong-nam-337
+2016-10-21 00:05:54 INFO  searcher:99 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Dừng chân ở làng chài Lăng Cô, vẻ đẹp huyền ảo : http://thanhnien.vn/doi-song/dung-chan-o-lang-chai-lang-co-ve-dep-huyen-ao-751567.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Truy tìm xe tải vượt đèn đỏ, bỏ chạy sau tai nạn chết người : http://thanhnien.vn/thoi-su/truy-tim-xe-tai-vuot-den-do-bo-chay-sau-tai-nan-chet-nguoi-756434.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Việt Nam giành nhiều danh hiệu tại 'Giải Oscar du lịch' : http://dulich.vnexpress.net/tin-tuc/viet-nam/viet-nam-gianh-nhieu-danh-hieu-tai-giai-oscar-du-lich-3484255.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Phụ huynh tát cô giáo giữa trường vì con bị xước má : http://vnexpress.net/tin-tuc/giao-duc/phu-huynh-tat-co-giao-giua-truong-vi-con-bi-xuoc-ma-3485477.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Saigontourist chùm tour siêu tiết kiệm, khởi hành từ Hà Nội : http://thitruong.tuoitre.vn/giai-tri/du-lich/saigontourist-chum-tour-sieu-tiet-kiem-khoi-hanh-tu-ha-noi_434783.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Xin ngủ nhờ rồi ra tay sát hại dã man bảo vệ bãi tắm : http://nld.com.vn/phap-luat/xin-ngu-nho-roi-ra-tay-sat-hai-da-man-bao-ve-bai-tam-20161018180315106.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Vượt ngàn cây số giết vợ và tình địch: Y án tử hình với Trần Đình Thịnh : http://thanhnien.vn/thoi-su/vuot-ngan-cay-so-giet-vo-va-tinh-dich-y-an-tu-hinh-voi-tran-dinh-thinh-756612.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bộ Y tế không chủ trương cổ phần hóa bệnh viện : http://thanhnien.vn/kinh-doanh/bo-y-te-khong-chu-truong-co-phan-hoa-benh-vien-756487.html
+2016-10-21 00:05:54 INFO  searcher:99 -  3 chiến hạm Hải quân Trung Quốc thăm cảng Cam Ranh : http://vnexpress.net/tin-tuc/thoi-su/3-chien-ham-hai-quan-trung-quoc-tham-cang-cam-ranh-3486062.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão Sarika hướng Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-huong-quang-ninh-nam-dinh-3484723.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Hai vợ chồng bất tỉnh trên vũng máu trong đêm cãi vã : http://vnexpress.net/tin-tuc/phap-luat/hai-vo-chong-bat-tinh-tren-vung-mau-trong-dem-cai-va-3486278.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Tá hỏa phát hiện thi thể treo lơ lửng ở chân cầu : http://nld.com.vn/thoi-su-trong-nuoc/ta-hoa-phat-hien-thi-the-treo-lo-lung-o-chan-cau-20161019155051054.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Nhiều nhà nghỉ, khách sạn xây trái phép ở Lý Sơn : http://thanhnien.vn/thoi-su/nhieu-nha-nghi-khach-san-xay-trai-phep-o-ly-son-755507.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Nhà ấn tượng từ trong ra ngoài như resort ở Đà Nẵng : http://thitruong.nld.com.vn/dia-oc/nha-an-tuong-tu-trong-ra-ngoai-nhu-resort-o-da-nang-20161017083455969.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Giới trẻ hấp dẫn với nghề cho thuê cơ thể : http://nld.com.vn/an-ninh-trat-tu/gioi-tre-hap-dan-voi-nghe-cho-thue-co-the-20161017152426121.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Sáng mai bão cấp 12 vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/sang-mai-bao-cap-12-vao-bien-dong-3484275.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Mưa lũ trên diện rộng trong tuần sau : http://thanhnien.vn/doi-song/mua-lu-tren-dien-rong-trong-tuan-sau-755130.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Trường Giang tình tứ ôm eo Minh Hằng tại sự kiện : http://thanhnien.vn/van-hoa/truong-giang-tinh-tu-om-eo-minh-hang-tai-su-kien-755199.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Chồng cầm dao cứa cổ vợ rồi tự sát : http://nld.com.vn/thoi-su-trong-nuoc/chong-cam-dao-cua-co-vo-roi-tu-sat-20161019132218806.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Tự tạo cơ hội: Nuôi thả heo rừng : http://thanhnien.vn/kinh-doanh/tu-tao-co-hoi-nuoi-tha-heo-rung-755220.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Khách Trung Quốc đốt tiền ở Đà Nẵng bị liệt vào danh sách đen : http://dulich.vnexpress.net/tin-tuc/cong-dong/dau-chan/khach-trung-quoc-dot-tien-o-da-nang-bi-liet-vao-danh-sach-den-3483784.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Ngành đường sắt nhận chuyển hàng cứu trợ miễn phí cho đồng bào miền Trung : http://thanhnien.vn/doi-song/nganh-duong-sat-nhan-chuyen-hang-cuu-tro-mien-phi-cho-dong-bao-mien-trung-756611.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Nội Bài đứng thứ 19/30 sân bay tốt nhất châu Á : http://tuoitre.vn/tin/kinh-te/20161018/noi-bai-dung-thu-19-30-san-bay-tot-nhat-chau-a/1190575.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Giết vợ và người tình của vợ nhận y án tử hình : http://nld.com.vn/thoi-su-trong-nuoc/giet-vo-va-nguoi-tinh-cua-vo-nhan-y-an-tu-hinh-20161019161944582.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Quốc lộ 1 bị chia cắt, hơn 30.000 nhà dân miền Trung ngập sâu : http://vnexpress.net/tin-tuc/thoi-su/quoc-lo-1-bi-chia-cat-hon-30-000-nha-dan-mien-trung-ngap-sau-3483975.html
+2016-10-21 00:05:54 INFO  searcher:99 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-21 00:05:54 INFO  searcher:99 -  MobiFone chính thức được cấp phép dịch vụ 4G : http://thanhnien.vn/cong-nghe/mobifone-chinh-thuc-duoc-cap-phep-dich-vu-4g-755978.html
+2016-10-21 00:05:54 INFO  searcher:99 -  ​Mẹ như thế, dạy con cái kiểu gì? : http://tuoitre.vn/tin/ban-doc/20161018/me-nhu-the-day-con-cai-kieu-gi/1190278.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Rơi nước mắt hình ảnh con bò vô vọng ở xã Văn Hóa : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html
+2016-10-21 00:05:54 INFO  searcher:99 -  45 đoàn tàu bị tắc do lũ lớn ở miền Trung : http://vnexpress.net/tin-tuc/thoi-su/giao-thong/45-doan-tau-bi-tac-do-lu-lon-o-mien-trung-3483985.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/kinh-te/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Hủy hàng loạt chuyến bay đi/đến Hải Phòng do bão : http://tuoitre.vn/tin/kinh-te/20161018/huy-hang-loat-chuyen-bay-di-den-hai-phong-do-bao/1190746.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Khu nghỉ dưỡng của các tỉ phú tại Đà Nẵng : http://tuoitre.vn/tin/kinh-te/20161018/khu-nghi-duong-cua-cac-ti-phu-tai-da-nang/1190287.html
+2016-10-21 00:05:54 INFO  searcher:99 -  ​Đà Nẵng được vinh danh điểm đến hàng đầu châu Á : http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Cô giáo làm xước má học sinh bị phạt 5 triệu đồng : http://nld.com.vn/thoi-su-trong-nuoc/co-giao-lam-xuoc-ma-hoc-sinh-bi-phat-5-trieu-dong-20161019105436862.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Sẽ đổi mới hệ thống đánh giá năng lực ngoại ngữ quốc gia : http://thanhnien.vn/giao-duc/se-doi-moi-he-thong-danh-gia-nang-luc-ngoai-ngu-quoc-gia-755126.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Xe né trạm thu phí quần nát đường làng : http://nld.com.vn/ban-doc/xe-ne-tram-thu-phi-quan-nat-duong-lang-20161016215638117.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Vụ bệnh nhân chết tại BV Hội An: Bộ Y tế yêu cầu báo cáo trước ngày 20-10 : http://nld.com.vn/thoi-su-trong-nuoc/vu-benh-nhan-chet-tai-bv-hoi-an-bo-y-te-yeu-cau-bao-cao-truoc-ngay-20-10-20161019163505497.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Phạt giáo viên đánh học sinh 5 triệu đồng, kiểm điểm phụ huynh gây náo loạn : http://thanhnien.vn/giao-duc/phat-giao-vien-danh-hoc-sinh-5-trieu-dong-kiem-diem-phu-huynh-gay-nao-loan-756542.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Đình chỉ công tác 1 tháng cô giáo làm xước má học sinh : http://tuoitre.vn/tin/giao-duc/20161019/dinh-chi-cong-tac-1-thang-co-giao-lam-xuoc-ma-hoc-sinh/1191106.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bệnh viện đắt quá, đâu phải nhà thương! : http://nld.com.vn/suc-khoe/benh-vien-dat-qua-dau-phai-nha-thuong-20161013231849535.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Trong 48 tiếng, MC Phan Anh vận động 10 tỉ đồng giúp dân miền Trung bị lũ : http://thanhnien.vn/gioi-tre/trong-48-tieng-mc-phan-anh-van-dong-10-ti-dong-giup-dan-mien-trung-bi-lu-755891.html
+2016-10-21 00:05:54 INFO  searcher:99 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão số 7 vừa qua, siêu bão trên cấp 17 nối gót vào Biển Đông : http://nld.com.vn/thoi-su-trong-nuoc/bao-so-7-vua-qua-sieu-bao-tren-cap-17-noi-got-vao-bien-dong-2016101822091307.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Giáo viên xông vào trường tát cô giáo : http://nld.com.vn/thoi-su-trong-nuoc/giao-vien-xong-vao-truong-tat-co-giao-20161018154102932.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Chủ nhân giải xổ số 92 tỷ nhận chuyển khoản một lần : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-nhan-giai-xo-so-92-ty-nhan-chuyen-khoan-mot-lan-3485690.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/thoi-su-trong-nuoc/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-21 00:05:54 INFO  searcher:99 -  'Trùm Hàn Quốc bị bắt khi du lịch cùng chân dài ở Đà Nẵng' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/trum-han-quoc-bi-bat-khi-du-lich-cung-chan-dai-o-da-nang-nong-tren-vitalk-3483638.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Con bị xước má, mẹ vào trường tát cô giáo ngã dúi dụi : http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Chủ tiệm tóc ép nhân viên kích dục chiều khách : http://vnexpress.net/tin-tuc/phap-luat/chu-tiem-toc-ep-nhan-vien-kich-duc-chieu-khach-3484231.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Giết người vì cho rằng đốt giấy xúc phạm : http://vnexpress.net/tin-tuc/phap-luat/giet-nguoi-vi-cho-rang-dot-giay-xuc-pham-3484261.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Thư viện điện tử miễn phí  dành cho học sinh Đà Nẵng : http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html
+2016-10-21 00:05:54 INFO  searcher:99 -  'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Hoa Đà Lạt khan hiếm dịp 20-10 : http://nld.com.vn/kinh-te/hoa-da-lat-khan-hiem-dip-20-10-20161019114119322.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Đường Trường Sa nứt toác tạo 'hố tử thần': Rào chắn, phân luồng khu bờ kè : http://thanhnien.vn/doi-song/duong-truong-sa-nut-toac-tao-ho-tu-than-rao-chan-phan-luong-khu-bo-ke-730609.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Trên 67% mẫu nước mắm khảo sát có nồng độ thạch tín vượt ngưỡng cho phép : http://thanhnien.vn/kinh-doanh/tren-67-mau-nuoc-mam-khao-sat-co-nong-do-thach-tin-vuot-nguong-cho-phep-755929.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Clip du khách Trung Quốc thô bạo với người bán chuối ở Đà Nẵng gây phẫn nộ : http://thanhnien.vn/gioi-tre/clip-du-khach-trung-quoc-tho-bao-voi-nguoi-ban-chuoi-o-da-nang-gay-phan-no-719897.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Những điều kỳ thú trên cung đường 14G : http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Người trúng xổ số điện toán đã nhận 92 tỉ đồng : http://vnmoney.nld.com.vn/vnmoney/nguoi-trung-xo-so-dien-toan-da-nhan-92-ti-dong-20161018174921653.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 00:05:54 INFO  searcher:99 -  ‘Nóng’ vụ nhà máy thép Việt Pháp di dời lên thượng nguồn Vu Gia : http://thanhnien.vn/thoi-su/nong-vu-nha-may-thep-di-doi-len-thuong-nguon-vu-gia-thu-bon-754700.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Chủ nhân trúng thưởng 92 tỉ đồng đã nhận tiền : http://thanhnien.vn/thoi-su/chu-nhan-trung-thuong-92-ti-dong-da-nhan-tien-756349.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Tiếp tục xử lý dioxin ở Đà Nẵng để mở rộng sân bay : http://nld.com.vn/thoi-su-trong-nuoc/tiep-tuc-xu-ly-dioxin-o-da-nang-de-mo-rong-san-bay-20161018120816711.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Di dời nhà máy thép Việt Pháp: Người dân được tham vấn như thế nào? : http://thanhnien.vn/thoi-su/di-doi-nha-may-thep-viet-phap-nguoi-dan-duoc-tham-van-nhu-the-nao-755082.html
+2016-10-21 00:05:54 INFO  searcher:99 -  MC Phan Anh: 'Tôi rớt nước mắt khi thấy số tiền ủng hộ đến 8 tỉ đồng' : http://thanhnien.vn/van-hoa/mc-phan-anh-toi-rot-nuoc-mat-khi-thay-so-tien-ung-ho-den-8-ti-dong-756060.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Hiện tượng Phan Anh- Quyền lực của người nổi tiếng : http://nld.com.vn/van-hoa-van-nghe/hien-tuong-phan-anh-quyen-luc-cua-nguoi-noi-tieng-20161018120105739.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Phong tỏa đèo Hải Vân ngăn vụ nổ do lật xe bồn 16 tấn ga : http://video.thanhnien.vn/thoi-su/phong-toa-deo-hai-van-ngan-vu-no-do-lat-xe-bon-16-tan-ga-57750.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Thi thể nam bảo vệ ở bãi tắm : http://vnexpress.net/tin-tuc/phap-luat/thi-the-nam-bao-ve-o-bai-tam-3484108.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bắt đối tượng giết người sau 22 năm lẩn trốn : http://nld.com.vn/phap-luat/bat-doi-tuong-giet-nguoi-sau-22-nam-lan-tron-20161016164729525.htm
+2016-10-21 00:05:54 INFO  searcher:99 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão cấp 12 sắp vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-cap-12-sap-vao-bien-dong-3484275.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão Sarika tiến vào Biển Đông : http://thanhnien.vn/thoi-su/bao-sarika-tien-vao-bien-dong-755508.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Con bị đánh, phụ huynh lao vào trường tát nhầm giáo viên : http://thanhnien.vn/giao-duc/con-bi-danh-phu-huynh-lao-vao-truong-tat-nham-giao-vien-756186.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Ngân hàng táo bạo đổi nợ xấu thành vốn góp : http://thanhnien.vn/kinh-doanh/ngan-hang-tao-bao-doi-no-xau-thanh-von-gop-754138.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bức ảnh con bò tuyệt vọng trong lũ gây xúc động : http://vnexpress.net/tin-tuc/thoi-su/buc-anh-con-bo-tuyet-vong-trong-lu-gay-xuc-dong-3484449.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Quà của <em>Tuổi Trẻ</em> đến với bà con vùng lũ Quảng Bình : http://tuoitre.vn/tin/ban-doc/20161018/qua-cua-tuoi-tre-den-voi-ba-con-vung-lu-quang-binh/1190608.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-21 00:05:54 INFO  searcher:99 -  Bão Sarika có thể vào Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-co-the-vao-quang-ninh-hai-phong-3485245.html
+2016-10-21 10:03:25 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:03:25 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:03:25 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:03:25Z
+2016-10-21 10:03:25 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:03:25Z TO NOW]] get 110 results
+2016-10-21 10:13:21 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:13:21 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:13:21 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:13:21Z
+2016-10-21 10:13:21 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:13:21Z TO NOW]] get 110 results
+2016-10-21 10:16:37 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:16:37 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:16:37 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:16:37Z
+2016-10-21 10:16:37 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:16:37Z TO NOW]] get 110 results
+2016-10-21 10:17:34 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:17:34 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:17:35 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:17:35Z
+2016-10-21 10:17:35 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:17:35Z TO NOW]] get 110 results
+2016-10-21 10:20:15 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:20:15 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:20:15 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:17:35Z
+2016-10-21 10:20:16 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:17:35Z TO NOW]] get 0 results
+2016-10-21 10:21:11 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:21:11 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:21:11 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:20:15Z
+2016-10-21 10:21:11 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:20:15Z TO NOW]] get 0 results
+2016-10-21 10:21:36 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:21:36 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:21:36 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:21:36Z
+2016-10-21 10:21:37 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:21:36Z TO NOW]] get 110 results
+2016-10-21 10:22:42 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:22:42 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:22:43 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:21:36Z
+2016-10-21 10:22:43 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:21:36Z TO NOW]] get 0 results
+2016-10-21 10:23:22 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:23:22 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:23:22 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:22:43Z
+2016-10-21 10:23:22 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:22:43Z TO NOW]] get 0 results
+2016-10-21 10:24:22 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:24:22 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:24:22 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:23:22Z
+2016-10-21 10:24:22 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:23:22Z TO NOW]] get 0 results
+2016-10-21 10:25:50 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:25:50 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:25:50 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:24:22Z
+2016-10-21 10:25:50 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:24:22Z TO NOW]] get 0 results
+2016-10-21 10:26:43 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:26:43 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:26:43 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:25:50Z
+2016-10-21 10:26:43 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:25:50Z TO NOW]] get 0 results
+2016-10-21 10:28:34 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:28:34 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:28:35 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:26:43Z
+2016-10-21 10:28:35 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:26:43Z TO NOW]] get 0 results
+2016-10-21 10:29:12 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:29:12 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:29:12 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:29:12Z
+2016-10-21 10:29:12 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:29:12Z TO NOW]] get 110 results
+2016-10-21 10:31:28 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:31:28 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:31:29 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:29:12Z
+2016-10-21 10:31:29 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:29:12Z TO NOW]] get 0 results
+2016-10-21 10:31:41 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:31:41 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:31:41 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:31:41Z
+2016-10-21 10:31:42 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:31:41Z TO NOW]] get 110 results
+2016-10-21 10:33:02 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:33:02 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:33:02 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:31:41Z
+2016-10-21 10:33:03 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:31:41Z TO NOW]] get 0 results
+2016-10-21 10:38:17 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:38:17 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:38:18 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:33:02Z
+2016-10-21 10:38:18 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:33:02Z TO NOW]] get 0 results
+2016-10-21 10:39:31 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:39:31 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:39:31 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:39:31Z
+2016-10-21 10:39:31 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:39:31Z TO NOW]] get 110 results
+2016-10-21 10:40:36 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:40:36 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:40:37 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:40:36Z
+2016-10-21 10:40:37 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:40:36Z TO NOW]] get 110 results
+2016-10-21 10:40:37 INFO  searcher:101 -  Đã có người trúng 92 tỉ đồng vé số Vietlott : http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão tăng 2 cấp khi vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-tang-2-cap-khi-vao-bien-dong-3484433.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Đất đã trôi sông vẫn được cấp giấy đỏ : http://tuoitre.vn/tin/phap-luat/20161019/dat-da-troi-song-van-duoc-cap-giay-do/1191013.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Tin tức, tin nóng, đọc báo điện tử : http://tuoitre.vn/
+2016-10-21 10:40:37 INFO  searcher:101 -  Chàng trai 9X bỏ phố về quê mở trang trại trồng nấm : http://khoinghiep.thanhnien.vn/20161014/chang-trai-9x-bo-pho-ve-que-mo-trang-trai-trong-nam-337
+2016-10-21 10:40:37 INFO  searcher:101 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Dừng chân ở làng chài Lăng Cô, vẻ đẹp huyền ảo : http://thanhnien.vn/doi-song/dung-chan-o-lang-chai-lang-co-ve-dep-huyen-ao-751567.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Truy tìm xe tải vượt đèn đỏ, bỏ chạy sau tai nạn chết người : http://thanhnien.vn/thoi-su/truy-tim-xe-tai-vuot-den-do-bo-chay-sau-tai-nan-chet-nguoi-756434.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Việt Nam giành nhiều danh hiệu tại 'Giải Oscar du lịch' : http://dulich.vnexpress.net/tin-tuc/viet-nam/viet-nam-gianh-nhieu-danh-hieu-tai-giai-oscar-du-lich-3484255.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Phụ huynh tát cô giáo giữa trường vì con bị xước má : http://vnexpress.net/tin-tuc/giao-duc/phu-huynh-tat-co-giao-giua-truong-vi-con-bi-xuoc-ma-3485477.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Saigontourist chùm tour siêu tiết kiệm, khởi hành từ Hà Nội : http://thitruong.tuoitre.vn/giai-tri/du-lich/saigontourist-chum-tour-sieu-tiet-kiem-khoi-hanh-tu-ha-noi_434783.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Xin ngủ nhờ rồi ra tay sát hại dã man bảo vệ bãi tắm : http://nld.com.vn/phap-luat/xin-ngu-nho-roi-ra-tay-sat-hai-da-man-bao-ve-bai-tam-20161018180315106.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Vượt ngàn cây số giết vợ và tình địch: Y án tử hình với Trần Đình Thịnh : http://thanhnien.vn/thoi-su/vuot-ngan-cay-so-giet-vo-va-tinh-dich-y-an-tu-hinh-voi-tran-dinh-thinh-756612.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bộ Y tế không chủ trương cổ phần hóa bệnh viện : http://thanhnien.vn/kinh-doanh/bo-y-te-khong-chu-truong-co-phan-hoa-benh-vien-756487.html
+2016-10-21 10:40:37 INFO  searcher:101 -  3 chiến hạm Hải quân Trung Quốc thăm cảng Cam Ranh : http://vnexpress.net/tin-tuc/thoi-su/3-chien-ham-hai-quan-trung-quoc-tham-cang-cam-ranh-3486062.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão Sarika hướng Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-huong-quang-ninh-nam-dinh-3484723.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Hai vợ chồng bất tỉnh trên vũng máu trong đêm cãi vã : http://vnexpress.net/tin-tuc/phap-luat/hai-vo-chong-bat-tinh-tren-vung-mau-trong-dem-cai-va-3486278.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Tá hỏa phát hiện thi thể treo lơ lửng ở chân cầu : http://nld.com.vn/thoi-su-trong-nuoc/ta-hoa-phat-hien-thi-the-treo-lo-lung-o-chan-cau-20161019155051054.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Nhiều nhà nghỉ, khách sạn xây trái phép ở Lý Sơn : http://thanhnien.vn/thoi-su/nhieu-nha-nghi-khach-san-xay-trai-phep-o-ly-son-755507.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Nhà ấn tượng từ trong ra ngoài như resort ở Đà Nẵng : http://thitruong.nld.com.vn/dia-oc/nha-an-tuong-tu-trong-ra-ngoai-nhu-resort-o-da-nang-20161017083455969.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Giới trẻ hấp dẫn với nghề cho thuê cơ thể : http://nld.com.vn/an-ninh-trat-tu/gioi-tre-hap-dan-voi-nghe-cho-thue-co-the-20161017152426121.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Sáng mai bão cấp 12 vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/sang-mai-bao-cap-12-vao-bien-dong-3484275.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Mưa lũ trên diện rộng trong tuần sau : http://thanhnien.vn/doi-song/mua-lu-tren-dien-rong-trong-tuan-sau-755130.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Trường Giang tình tứ ôm eo Minh Hằng tại sự kiện : http://thanhnien.vn/van-hoa/truong-giang-tinh-tu-om-eo-minh-hang-tai-su-kien-755199.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Chồng cầm dao cứa cổ vợ rồi tự sát : http://nld.com.vn/thoi-su-trong-nuoc/chong-cam-dao-cua-co-vo-roi-tu-sat-20161019132218806.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Tự tạo cơ hội: Nuôi thả heo rừng : http://thanhnien.vn/kinh-doanh/tu-tao-co-hoi-nuoi-tha-heo-rung-755220.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Khách Trung Quốc đốt tiền ở Đà Nẵng bị liệt vào danh sách đen : http://dulich.vnexpress.net/tin-tuc/cong-dong/dau-chan/khach-trung-quoc-dot-tien-o-da-nang-bi-liet-vao-danh-sach-den-3483784.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Ngành đường sắt nhận chuyển hàng cứu trợ miễn phí cho đồng bào miền Trung : http://thanhnien.vn/doi-song/nganh-duong-sat-nhan-chuyen-hang-cuu-tro-mien-phi-cho-dong-bao-mien-trung-756611.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Nội Bài đứng thứ 19/30 sân bay tốt nhất châu Á : http://tuoitre.vn/tin/kinh-te/20161018/noi-bai-dung-thu-19-30-san-bay-tot-nhat-chau-a/1190575.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Giết vợ và người tình của vợ nhận y án tử hình : http://nld.com.vn/thoi-su-trong-nuoc/giet-vo-va-nguoi-tinh-cua-vo-nhan-y-an-tu-hinh-20161019161944582.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Quốc lộ 1 bị chia cắt, hơn 30.000 nhà dân miền Trung ngập sâu : http://vnexpress.net/tin-tuc/thoi-su/quoc-lo-1-bi-chia-cat-hon-30-000-nha-dan-mien-trung-ngap-sau-3483975.html
+2016-10-21 10:40:37 INFO  searcher:101 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-21 10:40:37 INFO  searcher:101 -  MobiFone chính thức được cấp phép dịch vụ 4G : http://thanhnien.vn/cong-nghe/mobifone-chinh-thuc-duoc-cap-phep-dich-vu-4g-755978.html
+2016-10-21 10:40:37 INFO  searcher:101 -  ​Mẹ như thế, dạy con cái kiểu gì? : http://tuoitre.vn/tin/ban-doc/20161018/me-nhu-the-day-con-cai-kieu-gi/1190278.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Rơi nước mắt hình ảnh con bò vô vọng ở xã Văn Hóa : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html
+2016-10-21 10:40:37 INFO  searcher:101 -  45 đoàn tàu bị tắc do lũ lớn ở miền Trung : http://vnexpress.net/tin-tuc/thoi-su/giao-thong/45-doan-tau-bi-tac-do-lu-lon-o-mien-trung-3483985.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/kinh-te/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Hủy hàng loạt chuyến bay đi/đến Hải Phòng do bão : http://tuoitre.vn/tin/kinh-te/20161018/huy-hang-loat-chuyen-bay-di-den-hai-phong-do-bao/1190746.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Khu nghỉ dưỡng của các tỉ phú tại Đà Nẵng : http://tuoitre.vn/tin/kinh-te/20161018/khu-nghi-duong-cua-cac-ti-phu-tai-da-nang/1190287.html
+2016-10-21 10:40:37 INFO  searcher:101 -  ​Đà Nẵng được vinh danh điểm đến hàng đầu châu Á : http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Cô giáo làm xước má học sinh bị phạt 5 triệu đồng : http://nld.com.vn/thoi-su-trong-nuoc/co-giao-lam-xuoc-ma-hoc-sinh-bi-phat-5-trieu-dong-20161019105436862.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Sẽ đổi mới hệ thống đánh giá năng lực ngoại ngữ quốc gia : http://thanhnien.vn/giao-duc/se-doi-moi-he-thong-danh-gia-nang-luc-ngoai-ngu-quoc-gia-755126.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Xe né trạm thu phí quần nát đường làng : http://nld.com.vn/ban-doc/xe-ne-tram-thu-phi-quan-nat-duong-lang-20161016215638117.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Vụ bệnh nhân chết tại BV Hội An: Bộ Y tế yêu cầu báo cáo trước ngày 20-10 : http://nld.com.vn/thoi-su-trong-nuoc/vu-benh-nhan-chet-tai-bv-hoi-an-bo-y-te-yeu-cau-bao-cao-truoc-ngay-20-10-20161019163505497.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Phạt giáo viên đánh học sinh 5 triệu đồng, kiểm điểm phụ huynh gây náo loạn : http://thanhnien.vn/giao-duc/phat-giao-vien-danh-hoc-sinh-5-trieu-dong-kiem-diem-phu-huynh-gay-nao-loan-756542.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Đình chỉ công tác 1 tháng cô giáo làm xước má học sinh : http://tuoitre.vn/tin/giao-duc/20161019/dinh-chi-cong-tac-1-thang-co-giao-lam-xuoc-ma-hoc-sinh/1191106.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bệnh viện đắt quá, đâu phải nhà thương! : http://nld.com.vn/suc-khoe/benh-vien-dat-qua-dau-phai-nha-thuong-20161013231849535.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Trong 48 tiếng, MC Phan Anh vận động 10 tỉ đồng giúp dân miền Trung bị lũ : http://thanhnien.vn/gioi-tre/trong-48-tieng-mc-phan-anh-van-dong-10-ti-dong-giup-dan-mien-trung-bi-lu-755891.html
+2016-10-21 10:40:37 INFO  searcher:101 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão số 7 vừa qua, siêu bão trên cấp 17 nối gót vào Biển Đông : http://nld.com.vn/thoi-su-trong-nuoc/bao-so-7-vua-qua-sieu-bao-tren-cap-17-noi-got-vao-bien-dong-2016101822091307.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Giáo viên xông vào trường tát cô giáo : http://nld.com.vn/thoi-su-trong-nuoc/giao-vien-xong-vao-truong-tat-co-giao-20161018154102932.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Chủ nhân giải xổ số 92 tỷ nhận chuyển khoản một lần : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-nhan-giai-xo-so-92-ty-nhan-chuyen-khoan-mot-lan-3485690.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/thoi-su-trong-nuoc/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-21 10:40:37 INFO  searcher:101 -  'Trùm Hàn Quốc bị bắt khi du lịch cùng chân dài ở Đà Nẵng' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/trum-han-quoc-bi-bat-khi-du-lich-cung-chan-dai-o-da-nang-nong-tren-vitalk-3483638.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Con bị xước má, mẹ vào trường tát cô giáo ngã dúi dụi : http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Chủ tiệm tóc ép nhân viên kích dục chiều khách : http://vnexpress.net/tin-tuc/phap-luat/chu-tiem-toc-ep-nhan-vien-kich-duc-chieu-khach-3484231.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Giết người vì cho rằng đốt giấy xúc phạm : http://vnexpress.net/tin-tuc/phap-luat/giet-nguoi-vi-cho-rang-dot-giay-xuc-pham-3484261.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Thư viện điện tử miễn phí  dành cho học sinh Đà Nẵng : http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html
+2016-10-21 10:40:37 INFO  searcher:101 -  'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Hoa Đà Lạt khan hiếm dịp 20-10 : http://nld.com.vn/kinh-te/hoa-da-lat-khan-hiem-dip-20-10-20161019114119322.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Đường Trường Sa nứt toác tạo 'hố tử thần': Rào chắn, phân luồng khu bờ kè : http://thanhnien.vn/doi-song/duong-truong-sa-nut-toac-tao-ho-tu-than-rao-chan-phan-luong-khu-bo-ke-730609.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Trên 67% mẫu nước mắm khảo sát có nồng độ thạch tín vượt ngưỡng cho phép : http://thanhnien.vn/kinh-doanh/tren-67-mau-nuoc-mam-khao-sat-co-nong-do-thach-tin-vuot-nguong-cho-phep-755929.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Clip du khách Trung Quốc thô bạo với người bán chuối ở Đà Nẵng gây phẫn nộ : http://thanhnien.vn/gioi-tre/clip-du-khach-trung-quoc-tho-bao-voi-nguoi-ban-chuoi-o-da-nang-gay-phan-no-719897.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Những điều kỳ thú trên cung đường 14G : http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Người trúng xổ số điện toán đã nhận 92 tỉ đồng : http://vnmoney.nld.com.vn/vnmoney/nguoi-trung-xo-so-dien-toan-da-nhan-92-ti-dong-20161018174921653.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:40:37 INFO  searcher:101 -  ‘Nóng’ vụ nhà máy thép Việt Pháp di dời lên thượng nguồn Vu Gia : http://thanhnien.vn/thoi-su/nong-vu-nha-may-thep-di-doi-len-thuong-nguon-vu-gia-thu-bon-754700.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Chủ nhân trúng thưởng 92 tỉ đồng đã nhận tiền : http://thanhnien.vn/thoi-su/chu-nhan-trung-thuong-92-ti-dong-da-nhan-tien-756349.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Tiếp tục xử lý dioxin ở Đà Nẵng để mở rộng sân bay : http://nld.com.vn/thoi-su-trong-nuoc/tiep-tuc-xu-ly-dioxin-o-da-nang-de-mo-rong-san-bay-20161018120816711.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Di dời nhà máy thép Việt Pháp: Người dân được tham vấn như thế nào? : http://thanhnien.vn/thoi-su/di-doi-nha-may-thep-viet-phap-nguoi-dan-duoc-tham-van-nhu-the-nao-755082.html
+2016-10-21 10:40:37 INFO  searcher:101 -  MC Phan Anh: 'Tôi rớt nước mắt khi thấy số tiền ủng hộ đến 8 tỉ đồng' : http://thanhnien.vn/van-hoa/mc-phan-anh-toi-rot-nuoc-mat-khi-thay-so-tien-ung-ho-den-8-ti-dong-756060.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Hiện tượng Phan Anh- Quyền lực của người nổi tiếng : http://nld.com.vn/van-hoa-van-nghe/hien-tuong-phan-anh-quyen-luc-cua-nguoi-noi-tieng-20161018120105739.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Phong tỏa đèo Hải Vân ngăn vụ nổ do lật xe bồn 16 tấn ga : http://video.thanhnien.vn/thoi-su/phong-toa-deo-hai-van-ngan-vu-no-do-lat-xe-bon-16-tan-ga-57750.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Thi thể nam bảo vệ ở bãi tắm : http://vnexpress.net/tin-tuc/phap-luat/thi-the-nam-bao-ve-o-bai-tam-3484108.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bắt đối tượng giết người sau 22 năm lẩn trốn : http://nld.com.vn/phap-luat/bat-doi-tuong-giet-nguoi-sau-22-nam-lan-tron-20161016164729525.htm
+2016-10-21 10:40:37 INFO  searcher:101 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão cấp 12 sắp vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-cap-12-sap-vao-bien-dong-3484275.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão Sarika tiến vào Biển Đông : http://thanhnien.vn/thoi-su/bao-sarika-tien-vao-bien-dong-755508.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Con bị đánh, phụ huynh lao vào trường tát nhầm giáo viên : http://thanhnien.vn/giao-duc/con-bi-danh-phu-huynh-lao-vao-truong-tat-nham-giao-vien-756186.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Ngân hàng táo bạo đổi nợ xấu thành vốn góp : http://thanhnien.vn/kinh-doanh/ngan-hang-tao-bao-doi-no-xau-thanh-von-gop-754138.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bức ảnh con bò tuyệt vọng trong lũ gây xúc động : http://vnexpress.net/tin-tuc/thoi-su/buc-anh-con-bo-tuyet-vong-trong-lu-gay-xuc-dong-3484449.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Quà của <em>Tuổi Trẻ</em> đến với bà con vùng lũ Quảng Bình : http://tuoitre.vn/tin/ban-doc/20161018/qua-cua-tuoi-tre-den-voi-ba-con-vung-lu-quang-binh/1190608.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-21 10:40:37 INFO  searcher:101 -  Bão Sarika có thể vào Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-co-the-vao-quang-ninh-hai-phong-3485245.html
+2016-10-21 10:43:34 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:43:34 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:43:35 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:43:35Z
+2016-10-21 10:43:35 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:43:35Z TO NOW]] get 110 results
+2016-10-21 10:43:35 INFO  searcher:101 -  Đã có người trúng 92 tỉ đồng vé số Vietlott : http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão tăng 2 cấp khi vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-tang-2-cap-khi-vao-bien-dong-3484433.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Đất đã trôi sông vẫn được cấp giấy đỏ : http://tuoitre.vn/tin/phap-luat/20161019/dat-da-troi-song-van-duoc-cap-giay-do/1191013.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Tin tức, tin nóng, đọc báo điện tử : http://tuoitre.vn/
+2016-10-21 10:43:35 INFO  searcher:101 -  Chàng trai 9X bỏ phố về quê mở trang trại trồng nấm : http://khoinghiep.thanhnien.vn/20161014/chang-trai-9x-bo-pho-ve-que-mo-trang-trai-trong-nam-337
+2016-10-21 10:43:35 INFO  searcher:101 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Dừng chân ở làng chài Lăng Cô, vẻ đẹp huyền ảo : http://thanhnien.vn/doi-song/dung-chan-o-lang-chai-lang-co-ve-dep-huyen-ao-751567.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Truy tìm xe tải vượt đèn đỏ, bỏ chạy sau tai nạn chết người : http://thanhnien.vn/thoi-su/truy-tim-xe-tai-vuot-den-do-bo-chay-sau-tai-nan-chet-nguoi-756434.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Việt Nam giành nhiều danh hiệu tại 'Giải Oscar du lịch' : http://dulich.vnexpress.net/tin-tuc/viet-nam/viet-nam-gianh-nhieu-danh-hieu-tai-giai-oscar-du-lich-3484255.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Phụ huynh tát cô giáo giữa trường vì con bị xước má : http://vnexpress.net/tin-tuc/giao-duc/phu-huynh-tat-co-giao-giua-truong-vi-con-bi-xuoc-ma-3485477.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Saigontourist chùm tour siêu tiết kiệm, khởi hành từ Hà Nội : http://thitruong.tuoitre.vn/giai-tri/du-lich/saigontourist-chum-tour-sieu-tiet-kiem-khoi-hanh-tu-ha-noi_434783.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Xin ngủ nhờ rồi ra tay sát hại dã man bảo vệ bãi tắm : http://nld.com.vn/phap-luat/xin-ngu-nho-roi-ra-tay-sat-hai-da-man-bao-ve-bai-tam-20161018180315106.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Vượt ngàn cây số giết vợ và tình địch: Y án tử hình với Trần Đình Thịnh : http://thanhnien.vn/thoi-su/vuot-ngan-cay-so-giet-vo-va-tinh-dich-y-an-tu-hinh-voi-tran-dinh-thinh-756612.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bộ Y tế không chủ trương cổ phần hóa bệnh viện : http://thanhnien.vn/kinh-doanh/bo-y-te-khong-chu-truong-co-phan-hoa-benh-vien-756487.html
+2016-10-21 10:43:35 INFO  searcher:101 -  3 chiến hạm Hải quân Trung Quốc thăm cảng Cam Ranh : http://vnexpress.net/tin-tuc/thoi-su/3-chien-ham-hai-quan-trung-quoc-tham-cang-cam-ranh-3486062.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão Sarika hướng Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-huong-quang-ninh-nam-dinh-3484723.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Hai vợ chồng bất tỉnh trên vũng máu trong đêm cãi vã : http://vnexpress.net/tin-tuc/phap-luat/hai-vo-chong-bat-tinh-tren-vung-mau-trong-dem-cai-va-3486278.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Tá hỏa phát hiện thi thể treo lơ lửng ở chân cầu : http://nld.com.vn/thoi-su-trong-nuoc/ta-hoa-phat-hien-thi-the-treo-lo-lung-o-chan-cau-20161019155051054.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Nhiều nhà nghỉ, khách sạn xây trái phép ở Lý Sơn : http://thanhnien.vn/thoi-su/nhieu-nha-nghi-khach-san-xay-trai-phep-o-ly-son-755507.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Nhà ấn tượng từ trong ra ngoài như resort ở Đà Nẵng : http://thitruong.nld.com.vn/dia-oc/nha-an-tuong-tu-trong-ra-ngoai-nhu-resort-o-da-nang-20161017083455969.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Giới trẻ hấp dẫn với nghề cho thuê cơ thể : http://nld.com.vn/an-ninh-trat-tu/gioi-tre-hap-dan-voi-nghe-cho-thue-co-the-20161017152426121.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Sáng mai bão cấp 12 vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/sang-mai-bao-cap-12-vao-bien-dong-3484275.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Mưa lũ trên diện rộng trong tuần sau : http://thanhnien.vn/doi-song/mua-lu-tren-dien-rong-trong-tuan-sau-755130.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Trường Giang tình tứ ôm eo Minh Hằng tại sự kiện : http://thanhnien.vn/van-hoa/truong-giang-tinh-tu-om-eo-minh-hang-tai-su-kien-755199.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Chồng cầm dao cứa cổ vợ rồi tự sát : http://nld.com.vn/thoi-su-trong-nuoc/chong-cam-dao-cua-co-vo-roi-tu-sat-20161019132218806.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Tự tạo cơ hội: Nuôi thả heo rừng : http://thanhnien.vn/kinh-doanh/tu-tao-co-hoi-nuoi-tha-heo-rung-755220.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Khách Trung Quốc đốt tiền ở Đà Nẵng bị liệt vào danh sách đen : http://dulich.vnexpress.net/tin-tuc/cong-dong/dau-chan/khach-trung-quoc-dot-tien-o-da-nang-bi-liet-vao-danh-sach-den-3483784.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Ngành đường sắt nhận chuyển hàng cứu trợ miễn phí cho đồng bào miền Trung : http://thanhnien.vn/doi-song/nganh-duong-sat-nhan-chuyen-hang-cuu-tro-mien-phi-cho-dong-bao-mien-trung-756611.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Nội Bài đứng thứ 19/30 sân bay tốt nhất châu Á : http://tuoitre.vn/tin/kinh-te/20161018/noi-bai-dung-thu-19-30-san-bay-tot-nhat-chau-a/1190575.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Giết vợ và người tình của vợ nhận y án tử hình : http://nld.com.vn/thoi-su-trong-nuoc/giet-vo-va-nguoi-tinh-cua-vo-nhan-y-an-tu-hinh-20161019161944582.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Quốc lộ 1 bị chia cắt, hơn 30.000 nhà dân miền Trung ngập sâu : http://vnexpress.net/tin-tuc/thoi-su/quoc-lo-1-bi-chia-cat-hon-30-000-nha-dan-mien-trung-ngap-sau-3483975.html
+2016-10-21 10:43:35 INFO  searcher:101 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-21 10:43:35 INFO  searcher:101 -  MobiFone chính thức được cấp phép dịch vụ 4G : http://thanhnien.vn/cong-nghe/mobifone-chinh-thuc-duoc-cap-phep-dich-vu-4g-755978.html
+2016-10-21 10:43:35 INFO  searcher:101 -  ​Mẹ như thế, dạy con cái kiểu gì? : http://tuoitre.vn/tin/ban-doc/20161018/me-nhu-the-day-con-cai-kieu-gi/1190278.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Rơi nước mắt hình ảnh con bò vô vọng ở xã Văn Hóa : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html
+2016-10-21 10:43:35 INFO  searcher:101 -  45 đoàn tàu bị tắc do lũ lớn ở miền Trung : http://vnexpress.net/tin-tuc/thoi-su/giao-thong/45-doan-tau-bi-tac-do-lu-lon-o-mien-trung-3483985.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/kinh-te/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Hủy hàng loạt chuyến bay đi/đến Hải Phòng do bão : http://tuoitre.vn/tin/kinh-te/20161018/huy-hang-loat-chuyen-bay-di-den-hai-phong-do-bao/1190746.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Khu nghỉ dưỡng của các tỉ phú tại Đà Nẵng : http://tuoitre.vn/tin/kinh-te/20161018/khu-nghi-duong-cua-cac-ti-phu-tai-da-nang/1190287.html
+2016-10-21 10:43:35 INFO  searcher:101 -  ​Đà Nẵng được vinh danh điểm đến hàng đầu châu Á : http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Cô giáo làm xước má học sinh bị phạt 5 triệu đồng : http://nld.com.vn/thoi-su-trong-nuoc/co-giao-lam-xuoc-ma-hoc-sinh-bi-phat-5-trieu-dong-20161019105436862.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Sẽ đổi mới hệ thống đánh giá năng lực ngoại ngữ quốc gia : http://thanhnien.vn/giao-duc/se-doi-moi-he-thong-danh-gia-nang-luc-ngoai-ngu-quoc-gia-755126.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Xe né trạm thu phí quần nát đường làng : http://nld.com.vn/ban-doc/xe-ne-tram-thu-phi-quan-nat-duong-lang-20161016215638117.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Vụ bệnh nhân chết tại BV Hội An: Bộ Y tế yêu cầu báo cáo trước ngày 20-10 : http://nld.com.vn/thoi-su-trong-nuoc/vu-benh-nhan-chet-tai-bv-hoi-an-bo-y-te-yeu-cau-bao-cao-truoc-ngay-20-10-20161019163505497.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Phạt giáo viên đánh học sinh 5 triệu đồng, kiểm điểm phụ huynh gây náo loạn : http://thanhnien.vn/giao-duc/phat-giao-vien-danh-hoc-sinh-5-trieu-dong-kiem-diem-phu-huynh-gay-nao-loan-756542.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Đình chỉ công tác 1 tháng cô giáo làm xước má học sinh : http://tuoitre.vn/tin/giao-duc/20161019/dinh-chi-cong-tac-1-thang-co-giao-lam-xuoc-ma-hoc-sinh/1191106.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bệnh viện đắt quá, đâu phải nhà thương! : http://nld.com.vn/suc-khoe/benh-vien-dat-qua-dau-phai-nha-thuong-20161013231849535.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Trong 48 tiếng, MC Phan Anh vận động 10 tỉ đồng giúp dân miền Trung bị lũ : http://thanhnien.vn/gioi-tre/trong-48-tieng-mc-phan-anh-van-dong-10-ti-dong-giup-dan-mien-trung-bi-lu-755891.html
+2016-10-21 10:43:35 INFO  searcher:101 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão số 7 vừa qua, siêu bão trên cấp 17 nối gót vào Biển Đông : http://nld.com.vn/thoi-su-trong-nuoc/bao-so-7-vua-qua-sieu-bao-tren-cap-17-noi-got-vao-bien-dong-2016101822091307.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Giáo viên xông vào trường tát cô giáo : http://nld.com.vn/thoi-su-trong-nuoc/giao-vien-xong-vao-truong-tat-co-giao-20161018154102932.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Chủ nhân giải xổ số 92 tỷ nhận chuyển khoản một lần : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-nhan-giai-xo-so-92-ty-nhan-chuyen-khoan-mot-lan-3485690.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/thoi-su-trong-nuoc/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-21 10:43:35 INFO  searcher:101 -  'Trùm Hàn Quốc bị bắt khi du lịch cùng chân dài ở Đà Nẵng' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/trum-han-quoc-bi-bat-khi-du-lich-cung-chan-dai-o-da-nang-nong-tren-vitalk-3483638.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Con bị xước má, mẹ vào trường tát cô giáo ngã dúi dụi : http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Chủ tiệm tóc ép nhân viên kích dục chiều khách : http://vnexpress.net/tin-tuc/phap-luat/chu-tiem-toc-ep-nhan-vien-kich-duc-chieu-khach-3484231.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Giết người vì cho rằng đốt giấy xúc phạm : http://vnexpress.net/tin-tuc/phap-luat/giet-nguoi-vi-cho-rang-dot-giay-xuc-pham-3484261.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Thư viện điện tử miễn phí  dành cho học sinh Đà Nẵng : http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html
+2016-10-21 10:43:35 INFO  searcher:101 -  'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Hoa Đà Lạt khan hiếm dịp 20-10 : http://nld.com.vn/kinh-te/hoa-da-lat-khan-hiem-dip-20-10-20161019114119322.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Đường Trường Sa nứt toác tạo 'hố tử thần': Rào chắn, phân luồng khu bờ kè : http://thanhnien.vn/doi-song/duong-truong-sa-nut-toac-tao-ho-tu-than-rao-chan-phan-luong-khu-bo-ke-730609.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Trên 67% mẫu nước mắm khảo sát có nồng độ thạch tín vượt ngưỡng cho phép : http://thanhnien.vn/kinh-doanh/tren-67-mau-nuoc-mam-khao-sat-co-nong-do-thach-tin-vuot-nguong-cho-phep-755929.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Clip du khách Trung Quốc thô bạo với người bán chuối ở Đà Nẵng gây phẫn nộ : http://thanhnien.vn/gioi-tre/clip-du-khach-trung-quoc-tho-bao-voi-nguoi-ban-chuoi-o-da-nang-gay-phan-no-719897.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Những điều kỳ thú trên cung đường 14G : http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Người trúng xổ số điện toán đã nhận 92 tỉ đồng : http://vnmoney.nld.com.vn/vnmoney/nguoi-trung-xo-so-dien-toan-da-nhan-92-ti-dong-20161018174921653.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:43:35 INFO  searcher:101 -  ‘Nóng’ vụ nhà máy thép Việt Pháp di dời lên thượng nguồn Vu Gia : http://thanhnien.vn/thoi-su/nong-vu-nha-may-thep-di-doi-len-thuong-nguon-vu-gia-thu-bon-754700.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Chủ nhân trúng thưởng 92 tỉ đồng đã nhận tiền : http://thanhnien.vn/thoi-su/chu-nhan-trung-thuong-92-ti-dong-da-nhan-tien-756349.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Tiếp tục xử lý dioxin ở Đà Nẵng để mở rộng sân bay : http://nld.com.vn/thoi-su-trong-nuoc/tiep-tuc-xu-ly-dioxin-o-da-nang-de-mo-rong-san-bay-20161018120816711.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Di dời nhà máy thép Việt Pháp: Người dân được tham vấn như thế nào? : http://thanhnien.vn/thoi-su/di-doi-nha-may-thep-viet-phap-nguoi-dan-duoc-tham-van-nhu-the-nao-755082.html
+2016-10-21 10:43:35 INFO  searcher:101 -  MC Phan Anh: 'Tôi rớt nước mắt khi thấy số tiền ủng hộ đến 8 tỉ đồng' : http://thanhnien.vn/van-hoa/mc-phan-anh-toi-rot-nuoc-mat-khi-thay-so-tien-ung-ho-den-8-ti-dong-756060.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Hiện tượng Phan Anh- Quyền lực của người nổi tiếng : http://nld.com.vn/van-hoa-van-nghe/hien-tuong-phan-anh-quyen-luc-cua-nguoi-noi-tieng-20161018120105739.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Phong tỏa đèo Hải Vân ngăn vụ nổ do lật xe bồn 16 tấn ga : http://video.thanhnien.vn/thoi-su/phong-toa-deo-hai-van-ngan-vu-no-do-lat-xe-bon-16-tan-ga-57750.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Thi thể nam bảo vệ ở bãi tắm : http://vnexpress.net/tin-tuc/phap-luat/thi-the-nam-bao-ve-o-bai-tam-3484108.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bắt đối tượng giết người sau 22 năm lẩn trốn : http://nld.com.vn/phap-luat/bat-doi-tuong-giet-nguoi-sau-22-nam-lan-tron-20161016164729525.htm
+2016-10-21 10:43:35 INFO  searcher:101 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão cấp 12 sắp vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-cap-12-sap-vao-bien-dong-3484275.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão Sarika tiến vào Biển Đông : http://thanhnien.vn/thoi-su/bao-sarika-tien-vao-bien-dong-755508.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Con bị đánh, phụ huynh lao vào trường tát nhầm giáo viên : http://thanhnien.vn/giao-duc/con-bi-danh-phu-huynh-lao-vao-truong-tat-nham-giao-vien-756186.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Ngân hàng táo bạo đổi nợ xấu thành vốn góp : http://thanhnien.vn/kinh-doanh/ngan-hang-tao-bao-doi-no-xau-thanh-von-gop-754138.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bức ảnh con bò tuyệt vọng trong lũ gây xúc động : http://vnexpress.net/tin-tuc/thoi-su/buc-anh-con-bo-tuyet-vong-trong-lu-gay-xuc-dong-3484449.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Quà của <em>Tuổi Trẻ</em> đến với bà con vùng lũ Quảng Bình : http://tuoitre.vn/tin/ban-doc/20161018/qua-cua-tuoi-tre-den-voi-ba-con-vung-lu-quang-binh/1190608.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-21 10:43:35 INFO  searcher:101 -  Bão Sarika có thể vào Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-co-the-vao-quang-ninh-hai-phong-3485245.html
+2016-10-21 10:51:19 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:51:19 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:51:19 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:51:19Z
+2016-10-21 10:51:19 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:51:19Z TO NOW]] get 110 results
+2016-10-21 10:53:11 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:53:11 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:53:12 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:53:12Z
+2016-10-21 10:53:12 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:53:12Z TO NOW]] get 110 results
+2016-10-21 10:53:41 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:53:41 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:53:41 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:53:12Z
+2016-10-21 10:53:42 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:53:12Z TO NOW]] get 0 results
+2016-10-21 10:53:50 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:53:50 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:53:50 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:53:50Z
+2016-10-21 10:53:51 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:53:50Z TO NOW]] get 110 results
+2016-10-21 10:54:44 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:54:44 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:54:45 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:54:45Z
+2016-10-21 10:54:45 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:54:45Z TO NOW]] get 110 results
+2016-10-21 10:56:05 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:56:05 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:56:05 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:56:05Z
+2016-10-21 10:56:06 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:56:05Z TO NOW]] get 110 results
+2016-10-21 10:57:41 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:57:41 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:57:41 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T03:56:05Z
+2016-10-21 10:57:42 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T03:56:05Z TO NOW]] get 0 results
+2016-10-21 10:57:50 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:57:50 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:57:50 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:57:50Z
+2016-10-21 10:57:50 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:57:50Z TO NOW]] get 110 results
+2016-10-21 10:58:49 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 10:58:49 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 10:58:49 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T03:58:49Z
+2016-10-21 10:58:50 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T03:58:49Z TO NOW]] get 110 results
+2016-10-21 10:58:50 INFO  searcher:100 -  Đã có người trúng 92 tỉ đồng vé số Vietlott : http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão tăng 2 cấp khi vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-tang-2-cap-khi-vao-bien-dong-3484433.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Đất đã trôi sông vẫn được cấp giấy đỏ : http://tuoitre.vn/tin/phap-luat/20161019/dat-da-troi-song-van-duoc-cap-giay-do/1191013.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Tin tức, tin nóng, đọc báo điện tử : http://tuoitre.vn/
+2016-10-21 10:58:50 INFO  searcher:100 -  Chàng trai 9X bỏ phố về quê mở trang trại trồng nấm : http://khoinghiep.thanhnien.vn/20161014/chang-trai-9x-bo-pho-ve-que-mo-trang-trai-trong-nam-337
+2016-10-21 10:58:50 INFO  searcher:100 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Dừng chân ở làng chài Lăng Cô, vẻ đẹp huyền ảo : http://thanhnien.vn/doi-song/dung-chan-o-lang-chai-lang-co-ve-dep-huyen-ao-751567.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Truy tìm xe tải vượt đèn đỏ, bỏ chạy sau tai nạn chết người : http://thanhnien.vn/thoi-su/truy-tim-xe-tai-vuot-den-do-bo-chay-sau-tai-nan-chet-nguoi-756434.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Việt Nam giành nhiều danh hiệu tại 'Giải Oscar du lịch' : http://dulich.vnexpress.net/tin-tuc/viet-nam/viet-nam-gianh-nhieu-danh-hieu-tai-giai-oscar-du-lich-3484255.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Phụ huynh tát cô giáo giữa trường vì con bị xước má : http://vnexpress.net/tin-tuc/giao-duc/phu-huynh-tat-co-giao-giua-truong-vi-con-bi-xuoc-ma-3485477.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Saigontourist chùm tour siêu tiết kiệm, khởi hành từ Hà Nội : http://thitruong.tuoitre.vn/giai-tri/du-lich/saigontourist-chum-tour-sieu-tiet-kiem-khoi-hanh-tu-ha-noi_434783.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Xin ngủ nhờ rồi ra tay sát hại dã man bảo vệ bãi tắm : http://nld.com.vn/phap-luat/xin-ngu-nho-roi-ra-tay-sat-hai-da-man-bao-ve-bai-tam-20161018180315106.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Vượt ngàn cây số giết vợ và tình địch: Y án tử hình với Trần Đình Thịnh : http://thanhnien.vn/thoi-su/vuot-ngan-cay-so-giet-vo-va-tinh-dich-y-an-tu-hinh-voi-tran-dinh-thinh-756612.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bộ Y tế không chủ trương cổ phần hóa bệnh viện : http://thanhnien.vn/kinh-doanh/bo-y-te-khong-chu-truong-co-phan-hoa-benh-vien-756487.html
+2016-10-21 10:58:50 INFO  searcher:100 -  3 chiến hạm Hải quân Trung Quốc thăm cảng Cam Ranh : http://vnexpress.net/tin-tuc/thoi-su/3-chien-ham-hai-quan-trung-quoc-tham-cang-cam-ranh-3486062.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão Sarika hướng Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-huong-quang-ninh-nam-dinh-3484723.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Hai vợ chồng bất tỉnh trên vũng máu trong đêm cãi vã : http://vnexpress.net/tin-tuc/phap-luat/hai-vo-chong-bat-tinh-tren-vung-mau-trong-dem-cai-va-3486278.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Tá hỏa phát hiện thi thể treo lơ lửng ở chân cầu : http://nld.com.vn/thoi-su-trong-nuoc/ta-hoa-phat-hien-thi-the-treo-lo-lung-o-chan-cau-20161019155051054.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Nhiều nhà nghỉ, khách sạn xây trái phép ở Lý Sơn : http://thanhnien.vn/thoi-su/nhieu-nha-nghi-khach-san-xay-trai-phep-o-ly-son-755507.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Nhà ấn tượng từ trong ra ngoài như resort ở Đà Nẵng : http://thitruong.nld.com.vn/dia-oc/nha-an-tuong-tu-trong-ra-ngoai-nhu-resort-o-da-nang-20161017083455969.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Giới trẻ hấp dẫn với nghề cho thuê cơ thể : http://nld.com.vn/an-ninh-trat-tu/gioi-tre-hap-dan-voi-nghe-cho-thue-co-the-20161017152426121.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Sáng mai bão cấp 12 vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/sang-mai-bao-cap-12-vao-bien-dong-3484275.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Mưa lũ trên diện rộng trong tuần sau : http://thanhnien.vn/doi-song/mua-lu-tren-dien-rong-trong-tuan-sau-755130.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Trường Giang tình tứ ôm eo Minh Hằng tại sự kiện : http://thanhnien.vn/van-hoa/truong-giang-tinh-tu-om-eo-minh-hang-tai-su-kien-755199.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Chồng cầm dao cứa cổ vợ rồi tự sát : http://nld.com.vn/thoi-su-trong-nuoc/chong-cam-dao-cua-co-vo-roi-tu-sat-20161019132218806.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Tự tạo cơ hội: Nuôi thả heo rừng : http://thanhnien.vn/kinh-doanh/tu-tao-co-hoi-nuoi-tha-heo-rung-755220.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Khách Trung Quốc đốt tiền ở Đà Nẵng bị liệt vào danh sách đen : http://dulich.vnexpress.net/tin-tuc/cong-dong/dau-chan/khach-trung-quoc-dot-tien-o-da-nang-bi-liet-vao-danh-sach-den-3483784.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Ngành đường sắt nhận chuyển hàng cứu trợ miễn phí cho đồng bào miền Trung : http://thanhnien.vn/doi-song/nganh-duong-sat-nhan-chuyen-hang-cuu-tro-mien-phi-cho-dong-bao-mien-trung-756611.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Nội Bài đứng thứ 19/30 sân bay tốt nhất châu Á : http://tuoitre.vn/tin/kinh-te/20161018/noi-bai-dung-thu-19-30-san-bay-tot-nhat-chau-a/1190575.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Giết vợ và người tình của vợ nhận y án tử hình : http://nld.com.vn/thoi-su-trong-nuoc/giet-vo-va-nguoi-tinh-cua-vo-nhan-y-an-tu-hinh-20161019161944582.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Quốc lộ 1 bị chia cắt, hơn 30.000 nhà dân miền Trung ngập sâu : http://vnexpress.net/tin-tuc/thoi-su/quoc-lo-1-bi-chia-cat-hon-30-000-nha-dan-mien-trung-ngap-sau-3483975.html
+2016-10-21 10:58:50 INFO  searcher:100 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-21 10:58:50 INFO  searcher:100 -  MobiFone chính thức được cấp phép dịch vụ 4G : http://thanhnien.vn/cong-nghe/mobifone-chinh-thuc-duoc-cap-phep-dich-vu-4g-755978.html
+2016-10-21 10:58:50 INFO  searcher:100 -  ​Mẹ như thế, dạy con cái kiểu gì? : http://tuoitre.vn/tin/ban-doc/20161018/me-nhu-the-day-con-cai-kieu-gi/1190278.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Rơi nước mắt hình ảnh con bò vô vọng ở xã Văn Hóa : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html
+2016-10-21 10:58:50 INFO  searcher:100 -  45 đoàn tàu bị tắc do lũ lớn ở miền Trung : http://vnexpress.net/tin-tuc/thoi-su/giao-thong/45-doan-tau-bi-tac-do-lu-lon-o-mien-trung-3483985.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/kinh-te/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Hủy hàng loạt chuyến bay đi/đến Hải Phòng do bão : http://tuoitre.vn/tin/kinh-te/20161018/huy-hang-loat-chuyen-bay-di-den-hai-phong-do-bao/1190746.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Khu nghỉ dưỡng của các tỉ phú tại Đà Nẵng : http://tuoitre.vn/tin/kinh-te/20161018/khu-nghi-duong-cua-cac-ti-phu-tai-da-nang/1190287.html
+2016-10-21 10:58:50 INFO  searcher:100 -  ​Đà Nẵng được vinh danh điểm đến hàng đầu châu Á : http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Cô giáo làm xước má học sinh bị phạt 5 triệu đồng : http://nld.com.vn/thoi-su-trong-nuoc/co-giao-lam-xuoc-ma-hoc-sinh-bi-phat-5-trieu-dong-20161019105436862.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Sẽ đổi mới hệ thống đánh giá năng lực ngoại ngữ quốc gia : http://thanhnien.vn/giao-duc/se-doi-moi-he-thong-danh-gia-nang-luc-ngoai-ngu-quoc-gia-755126.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Xe né trạm thu phí quần nát đường làng : http://nld.com.vn/ban-doc/xe-ne-tram-thu-phi-quan-nat-duong-lang-20161016215638117.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Vụ bệnh nhân chết tại BV Hội An: Bộ Y tế yêu cầu báo cáo trước ngày 20-10 : http://nld.com.vn/thoi-su-trong-nuoc/vu-benh-nhan-chet-tai-bv-hoi-an-bo-y-te-yeu-cau-bao-cao-truoc-ngay-20-10-20161019163505497.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Phạt giáo viên đánh học sinh 5 triệu đồng, kiểm điểm phụ huynh gây náo loạn : http://thanhnien.vn/giao-duc/phat-giao-vien-danh-hoc-sinh-5-trieu-dong-kiem-diem-phu-huynh-gay-nao-loan-756542.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Đình chỉ công tác 1 tháng cô giáo làm xước má học sinh : http://tuoitre.vn/tin/giao-duc/20161019/dinh-chi-cong-tac-1-thang-co-giao-lam-xuoc-ma-hoc-sinh/1191106.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bệnh viện đắt quá, đâu phải nhà thương! : http://nld.com.vn/suc-khoe/benh-vien-dat-qua-dau-phai-nha-thuong-20161013231849535.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Trong 48 tiếng, MC Phan Anh vận động 10 tỉ đồng giúp dân miền Trung bị lũ : http://thanhnien.vn/gioi-tre/trong-48-tieng-mc-phan-anh-van-dong-10-ti-dong-giup-dan-mien-trung-bi-lu-755891.html
+2016-10-21 10:58:50 INFO  searcher:100 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão số 7 vừa qua, siêu bão trên cấp 17 nối gót vào Biển Đông : http://nld.com.vn/thoi-su-trong-nuoc/bao-so-7-vua-qua-sieu-bao-tren-cap-17-noi-got-vao-bien-dong-2016101822091307.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Giáo viên xông vào trường tát cô giáo : http://nld.com.vn/thoi-su-trong-nuoc/giao-vien-xong-vao-truong-tat-co-giao-20161018154102932.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Chủ nhân giải xổ số 92 tỷ nhận chuyển khoản một lần : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-nhan-giai-xo-so-92-ty-nhan-chuyen-khoan-mot-lan-3485690.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/thoi-su-trong-nuoc/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-21 10:58:50 INFO  searcher:100 -  'Trùm Hàn Quốc bị bắt khi du lịch cùng chân dài ở Đà Nẵng' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/trum-han-quoc-bi-bat-khi-du-lich-cung-chan-dai-o-da-nang-nong-tren-vitalk-3483638.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Con bị xước má, mẹ vào trường tát cô giáo ngã dúi dụi : http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Chủ tiệm tóc ép nhân viên kích dục chiều khách : http://vnexpress.net/tin-tuc/phap-luat/chu-tiem-toc-ep-nhan-vien-kich-duc-chieu-khach-3484231.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Giết người vì cho rằng đốt giấy xúc phạm : http://vnexpress.net/tin-tuc/phap-luat/giet-nguoi-vi-cho-rang-dot-giay-xuc-pham-3484261.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Thư viện điện tử miễn phí  dành cho học sinh Đà Nẵng : http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html
+2016-10-21 10:58:50 INFO  searcher:100 -  'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Hoa Đà Lạt khan hiếm dịp 20-10 : http://nld.com.vn/kinh-te/hoa-da-lat-khan-hiem-dip-20-10-20161019114119322.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Đường Trường Sa nứt toác tạo 'hố tử thần': Rào chắn, phân luồng khu bờ kè : http://thanhnien.vn/doi-song/duong-truong-sa-nut-toac-tao-ho-tu-than-rao-chan-phan-luong-khu-bo-ke-730609.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Trên 67% mẫu nước mắm khảo sát có nồng độ thạch tín vượt ngưỡng cho phép : http://thanhnien.vn/kinh-doanh/tren-67-mau-nuoc-mam-khao-sat-co-nong-do-thach-tin-vuot-nguong-cho-phep-755929.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Clip du khách Trung Quốc thô bạo với người bán chuối ở Đà Nẵng gây phẫn nộ : http://thanhnien.vn/gioi-tre/clip-du-khach-trung-quoc-tho-bao-voi-nguoi-ban-chuoi-o-da-nang-gay-phan-no-719897.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Những điều kỳ thú trên cung đường 14G : http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Người trúng xổ số điện toán đã nhận 92 tỉ đồng : http://vnmoney.nld.com.vn/vnmoney/nguoi-trung-xo-so-dien-toan-da-nhan-92-ti-dong-20161018174921653.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 10:58:50 INFO  searcher:100 -  ‘Nóng’ vụ nhà máy thép Việt Pháp di dời lên thượng nguồn Vu Gia : http://thanhnien.vn/thoi-su/nong-vu-nha-may-thep-di-doi-len-thuong-nguon-vu-gia-thu-bon-754700.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Chủ nhân trúng thưởng 92 tỉ đồng đã nhận tiền : http://thanhnien.vn/thoi-su/chu-nhan-trung-thuong-92-ti-dong-da-nhan-tien-756349.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Tiếp tục xử lý dioxin ở Đà Nẵng để mở rộng sân bay : http://nld.com.vn/thoi-su-trong-nuoc/tiep-tuc-xu-ly-dioxin-o-da-nang-de-mo-rong-san-bay-20161018120816711.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Di dời nhà máy thép Việt Pháp: Người dân được tham vấn như thế nào? : http://thanhnien.vn/thoi-su/di-doi-nha-may-thep-viet-phap-nguoi-dan-duoc-tham-van-nhu-the-nao-755082.html
+2016-10-21 10:58:50 INFO  searcher:100 -  MC Phan Anh: 'Tôi rớt nước mắt khi thấy số tiền ủng hộ đến 8 tỉ đồng' : http://thanhnien.vn/van-hoa/mc-phan-anh-toi-rot-nuoc-mat-khi-thay-so-tien-ung-ho-den-8-ti-dong-756060.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Hiện tượng Phan Anh- Quyền lực của người nổi tiếng : http://nld.com.vn/van-hoa-van-nghe/hien-tuong-phan-anh-quyen-luc-cua-nguoi-noi-tieng-20161018120105739.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Phong tỏa đèo Hải Vân ngăn vụ nổ do lật xe bồn 16 tấn ga : http://video.thanhnien.vn/thoi-su/phong-toa-deo-hai-van-ngan-vu-no-do-lat-xe-bon-16-tan-ga-57750.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Thi thể nam bảo vệ ở bãi tắm : http://vnexpress.net/tin-tuc/phap-luat/thi-the-nam-bao-ve-o-bai-tam-3484108.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bắt đối tượng giết người sau 22 năm lẩn trốn : http://nld.com.vn/phap-luat/bat-doi-tuong-giet-nguoi-sau-22-nam-lan-tron-20161016164729525.htm
+2016-10-21 10:58:50 INFO  searcher:100 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão cấp 12 sắp vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-cap-12-sap-vao-bien-dong-3484275.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão Sarika tiến vào Biển Đông : http://thanhnien.vn/thoi-su/bao-sarika-tien-vao-bien-dong-755508.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Con bị đánh, phụ huynh lao vào trường tát nhầm giáo viên : http://thanhnien.vn/giao-duc/con-bi-danh-phu-huynh-lao-vao-truong-tat-nham-giao-vien-756186.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Ngân hàng táo bạo đổi nợ xấu thành vốn góp : http://thanhnien.vn/kinh-doanh/ngan-hang-tao-bao-doi-no-xau-thanh-von-gop-754138.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bức ảnh con bò tuyệt vọng trong lũ gây xúc động : http://vnexpress.net/tin-tuc/thoi-su/buc-anh-con-bo-tuyet-vong-trong-lu-gay-xuc-dong-3484449.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Quà của <em>Tuổi Trẻ</em> đến với bà con vùng lũ Quảng Bình : http://tuoitre.vn/tin/ban-doc/20161018/qua-cua-tuoi-tre-den-voi-ba-con-vung-lu-quang-binh/1190608.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-21 10:58:50 INFO  searcher:100 -  Bão Sarika có thể vào Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-co-the-vao-quang-ninh-hai-phong-3485245.html
+2016-10-21 11:01:19 INFO  searcher:29 - 1 domains selected to search
+2016-10-21 11:01:19 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-21 11:01:20 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-17T04:01:20Z
+2016-10-21 11:01:20 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-17T04:01:20Z TO NOW]] get 110 results
+2016-10-21 11:01:20 INFO  searcher:100 -  Đã có người trúng 92 tỉ đồng vé số Vietlott : http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão tăng 2 cấp khi vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-tang-2-cap-khi-vao-bien-dong-3484433.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Đất đã trôi sông vẫn được cấp giấy đỏ : http://tuoitre.vn/tin/phap-luat/20161019/dat-da-troi-song-van-duoc-cap-giay-do/1191013.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Tin tức, tin nóng, đọc báo điện tử : http://tuoitre.vn/
+2016-10-21 11:01:20 INFO  searcher:100 -  Chàng trai 9X bỏ phố về quê mở trang trại trồng nấm : http://khoinghiep.thanhnien.vn/20161014/chang-trai-9x-bo-pho-ve-que-mo-trang-trai-trong-nam-337
+2016-10-21 11:01:20 INFO  searcher:100 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Dừng chân ở làng chài Lăng Cô, vẻ đẹp huyền ảo : http://thanhnien.vn/doi-song/dung-chan-o-lang-chai-lang-co-ve-dep-huyen-ao-751567.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Truy tìm xe tải vượt đèn đỏ, bỏ chạy sau tai nạn chết người : http://thanhnien.vn/thoi-su/truy-tim-xe-tai-vuot-den-do-bo-chay-sau-tai-nan-chet-nguoi-756434.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Việt Nam giành nhiều danh hiệu tại 'Giải Oscar du lịch' : http://dulich.vnexpress.net/tin-tuc/viet-nam/viet-nam-gianh-nhieu-danh-hieu-tai-giai-oscar-du-lich-3484255.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Phụ huynh tát cô giáo giữa trường vì con bị xước má : http://vnexpress.net/tin-tuc/giao-duc/phu-huynh-tat-co-giao-giua-truong-vi-con-bi-xuoc-ma-3485477.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Saigontourist chùm tour siêu tiết kiệm, khởi hành từ Hà Nội : http://thitruong.tuoitre.vn/giai-tri/du-lich/saigontourist-chum-tour-sieu-tiet-kiem-khoi-hanh-tu-ha-noi_434783.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Xin ngủ nhờ rồi ra tay sát hại dã man bảo vệ bãi tắm : http://nld.com.vn/phap-luat/xin-ngu-nho-roi-ra-tay-sat-hai-da-man-bao-ve-bai-tam-20161018180315106.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Vượt ngàn cây số giết vợ và tình địch: Y án tử hình với Trần Đình Thịnh : http://thanhnien.vn/thoi-su/vuot-ngan-cay-so-giet-vo-va-tinh-dich-y-an-tu-hinh-voi-tran-dinh-thinh-756612.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bộ Y tế không chủ trương cổ phần hóa bệnh viện : http://thanhnien.vn/kinh-doanh/bo-y-te-khong-chu-truong-co-phan-hoa-benh-vien-756487.html
+2016-10-21 11:01:20 INFO  searcher:100 -  3 chiến hạm Hải quân Trung Quốc thăm cảng Cam Ranh : http://vnexpress.net/tin-tuc/thoi-su/3-chien-ham-hai-quan-trung-quoc-tham-cang-cam-ranh-3486062.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão Sarika hướng Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-huong-quang-ninh-nam-dinh-3484723.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Hai vợ chồng bất tỉnh trên vũng máu trong đêm cãi vã : http://vnexpress.net/tin-tuc/phap-luat/hai-vo-chong-bat-tinh-tren-vung-mau-trong-dem-cai-va-3486278.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Tá hỏa phát hiện thi thể treo lơ lửng ở chân cầu : http://nld.com.vn/thoi-su-trong-nuoc/ta-hoa-phat-hien-thi-the-treo-lo-lung-o-chan-cau-20161019155051054.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Nhiều nhà nghỉ, khách sạn xây trái phép ở Lý Sơn : http://thanhnien.vn/thoi-su/nhieu-nha-nghi-khach-san-xay-trai-phep-o-ly-son-755507.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Nhà ấn tượng từ trong ra ngoài như resort ở Đà Nẵng : http://thitruong.nld.com.vn/dia-oc/nha-an-tuong-tu-trong-ra-ngoai-nhu-resort-o-da-nang-20161017083455969.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Giới trẻ hấp dẫn với nghề cho thuê cơ thể : http://nld.com.vn/an-ninh-trat-tu/gioi-tre-hap-dan-voi-nghe-cho-thue-co-the-20161017152426121.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Thanh niên Quảng Bình hỗ trợ dân vệ sinh vùng lũ : http://thanhnien.vn/gioi-tre/thanh-nien-quang-binh-ho-tro-dan-ve-sinh-vung-lu-755620.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Sáng mai bão cấp 12 vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/sang-mai-bao-cap-12-vao-bien-dong-3484275.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Mưa lũ trên diện rộng trong tuần sau : http://thanhnien.vn/doi-song/mua-lu-tren-dien-rong-trong-tuan-sau-755130.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Trường Giang tình tứ ôm eo Minh Hằng tại sự kiện : http://thanhnien.vn/van-hoa/truong-giang-tinh-tu-om-eo-minh-hang-tai-su-kien-755199.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Chồng cầm dao cứa cổ vợ rồi tự sát : http://nld.com.vn/thoi-su-trong-nuoc/chong-cam-dao-cua-co-vo-roi-tu-sat-20161019132218806.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Tự tạo cơ hội: Nuôi thả heo rừng : http://thanhnien.vn/kinh-doanh/tu-tao-co-hoi-nuoi-tha-heo-rung-755220.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Khách Trung Quốc đốt tiền ở Đà Nẵng bị liệt vào danh sách đen : http://dulich.vnexpress.net/tin-tuc/cong-dong/dau-chan/khach-trung-quoc-dot-tien-o-da-nang-bi-liet-vao-danh-sach-den-3483784.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Cụ ông nửa đời cứu những người bị rắn cắn : http://thanhnien.vn/suc-khoe/cu-ong-nua-doi-cuu-nguoi-bi-ran-can-754963.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bạn đọc <em>Tuổi Trẻ</em> đóng góp giúp đồng bào vùng lũ : http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Ngành đường sắt nhận chuyển hàng cứu trợ miễn phí cho đồng bào miền Trung : http://thanhnien.vn/doi-song/nganh-duong-sat-nhan-chuyen-hang-cuu-tro-mien-phi-cho-dong-bao-mien-trung-756611.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Nội Bài đứng thứ 19/30 sân bay tốt nhất châu Á : http://tuoitre.vn/tin/kinh-te/20161018/noi-bai-dung-thu-19-30-san-bay-tot-nhat-chau-a/1190575.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Giết vợ và người tình của vợ nhận y án tử hình : http://nld.com.vn/thoi-su-trong-nuoc/giet-vo-va-nguoi-tinh-cua-vo-nhan-y-an-tu-hinh-20161019161944582.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Quốc lộ 1 bị chia cắt, hơn 30.000 nhà dân miền Trung ngập sâu : http://vnexpress.net/tin-tuc/thoi-su/quoc-lo-1-bi-chia-cat-hon-30-000-nha-dan-mien-trung-ngap-sau-3483975.html
+2016-10-21 11:01:20 INFO  searcher:100 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-21 11:01:20 INFO  searcher:100 -  MobiFone chính thức được cấp phép dịch vụ 4G : http://thanhnien.vn/cong-nghe/mobifone-chinh-thuc-duoc-cap-phep-dich-vu-4g-755978.html
+2016-10-21 11:01:20 INFO  searcher:100 -  ​Mẹ như thế, dạy con cái kiểu gì? : http://tuoitre.vn/tin/ban-doc/20161018/me-nhu-the-day-con-cai-kieu-gi/1190278.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Rơi nước mắt hình ảnh con bò vô vọng ở xã Văn Hóa : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html
+2016-10-21 11:01:20 INFO  searcher:100 -  45 đoàn tàu bị tắc do lũ lớn ở miền Trung : http://vnexpress.net/tin-tuc/thoi-su/giao-thong/45-doan-tau-bi-tac-do-lu-lon-o-mien-trung-3483985.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/kinh-te/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Hủy hàng loạt chuyến bay đi/đến Hải Phòng do bão : http://tuoitre.vn/tin/kinh-te/20161018/huy-hang-loat-chuyen-bay-di-den-hai-phong-do-bao/1190746.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Khu nghỉ dưỡng của các tỉ phú tại Đà Nẵng : http://tuoitre.vn/tin/kinh-te/20161018/khu-nghi-duong-cua-cac-ti-phu-tai-da-nang/1190287.html
+2016-10-21 11:01:20 INFO  searcher:100 -  ​Đà Nẵng được vinh danh điểm đến hàng đầu châu Á : http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Cô giáo làm xước má học sinh bị phạt 5 triệu đồng : http://nld.com.vn/thoi-su-trong-nuoc/co-giao-lam-xuoc-ma-hoc-sinh-bi-phat-5-trieu-dong-20161019105436862.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Sẽ đổi mới hệ thống đánh giá năng lực ngoại ngữ quốc gia : http://thanhnien.vn/giao-duc/se-doi-moi-he-thong-danh-gia-nang-luc-ngoai-ngu-quoc-gia-755126.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Trung Quốc muốn biến đá Chữ Thập thành căn cứ lớn nhất Biển Đông : http://thanhnien.vn/the-gioi/trung-quoc-muon-bien-da-chu-thap-thanh-can-cu-lon-nhat-bien-dong-756651.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Xe né trạm thu phí quần nát đường làng : http://nld.com.vn/ban-doc/xe-ne-tram-thu-phi-quan-nat-duong-lang-20161016215638117.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Vụ bệnh nhân chết tại BV Hội An: Bộ Y tế yêu cầu báo cáo trước ngày 20-10 : http://nld.com.vn/thoi-su-trong-nuoc/vu-benh-nhan-chet-tai-bv-hoi-an-bo-y-te-yeu-cau-bao-cao-truoc-ngay-20-10-20161019163505497.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Phạt giáo viên đánh học sinh 5 triệu đồng, kiểm điểm phụ huynh gây náo loạn : http://thanhnien.vn/giao-duc/phat-giao-vien-danh-hoc-sinh-5-trieu-dong-kiem-diem-phu-huynh-gay-nao-loan-756542.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Đình chỉ công tác 1 tháng cô giáo làm xước má học sinh : http://tuoitre.vn/tin/giao-duc/20161019/dinh-chi-cong-tac-1-thang-co-giao-lam-xuoc-ma-hoc-sinh/1191106.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bệnh viện đắt quá, đâu phải nhà thương! : http://nld.com.vn/suc-khoe/benh-vien-dat-qua-dau-phai-nha-thuong-20161013231849535.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Trong 48 tiếng, MC Phan Anh vận động 10 tỉ đồng giúp dân miền Trung bị lũ : http://thanhnien.vn/gioi-tre/trong-48-tieng-mc-phan-anh-van-dong-10-ti-dong-giup-dan-mien-trung-bi-lu-755891.html
+2016-10-21 11:01:20 INFO  searcher:100 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Thường trực Ban Bí thư: 'Trịnh Xuân Thanh trốn sang châu Âu' : http://vnexpress.net/tin-tuc/phap-luat/thuong-truc-ban-bi-thu-trinh-xuan-thanh-tron-sang-chau-au-3478664.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão số 7 vừa qua, siêu bão trên cấp 17 nối gót vào Biển Đông : http://nld.com.vn/thoi-su-trong-nuoc/bao-so-7-vua-qua-sieu-bao-tren-cap-17-noi-got-vao-bien-dong-2016101822091307.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Giáo viên xông vào trường tát cô giáo : http://nld.com.vn/thoi-su-trong-nuoc/giao-vien-xong-vao-truong-tat-co-giao-20161018154102932.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Chủ nhân giải xổ số 92 tỷ nhận chuyển khoản một lần : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-nhan-giai-xo-so-92-ty-nhan-chuyen-khoan-mot-lan-3485690.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Chính phủ đề xuất giảm 49 ngành, nghề kinh doanh có điều kiện : http://nld.com.vn/thoi-su-trong-nuoc/chinh-phu-de-xuat-giam-49-nganh-nghe-kinh-doanh-co-dieu-kien-20161018105535535.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Cảnh báo mưa lớn, sạt lở đất và lũ quét ở đông bắc Bắc bộ : http://thanhnien.vn/thoi-su/canh-bao-mua-lon-sat-lo-dat-va-lu-quet-o-dong-bac-bac-bo-756737.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Mỹ khẳng định Trung Quốc xây đảo nhân tạo ở Trường Sa phục vụ quân sự : http://thanhnien.vn/the-gioi/my-khang-dinh-trung-quoc-xay-dao-nhan-tao-o-truong-sa-phuc-vu-quan-su-754413.html
+2016-10-21 11:01:20 INFO  searcher:100 -  'Trùm Hàn Quốc bị bắt khi du lịch cùng chân dài ở Đà Nẵng' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/trum-han-quoc-bi-bat-khi-du-lich-cung-chan-dai-o-da-nang-nong-tren-vitalk-3483638.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Con bị xước má, mẹ vào trường tát cô giáo ngã dúi dụi : http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Chủ tiệm tóc ép nhân viên kích dục chiều khách : http://vnexpress.net/tin-tuc/phap-luat/chu-tiem-toc-ep-nhan-vien-kich-duc-chieu-khach-3484231.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Giết người vì cho rằng đốt giấy xúc phạm : http://vnexpress.net/tin-tuc/phap-luat/giet-nguoi-vi-cho-rang-dot-giay-xuc-pham-3484261.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Thêm MobiFone được cung cấp dịch vụ 4G : http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Thư viện điện tử miễn phí  dành cho học sinh Đà Nẵng : http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html
+2016-10-21 11:01:20 INFO  searcher:100 -  'Thương hiệu 141' của công an Hà Nội : http://vnexpress.net/tin-tuc/phap-luat/thuong-hieu-141-cua-cong-an-ha-noi-2223965.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Hoa Đà Lạt khan hiếm dịp 20-10 : http://nld.com.vn/kinh-te/hoa-da-lat-khan-hiem-dip-20-10-20161019114119322.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Đường Trường Sa nứt toác tạo 'hố tử thần': Rào chắn, phân luồng khu bờ kè : http://thanhnien.vn/doi-song/duong-truong-sa-nut-toac-tao-ho-tu-than-rao-chan-phan-luong-khu-bo-ke-730609.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Jetstar Pacific mở đường bay mới đến Quảng Châu, Hong Kong, Đài Bắc : http://dulich.vnexpress.net/tin-tuc/viet-nam/jetstar-pacific-mo-duong-bay-moi-den-quang-chau-hong-kong-dai-bac-3485600.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Trên 67% mẫu nước mắm khảo sát có nồng độ thạch tín vượt ngưỡng cho phép : http://thanhnien.vn/kinh-doanh/tren-67-mau-nuoc-mam-khao-sat-co-nong-do-thach-tin-vuot-nguong-cho-phep-755929.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Clip du khách Trung Quốc thô bạo với người bán chuối ở Đà Nẵng gây phẫn nộ : http://thanhnien.vn/gioi-tre/clip-du-khach-trung-quoc-tho-bao-voi-nguoi-ban-chuoi-o-da-nang-gay-phan-no-719897.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Những điều kỳ thú trên cung đường 14G : http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Người trúng xổ số điện toán đã nhận 92 tỉ đồng : http://vnmoney.nld.com.vn/vnmoney/nguoi-trung-xo-so-dien-toan-da-nhan-92-ti-dong-20161018174921653.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Cận cảnh loạt 'biệt thự ma' tiền tỉ giữa trung tâm Đà Nẵng : http://thanhnien.vn/doi-song/can-canh-loat-biet-thu-ma-tien-ti-giua-trung-tam-da-nang-754694.html
+2016-10-21 11:01:20 INFO  searcher:100 -  ‘Nóng’ vụ nhà máy thép Việt Pháp di dời lên thượng nguồn Vu Gia : http://thanhnien.vn/thoi-su/nong-vu-nha-may-thep-di-doi-len-thuong-nguon-vu-gia-thu-bon-754700.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Chủ nhân trúng thưởng 92 tỉ đồng đã nhận tiền : http://thanhnien.vn/thoi-su/chu-nhan-trung-thuong-92-ti-dong-da-nhan-tien-756349.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Tiếp tục xử lý dioxin ở Đà Nẵng để mở rộng sân bay : http://nld.com.vn/thoi-su-trong-nuoc/tiep-tuc-xu-ly-dioxin-o-da-nang-de-mo-rong-san-bay-20161018120816711.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Di dời nhà máy thép Việt Pháp: Người dân được tham vấn như thế nào? : http://thanhnien.vn/thoi-su/di-doi-nha-may-thep-viet-phap-nguoi-dan-duoc-tham-van-nhu-the-nao-755082.html
+2016-10-21 11:01:20 INFO  searcher:100 -  MC Phan Anh: 'Tôi rớt nước mắt khi thấy số tiền ủng hộ đến 8 tỉ đồng' : http://thanhnien.vn/van-hoa/mc-phan-anh-toi-rot-nuoc-mat-khi-thay-so-tien-ung-ho-den-8-ti-dong-756060.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Hiện tượng Phan Anh- Quyền lực của người nổi tiếng : http://nld.com.vn/van-hoa-van-nghe/hien-tuong-phan-anh-quyen-luc-cua-nguoi-noi-tieng-20161018120105739.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Phong tỏa đèo Hải Vân ngăn vụ nổ do lật xe bồn 16 tấn ga : http://video.thanhnien.vn/thoi-su/phong-toa-deo-hai-van-ngan-vu-no-do-lat-xe-bon-16-tan-ga-57750.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Thi thể nam bảo vệ ở bãi tắm : http://vnexpress.net/tin-tuc/phap-luat/thi-the-nam-bao-ve-o-bai-tam-3484108.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Người Việt ăn thịt chó thứ 2 thế giới: Cảnh bắt chó thản nhiên xảy ra! : http://thanhnien.vn/doi-song/nguoi-viet-an-thit-cho-thu-2-the-gioi-canh-bat-cho-than-nhien-xay-ra-755353.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bắt đối tượng giết người sau 22 năm lẩn trốn : http://nld.com.vn/phap-luat/bat-doi-tuong-giet-nguoi-sau-22-nam-lan-tron-20161016164729525.htm
+2016-10-21 11:01:20 INFO  searcher:100 -  Xuất hiện thêm siêu bão Haima, nguy cơ bão chồng bão : http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão cấp 12 sắp vào biển Đông : http://vnexpress.net/tin-tuc/thoi-su/bao-cap-12-sap-vao-bien-dong-3484275.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão Sarika tiến vào Biển Đông : http://thanhnien.vn/thoi-su/bao-sarika-tien-vao-bien-dong-755508.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Con bị đánh, phụ huynh lao vào trường tát nhầm giáo viên : http://thanhnien.vn/giao-duc/con-bi-danh-phu-huynh-lao-vao-truong-tat-nham-giao-vien-756186.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Ngân hàng táo bạo đổi nợ xấu thành vốn góp : http://thanhnien.vn/kinh-doanh/ngan-hang-tao-bao-doi-no-xau-thanh-von-gop-754138.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bức ảnh con bò tuyệt vọng trong lũ gây xúc động : http://vnexpress.net/tin-tuc/thoi-su/buc-anh-con-bo-tuyet-vong-trong-lu-gay-xuc-dong-3484449.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Quà của <em>Tuổi Trẻ</em> đến với bà con vùng lũ Quảng Bình : http://tuoitre.vn/tin/ban-doc/20161018/qua-cua-tuoi-tre-den-voi-ba-con-vung-lu-quang-binh/1190608.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Đưa cầu đúc hẫng lớn nhất Việt Nam vào hoạt động : http://thanhnien.vn/kinh-doanh/dua-cau-duc-hang-lon-nhat-viet-nam-vao-hoat-dong-685627.html
+2016-10-21 11:01:20 INFO  searcher:100 -  Bão Sarika có thể vào Quảng Ninh : http://vnexpress.net/tin-tuc/thoi-su/bao-sarika-co-the-vao-quang-ninh-hai-phong-3485245.html

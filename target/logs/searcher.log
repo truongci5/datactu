@@ -1,0 +1,5 @@
+2016-08-15 22:29:10 INFO  searcher:29 - 1 domains selected to search
+2016-08-15 22:29:10 INFO  searcher:34 - Đà Nẵng domain searching started
+2016-08-15 22:29:10 INFO  searcher:40 - Đà Nẵng domain last searched 2016-08-12T15:29:24Z
+2016-08-15 22:29:11 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn"), timestamp:[2016-08-12T15:29:24Z TO NOW]] get 2 results
+2016-08-15 22:29:11 INFO  searcher:74 - {57b1db89ecd48b06ae2b06e8=com.xuantruongvu.datactu.searcher.SearchResult@272543a2, 57b1db67ecd48b06ae2b0666=com.xuantruongvu.datactu.searcher.SearchResult@2687bf90}

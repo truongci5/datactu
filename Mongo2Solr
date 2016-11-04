@@ -1,0 +1,52 @@
+# REAL TIME INDEXING WITH MONGODB & SOLR
+
+# I. Prerequisites 
+# Set up MongoDB (version >= 3)
+# sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+# echo "deb http://repo.mongodb.org/apt/ubuntu precise/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+$ sudo apt-get update
+$ sudo apt-get install -y mongodb-org
+# sudo apt-get install -y mongodb-org=3.0.12 mongodb-org-server=3.0.12 mongodb-org-shell=3.0.12 mongodb-org-mongos=3.0.12 mongodb-org-tools=3.0.12
+
+# Apache Solr >= 6
+
+Mongo-connector 2.3 
+$ pip install mongo-connector
+
+Setup Mongo Replica Set
+Update dbPath to your MongoDB /data/db/
+$ vim /usr/local/etc/mongod.conf
+
+Add ComputerName to /etc/hosts 127.0.0.1 <ComputerName>
+  
+$ mongod --replSet rs0
+$ mongo
+> rs.initiate()
+> rs.status()
+
+Start Solr and Create Core
+$ solr start
+$ solr create -c datactu
+
+Config solrconfig.xml
+$ vim $SOLRPATH/server/solr/datactu/conf/solrconfig.xml
+# Add the following line to enable LukeRequestHandler
+<requestHandler name="/admin/luke" class="org.apache.solr.handler.admin.LukeRequestHandler" />
+
+Config Solr Schema
+$ vim $SOLRPATH/server/solr/datactu/conf/managed-schema
+
+<!-- Mongo-Connector -->  
+<field name="_ts" type="long" indexed="true" stored="true" />  
+<field name="ns" type="string" indexed="true" stored="true"/>
+
+<!-- Custom Fields, Search Against -->
+	<field name="_id" type="string" indexed="true" stored="true"/>
+	<field name="title" type="string" indexed="true" stored="false"/>  
+	<field name="description" type="string" indexed="true" stored="false"/>  
+	<field name="content" type="string" indexed="true" stored="false"/>  
+	<field name="source" type="string" indexed="true" stored="false"/>
+	<field name="timestamp" type="date" indexed="true" stored="true" default="NOW"/> 
+
+Connect Mongo and Solr with mongo-connector
+mongo-connector --auto-commit-interval=0 -m localhost:27017 -d solr_doc_manager -t http://localhost:8983/solr/datactu -n datactu.articles -d solr_doc_manager --unique-key=id

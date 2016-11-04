@@ -1,0 +1,22 @@
+2016-09-10 15:28:50,887 [ERROR] mongo_connector.util:87 - Fatal Exception
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/mongo_connector/util.py", line 85, in wrapped
+    func(*args, **kwargs)
+  File "/Library/Python/2.7/site-packages/mongo_connector/connector.py", line 267, in run
+    main_conn.admin.command("isdbgrid")
+  File "/Library/Python/2.7/site-packages/pymongo/database.py", line 478, in command
+    with client._socket_for_reads(read_preference) as (sock_info, slave_ok):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "/Library/Python/2.7/site-packages/pymongo/mongo_client.py", line 752, in _socket_for_reads
+    with self._get_socket(read_preference) as sock_info:
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "/Library/Python/2.7/site-packages/pymongo/mongo_client.py", line 716, in _get_socket
+    server = self._get_topology().select_server(selector)
+  File "/Library/Python/2.7/site-packages/pymongo/topology.py", line 142, in select_server
+    address))
+  File "/Library/Python/2.7/site-packages/pymongo/topology.py", line 118, in select_servers
+    self._error_message(selector))
+ServerSelectionTimeoutError: localhost:27017: [Errno 61] Connection refused
+2016-09-10 15:31:26,735 [ERROR] mongo_connector.connector:277 - No replica set at "localhost:27017"! A replica set is required to run mongo-connector. Shutting down...

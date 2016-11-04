@@ -1,0 +1,200 @@
+2016-10-17 21:35:48 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 21:35:48 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 21:36:19 WARN  crawler:73 - tuoitre.vn crawling stopped caused by Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=localhost.localdomain:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused}}]
+2016-10-17 21:36:45 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 21:36:45 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 21:37:10 INFO  crawler:112 - http://tuoitre.vn/ content retrieved
+2016-10-17 21:37:49 INFO  crawler:71 - tuoitre.vn crawling ended
+2016-10-17 21:38:08 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 21:38:08 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 21:38:11 INFO  crawler:114 - http://tuoitre.vn/ content retrieved
+2016-10-17 21:38:49 INFO  crawler:71 - tuoitre.vn crawling ended
+2016-10-17 21:40:03 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 21:40:03 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 21:40:06 INFO  crawler:113 - http://tuoitre.vn/ content retrieved
+2016-10-17 21:40:44 INFO  crawler:71 - tuoitre.vn crawling ended
+2016-10-17 21:58:57 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 21:58:57 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 21:58:59 INFO  crawler:112 - http://tuoitre.vn/tin/song-khoe/20161017/67-mau-nuoc-mam-chua-thach-tin-vuot-muc-cho-phep/1189948.html content retrieved
+2016-10-17 21:58:59 INFO  crawler:112 - http://tuoitre.vn/ content retrieved
+2016-10-17 21:59:00 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi/20161014/cho-them-nhieu-tieng-reo-vui-cua-doanh-nghiep/1187998.html content retrieved
+2016-10-17 21:59:00 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161015/tuong-dai-sai-gon-xua-co-so-phan-bi-hai-nhat/1188766.html content retrieved
+2016-10-17 21:59:01 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/gap-lai-con-bo-vo-vong-trong-lu-du-o-xa-van-hoa/1189942.html content retrieved
+2016-10-17 21:59:01 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161015/phat-hien-nen-da-dang-tuong-thanh/1188817.html content retrieved
+2016-10-17 21:59:02 INFO  crawler:112 - http://tuoitre.vn/tin/nhip-song-tre/20161016/thu-tuong-mong-thanh-nien-khoi-nghiep-co-uoc-mo-lon/1189348.html content retrieved
+2016-10-17 21:59:02 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161012/nguoi-mau-khoa-than-tang-hinh-doc-dao-ngoai-duong-pho/1186477.html content retrieved
+2016-10-17 21:59:03 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161017/ban-doc-tuoi-tre-dong-gop-giup-dong-bao-vung-lu/1189732.html content retrieved
+2016-10-17 21:59:03 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/be-trai-8-tuoi-bi-nuoc-mua-cuon-xuong-cong/1189330.html content retrieved
+2016-10-17 21:59:04 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161006/cho-ben-thanh-o-dau-trong-2-con-huy-diet-bi-tham/1182393.html content retrieved
+2016-10-17 21:59:04 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161014/tinh-nguoi-sai-gon-ba-ban-bun-nuoi-anh-ban-ve-so/1188190.html content retrieved
+2016-10-17 21:59:05 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/thu-tuong-thuan-long-dan-tren-85-bat-tay-lam-duoc-roi/1189981.html content retrieved
+2016-10-17 21:59:05 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161017/them-nhieu-hang-bay-noi-khong-voi-galaxy-note-7/1189585.html content retrieved
+2016-10-17 21:59:06 INFO  crawler:112 - http://tuoitre.vn/tin/song-khoe/20161017/giao-luu-truc-tuyen-giao-mua-benh-dot-quy-tang-cao/1189516.html content retrieved
+2016-10-17 21:59:06 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20160920/trinh-xuan-thanh-va-10-nam-thang-tien/1174419.html content retrieved
+2016-10-17 21:59:07 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161008/pho-xe-may-cu-nga-tu-phu-nhuan/1184641.html content retrieved
+2016-10-17 21:59:07 INFO  crawler:112 - http://tuoitre.vn/tin/nhip-song-tre/20161016/thu-tuong-thanh-nien-muon-khoi-nghiep-ma-khong-duoc-ho-tro-hay-len-tieng/1189213.html content retrieved
+2016-10-17 21:59:08 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161013/dich-vu-chia-se-xe-hoi-tu-lai-car2go-phat-trien-manh/1187485.html content retrieved
+2016-10-17 21:59:08 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161016/ba-tau-chien-my-bi-tan-cong-ten-lua-cung-luc/1189114.html content retrieved
+2016-10-17 21:59:09 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/tin-nong-24h-gia-cao-bay-huy-diet-vung-bien-can/1190002.html content retrieved
+2016-10-17 21:59:09 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161016/thu-vien-dien-tu-mien-phi-danh-cho-hoc-sinh-da-nang/1188886.html content retrieved
+2016-10-17 21:59:10 INFO  crawler:112 - http://thethao.tuoitre.vn/tin/20161017/cac-co-gai-lam-bao-tranh-tai-bong-da/1189960.html content retrieved
+2016-10-17 21:59:10 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/tin-nong-24h-mua-lu-gay-thiet-hai-nang-o-bac-trung-bo/1189315.html content retrieved
+2016-10-17 21:59:11 INFO  crawler:112 - http://tuoitre.vn/tin/can-biet/20161017/hoi-nghi-khoa-hoc-nhung-tien-bo-trong-phau-thuat-tieu-hoa/1189618.html content retrieved
+2016-10-17 21:59:11 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161008/cho-ben-thanh-cu-lung-lay-ca-the-ky-tren-via-he/1183879.html content retrieved
+2016-10-17 21:59:12 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161011/tham-do-lang-mo-vua-quang-trung-dung-quy-trinh/1186462.html content retrieved
+2016-10-17 21:59:12 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161016/ikea-het-kien-nhan-voi-khach-hang-trung-quoc-vao-ngu-kho/1189084.html content retrieved
+2016-10-17 21:59:13 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/nhung-lenh-cam-can-biet-khi-di-du-lich/1189780.html content retrieved
+2016-10-17 21:59:13 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/tieu-diem/20161012/tang-tuoi-huu-nguoi-gia-khong-lui-ve-sao-nguoi-tre-di-len/1186330.html content retrieved
+2016-10-17 21:59:14 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161017/da-co-nguoi-o-tra-vinh-thong-bao-trung-thuong-92-ti-dong/1189822.html content retrieved
+2016-10-17 21:59:14 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/vuot-lu-trao-qua-cuu-tro-nguoi-dan-tan-hoa/1189993.html content retrieved
+2016-10-17 21:59:15 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161015/chu-tich-quoc-hoi-du-khai-mac-festival-ao-dai/1188700.html content retrieved
+2016-10-17 21:59:15 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/no-nha-may-hoa-chat-lon-nhat-the-gioi-o-duc/1190020.html content retrieved
+2016-10-17 21:59:16 INFO  crawler:112 - http://tuoitre.vn/tin/can-biet/20161017/nang-tam-phong-cach-voi-phien-ban-honda-wave-110-rsx-moi/1189816.html content retrieved
+2016-10-17 21:59:16 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161014/xem-clip-ve-moi-truong-cua-nam-em-tai-miss-earth-2016/1188187.html content retrieved
+2016-10-17 21:59:17 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/thong-tuyen-duong-sat-bac-nam-sau-hon-3-ngay-ach-tac/1189888.html content retrieved
+2016-10-17 21:59:17 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/roi-nuoc-mat-hinh-anh-con-trau-vo-vong-o-xa-van-hoa/1189075.html content retrieved
+2016-10-17 21:59:18 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161017/xay-khu-cong-nghiep-dung-de-dan-chui-o-nhiem-moi-truong/1189783.html content retrieved
+2016-10-17 21:59:18 INFO  crawler:112 - http://tuoitre.vn/tin/can-biet/20161017/trung-tam-huan-luyen-bay-tuyen-sinh-phi-cong/1189693.html content retrieved
+2016-10-17 21:59:19 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161015/tin-nong-24h-mien-trung-mua-lu-len-nhanh-da-co-7-nguoi-chet/1188832.html content retrieved
+2016-10-17 21:59:19 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161011/mua-bao-hiem-xe-may-500010000-dong-khoi-bi-csgt-phat/1186333.html content retrieved
+2016-10-17 21:59:20 INFO  crawler:112 - http://tuoitre.vn/tin/song-khoe/20161017/nghi-be-gai-mac-chung-dau-nho-do-zika/1189855.html content retrieved
+2016-10-17 21:59:20 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20160929/thi-trac-nghiem-thi-to-hop-co-gi-ma-phai-lan-tan/1179489.html content retrieved
+2016-10-17 21:59:21 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/dinh-trieu-cuong-gap-mua-to-nuoc-ngap-khong-kip-tro-tay/1189972.html content retrieved
+2016-10-17 21:59:21 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161014/tin-nong-24h-lua-cho-thue-phong-tro-thach-thuc-sinh-vien/1188334.html content retrieved
+2016-10-17 21:59:22 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20160922/angelina-jolie-ly-di-brad-pitt-cuoc-tinh-nao-gio-day-da-het/1174986.html content retrieved
+2016-10-17 21:59:22 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161017/phu-huynh-dong-loat-cho-tre-mam-non-nghi-hoc-tranh-tram-bts/1189894.html content retrieved
+2016-10-17 21:59:23 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161017/ke-chi-biet-chi-trich-nguoi-no-luc-thay-doi-tinh-hinh/1189771.html content retrieved
+2016-10-17 21:59:23 INFO  crawler:112 - http://tuoitre.vn/tin/song-khoe/20160923/hai-an-nao-an-toan-va-chua-an-toan-o-bon-tinh-mien-trung/1145068.html content retrieved
+2016-10-17 21:59:24 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/video-nguoi-dan-tphcm-kho-so-chong-choi-voi-trieu-cuong/1189984.html content retrieved
+2016-10-17 21:59:24 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161017/phim-viet-kich-ban-yeu-van-dua-nhau-ra-rap/1188205.html content retrieved
+2016-10-17 21:59:25 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161015/vi-sao-boi-thuong-cho-ong-nen-tu-10-ti-con-26-ti-dong/1188790.html content retrieved
+2016-10-17 21:59:25 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161017/giai-ma-ga-khong-lo-trong-dong-smartphone-cao-cap/1189624.html content retrieved
+2016-10-17 21:59:26 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161016/du-lich-thai-lan-thoi-quoc-tang/1189024.html content retrieved
+2016-10-17 21:59:26 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161017/them-mobifone-duoc-cung-cap-dich-vu-4g/1190008.html content retrieved
+2016-10-17 21:59:27 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161013/bob-dylan-khong-thanh-that-voi-tim-minh-ban-se-that-bai/1187770.html content retrieved
+2016-10-17 21:59:27 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161017/phat-nha-may-xay-trai-phep-o-quang-nam-5-trieu-dong/1189756.html content retrieved
+2016-10-17 21:59:28 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161016/tphcm-mua-ket-hop-trieu-cuong-duong-ngap-nang/1189282.html content retrieved
+2016-10-17 21:59:28 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161017/noi-mong-moi-cua-nguoi-bi-bat-oan/1189474.html content retrieved
+2016-10-17 21:59:29 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161017/nha-trang-mo-ma-nguon-bot-tren-facebook-messenger-cua-tong-thong/1189558.html content retrieved
+2016-10-17 21:59:29 INFO  crawler:112 - http://thethao.tuoitre.vn/tin/20161017/truc-tuyen-u19-vn-uae-cho-u19-vn-gay-bat-ngo/1189951.html content retrieved
+2016-10-17 21:59:30 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161016/keu-troi-vi-mat-hanh-ly-khi-di-trang-mat/1188964.html content retrieved
+2016-10-17 21:59:30 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161017/dem-nam-nem-am-thay-dan-minh-chiu-lanh-ma-thuong-qua/1189930.html content retrieved
+2016-10-17 21:59:31 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161015/nuoc-mat-nguoi-thai-van-chay-dai-ben-ngoai-hoang-cung/1188697.html content retrieved
+2016-10-17 21:59:31 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161011/xe-tu-hanh-khong-tai-xe-tren-duong-pho-anh/1186342.html content retrieved
+2016-10-17 21:59:32 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161016/da-co-khach-hang-trung-thuong-hon-92-ti-dong/1189327.html content retrieved
+2016-10-17 21:59:33 INFO  crawler:112 - http://tuoitre.vn/tin/can-biet/20161017/khai-giang-cac-khoa-hoc-ke-toan-truong-ke-toan-thue-quan-tri/1189699.html content retrieved
+2016-10-17 21:59:33 INFO  crawler:112 - http://dulich.tuoitre.vn/tin/20161016/da-nang-duoc-vinh-danh-diem-den-hang-dau-chau-a/1189099.html content retrieved
+2016-10-17 21:59:33 INFO  crawler:112 - http://tuoitre.vn/tin/nhip-song-tre/20161016/81-tan-sv-khanh-hoa-ninh-thuan-nhan-hoc-bong-tiep-suc-den-truong/1189171.html content retrieved
+2016-10-17 21:59:34 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/bau-cu-my-dang-bi-nga-pha-binh/1189450.html content retrieved
+2016-10-17 21:59:34 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161017/lan-chiem-via-he-10-quan-hua-chi-1-quan-lam/1189546.html content retrieved
+2016-10-17 21:59:35 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/tieu-diem/20161017/tinh-nguoi-sai-gon-la-song-tu-te-voi-nhau/1188829.html content retrieved
+2016-10-17 21:59:35 INFO  crawler:112 - http://nhipsongso.tuoitre.vn/tin/20161017/con-gan-5000-samsung-galaxy-note-7-chua-thu-hoi/1189657.html content retrieved
+2016-10-17 21:59:36 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161017/lam-sao-de-khong-xay-ra-nhung-tham-hoa-ao-dai/1189384.html content retrieved
+2016-10-17 21:59:36 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20160921/thi-quoc-gia-va-tuyen-sinh-dh-cd-nam-2017-nhu-the-nao/1174659.html content retrieved
+2016-10-17 21:59:37 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/20161010/tho-sua-xe-hoi-chi-cach-chay-xe-hoi-tren-duong-ngap/1185703.html content retrieved
+2016-10-17 21:59:37 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/giai-phap-syria-cua-my-anh-trung-phat-nga-syria-manh-hon/1189681.html content retrieved
+2016-10-17 21:59:38 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161017/nguoi-trung-so-92-ti-dong-boi-roi-vietlott-khuyen-chuyen-khoan/1189978.html content retrieved
+2016-10-17 21:59:38 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161012/hanh-trinh-92-nam-thuong-xa-tax-va-hinh-anh-ngay-do-bo/1186966.html content retrieved
+2016-10-17 21:59:39 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161017/tam-ngung-xet-xu-vu-kien-nguyen-bo-truong-bo-gddt/1189939.html content retrieved
+2016-10-17 21:59:39 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/tu-nhan-brazil-bao-loan-25-nguoi-chet/1189789.html content retrieved
+2016-10-17 21:59:40 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161016/cuoi-nhu-meu-xem-tranh-biem-ve-phong-trao-noi-la-lam/1189273.html content retrieved
+2016-10-17 21:59:40 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/khoa-hoc/20161017/tuong-nguoi-huan-luyen-sap-chet-duoi-voi-lao-xuong-cuu/1189726.html content retrieved
+2016-10-17 21:59:41 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161017/van-sot-luyen-trac-nghiem-toan/1189447.html content retrieved
+2016-10-17 21:59:41 INFO  crawler:112 - http://dulich.tuoitre.vn/tin/20161016/nhung-dieu-ky-thu-tren-cung-duong-14g/1188922.html content retrieved
+2016-10-17 21:59:42 INFO  crawler:112 - http://tuoitre.vn/tin/chinh-tri-xa-hoi/20161017/xuat-hien-them-sieu-bao-haima-nguy-co-bao-chong-bao/1189999.html content retrieved
+2016-10-17 21:59:42 INFO  crawler:112 - http://tuoitre.vn/tin/phap-luat/20161017/thiet-hai-cua-ong-nen-rat-kho-xac-dinh/1189825.html content retrieved
+2016-10-17 21:59:43 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/tieu-diem/20161014/vo-cam-voi-cong-dong-can-benh-khong-moi/1187602.html content retrieved
+2016-10-17 21:59:43 INFO  crawler:112 - http://tuoitre.vn/tin/song-khoe/20161017/dung-tin-bao-hanh-phau-thuat-tron-doi/1189537.html content retrieved
+2016-10-17 21:59:44 INFO  crawler:112 - http://tuoitre.vn/tin/kinh-te/20161017/vn-tro-thanh-trung-tam-che-bien-thuy-san-the-gioi/1189510.html content retrieved
+2016-10-17 21:59:45 INFO  crawler:112 - http://thethao.tuoitre.vn/tin/20161017/diem-tin-toi-1710-que-ngoc-hai-da-co-the-tap-nhe/1190005.html content retrieved
+2016-10-17 21:59:45 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161017/nghe-si-keu-goi-giup-dong-bao-vung-lu-hang-ti-dong/1189924.html content retrieved
+2016-10-17 21:59:46 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161006/hao-huc-lan-ban-khoan-voi-de-thi-mau-thpt-quoc-gia/1183314.html content retrieved
+2016-10-17 21:59:47 INFO  crawler:112 - http://tuoitre.vn/tin/ban-doc/tieu-diem/20161013/tranh-cai-viec-lai-cho-phep-day-them-trong-truong/1186315.html content retrieved
+2016-10-17 21:59:47 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161017/con-bi-xuoc-ma-me-vao-truong-tat-co-giao-nga-dui-dui/1189975.html content retrieved
+2016-10-17 21:59:47 INFO  crawler:112 - http://tuoitre.vn/tin/the-gioi/20161017/quan-tham-trung-quoc-giau-3-tan-tien-trong-nha-bi-tu-hinh-treo/1189843.html content retrieved
+2016-10-17 21:59:48 INFO  crawler:112 - http://tuoitre.vn/tin/van-hoa-giai-tri/20161017/ben-affleck-7-phim-chung-minh-ke-banh-trai-tai-nang/1189285.html content retrieved
+2016-10-17 21:59:49 INFO  crawler:112 - http://tuoitre.vn/tin/giao-duc/20161004/de-nghi-tphcm-thi-thpt-theo-phuong-an-cua-bo-gddt/1182585.html content retrieved
+2016-10-17 22:00:28 INFO  crawler:71 - tuoitre.vn crawling ended
+2016-10-17 22:21:51 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:21:51 INFO  crawler:47 - tuoitre.vn crawling started
+2016-10-17 22:21:54 INFO  crawler:113 - http://tuoitre.vn/ content retrieved
+2016-10-17 22:22:32 INFO  crawler:71 - tuoitre.vn crawling ended
+2016-10-17 22:22:39 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:22:39 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:23:20 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:25:02 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:25:02 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:25:43 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:26:47 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:26:47 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:27:28 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:29:46 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:29:46 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:30:27 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:36:02 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:36:02 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:36:43 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:40:47 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:40:47 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:41:29 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:42:24 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:42:24 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:43:06 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:46:17 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:46:17 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:46:58 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:47:55 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:47:55 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:48:36 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:49:56 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:49:56 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:50:37 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:53:03 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:53:03 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:53:43 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:53:43 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:54:24 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:54:34 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:54:34 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:55:15 INFO  crawler:71 - nld.com.vn crawling ended
+2016-10-17 22:58:56 INFO  crawler:30 - 1 sources selected to crawl
+2016-10-17 22:58:56 INFO  crawler:47 - nld.com.vn crawling started
+2016-10-17 22:58:59 INFO  crawler:111 - http://nld.com.vn/thoi-su-trong-nuoc/bo-tu-phap-noi-ve-muc-boi-thuong-26-ti-dong-cho-ong-huynh-van-nen-20161017111038236.htm content retrieved
+2016-10-17 22:58:59 INFO  crawler:111 - http://nld.com.vn/ content retrieved
+2016-10-17 22:59:00 INFO  crawler:111 - http://nld.com.vn/thoi-su-quoc-te/hiem-hoa-moi-trong-nguon-nuoc-uong-trung-quoc-20161017214348455.htm content retrieved
+2016-10-17 22:59:00 INFO  crawler:111 - http://nld.com.vn/the-thao/clip-trong-tai-ngan-u19-viet-nam-thang-uae-20161017223926801.htm content retrieved
+2016-10-17 22:59:01 INFO  crawler:111 - http://nld.com.vn/thoi-su-quoc-te/tong-thong-nga-len-tieng-ve-bau-cu-my-20161017094712386.htm content retrieved
+2016-10-17 22:59:01 INFO  crawler:111 - http://thitruong.nld.com.vn/o-to-xe-may/nhung-chiec-o-to-gia-700-trieu-cho-nguoi-viet-20161017092000909.htm content retrieved
+2016-10-17 22:59:02 INFO  crawler:111 - http://nld.com.vn/an-ninh-trat-tu/loi-ke-cua-nu-chu-quan-com-quat-nga-ten-cuop-tao-ton-20161013093946775.htm content retrieved
+2016-10-17 22:59:03 INFO  crawler:111 - http://nld.com.vn/thoi-su-trong-nuoc/xuat-hien-nhom-lua-dao-lam-dich-vu-an-toan-thuc-pham-20161012120632322.htm content retrieved
+2016-10-17 22:59:03 INFO  crawler:111 - http://congnghe.nld.com.vn/thiet-bi-so/iphone-7-khoa-mang-do-bo-vao-viet-nam-20161013183929537.htm content retrieved
+2016-10-17 22:59:04 INFO  crawler:111 - http://nld.com.vn/kinh-te/da-co-nguoi-trung-92-ti-dong-ve-so-vietlott-2016101619551409.htm content retrieved
+2016-10-17 22:59:04 INFO  crawler:111 - http://nld.com.vn/cong-doan/bi-sa-thai-phai-tra-lai-tien-20161017221620392.htm content retrieved
+2016-10-17 22:59:05 INFO  crawler:111 - http://thitruong.nld.com.vn/dia-oc/ngan-ngo-truoc-ve-dep-cua-ngoi-nha-rong-363m-20161014002134249.htm content retrieved
+2016-10-17 22:59:06 INFO  crawler:111 - http://congnghe.nld.com.vn/tin-tuc/gioi-kinh-doanh-note-7-xach-tay-lo-dieu-dung-vi-kho-doi-tra-20161013094705447.htm content retrieved
+2016-10-17 22:59:06 INFO  crawler:111 - http://nld.com.vn/the-thao/con-trai-zidane-tai-hien-cu-panenka-kinh-dien-cua-bo-2016101713085797.htm content retrieved
+2016-10-17 22:59:07 INFO  crawler:111 - http://nld.com.vn/giao-duc-khoa-hoc/linh-hoat-dieu-chinh-mo-hinh-truong-hoc-moi-20161016215952655.htm content retrieved
+2016-10-17 22:59:07 INFO  crawler:111 - http://thitruong.nld.com.vn/dia-oc/giai-phap-thu-hut-tai-loc-cho-huong-dong-nam-20161015101135978.htm content retrieved
+2016-10-17 22:59:08 INFO  crawler:111 - http://nld.com.vn/ban-doc/dung-la-dam-dong-vo-cam-bo-ngo-tu-van-tam-ly-hoc-duong-20161014212619339.htm content retrieved
+2016-10-17 22:59:08 INFO  crawler:111 - http://nld.com.vn/cong-doan/quan-tam-lao-dong-nu-20161016213540099.htm content retrieved
+2016-10-17 22:59:09 INFO  crawler:111 - http://thitruong.nld.com.vn/dia-oc/dinh-thu-trieu-do-ben-bo-bien-vung-tau-cua-ha-kieu-anh-20161012085517259.htm content retrieved
+2016-10-17 22:59:09 INFO  crawler:111 - http://dulichbien.nld.com.vn/du-lich-bien/gioi-tre-do-xo-den-chup-hinh-o-canh-dong-hoa-oai-huong-lao-cai-20161013151803949.htm content retrieved
+2016-10-17 22:59:10 INFO  crawler:111 - http://nld.com.vn/van-hoa-van-nghe/truc-xinh-15-nam-xay-tinh-yeu-quan-ho-o-phuong-nam-20161016211320987.htm content retrieved
+2016-10-17 22:59:10 INFO  crawler:111 - http://nld.com.vn/thoi-su-quoc-te/ong-trump-to-phe-ba-clinton-dot-van-phong-dang-cong-hoa-20161017101619207.htm content retrieved
+2016-10-17 22:59:11 INFO  crawler:111 - http://nld.com.vn/kinh-te/nhu-cau-bat-dong-san-cong-nghiep-tang-20161017095702672.htm content retrieved
+2016-10-17 22:59:11 INFO  crawler:111 - http://phunu.nld.com.vn/chang/nhung-ong-chong-doi-pho-viec-nha-theo-cach-chang-giong-ai-20161017111227664.htm content retrieved
+2016-10-17 22:59:12 INFO  crawler:111 - http://nld.com.vn/phap-luat/tu-hung-yen-vao-tp-hcm-lua-dao-lam-giay-to-gia-20161017084749304.htm content retrieved
+2016-10-17 22:59:12 INFO  crawler:111 - http://nld.com.vn/giao-duc-khoa-hoc/loi-thoat-nao-cho-mo-hinh-truong-hoc-moi-20161017220610344.htm content retrieved
+2016-10-17 22:59:13 INFO  crawler:111 - http://nld.com.vn/thoi-su-trong-nuoc/quang-nam-chi-5-ti-dong-dung-tuong-cac-danh-nhan-20161017150523361.htm content retrieved
+2016-10-17 22:59:13 INFO  crawler:111 - http://nld.com.vn/van-hoa-van-nghe/sao-viet-keu-goi-ho-tro-nguoi-dan-mien-trung-20161017152905169.htm content retrieved
+2016-10-17 22:59:14 INFO  crawler:111 - http://nld.com.vn/kinh-te/nguoi-trung-92-ti-dong-co-the-nhan-mot-lan-20161017215220584.htm content retrieved
+2016-10-17 22:59:15 INFO  crawler:111 - http://thitruong.nld.com.vn/suc-khoe/tim-hieu-ve-nhung-duong-chat-giup-cai-thien-thi-luc-20160909103747142.htm content retrieved
+2016-10-17 22:59:15 INFO  crawler:111 - http://vnmoney.nld.com.vn/chuyen-lam-an/hang-viet-moi-ra-ao-lang-da-chet-duoi-20161017080725958.htm content retrieved
+2016-10-17 22:59:16 INFO  crawler:111 - http://thitruong.nld.com.vn/dia-oc/meo-phong-thuy-cho-duong-tinh-duyen-va-hon-nhan-suon-se-20161013103241728.htm content retrieved
+2016-10-17 22:59:16 INFO  crawler:111 - http://nld.com.vn/phap-luat/cai-nhau-dam-chet-ban-khi-di-dam-an-hoi-20161016173615249.htm content retrieved
+2016-10-17 22:59:17 INFO  crawler:111 - http://nld.com.vn/the-thao/net-hap-dan-rieng-cua-nguoi-dep-co-bap-20160926160635955.htm content retrieved
+2016-10-17 22:59:17 INFO  crawler:111 - http://nld.com.vn/thoi-su-trong-nuoc/cong-an-quan-8-noi-gi-vu-nu-sinh-to-bi-danh-ep-cung-20161017141541574.htm content retrieved
+2016-10-17 22:59:18 INFO  crawler:111 - http://nld.com.vn/thoi-su-quoc-te/ven-man-bi-an-50-may-bay-duc-bi-chon-o-tho-nhi-ky-20161017110429518.htm content retrieved
+2016-10-17 22:59:18 INFO  crawler:111 - http://nld.com.vn/thoi-su-trong-nuoc/tan-hoang-vat-va-trong-con-hong-thuy-o-quan-12-20161017151705046.htm content retrieved
+2016-10-17 22:59:19 INFO  crawler:111 - http://nld.com.vn/ban-doc/xin-co-giao-hay-la-hinh-mau-dep-20161010221857899.htm content retrieved
+2016-10-17 22:59:19 INFO  crawler:111 - http://maivang.nld.com.vn/mai-vang/moi-ban-doc-de-cu-giai-mai-vang-2016-20161017215425216.htm content retrieved

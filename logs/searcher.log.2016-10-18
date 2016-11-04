@@ -1,0 +1,22 @@
+2016-10-18 22:10:06 INFO  searcher:29 - 1 domains selected to search
+2016-10-18 22:10:06 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-18 22:24:17 INFO  searcher:29 - 1 domains selected to search
+2016-10-18 22:24:17 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-18 22:24:17 INFO  searcher:42 - Đà Nẵng domain last searched null
+2016-10-18 22:24:18 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn"), timestamp:[* TO *]] get 17 results
+2016-10-18 22:24:18 INFO  searcher:76 - {57b1db89ecd48b06ae2b06e8=com.xuantruongvu.datactu.searcher.SearchResult@6d4a82, 5803398714cdc9053f232d5c=com.xuantruongvu.datactu.searcher.SearchResult@14f060b8, 58063cf314cdc9053631f785=com.xuantruongvu.datactu.searcher.SearchResult@7a0ab480, 5802dba614cdc92f0f285d71=com.xuantruongvu.datactu.searcher.SearchResult@79df80a4, 5802db9814cdc92f0f285d45=com.xuantruongvu.datactu.searcher.SearchResult@130cfc47, 5802dc0314cdc92f0f285e47=com.xuantruongvu.datactu.searcher.SearchResult@4eeab3e, 57b1db67ecd48b06ae2b0666=com.xuantruongvu.datactu.searcher.SearchResult@2b6fb197, 5802dbf014cdc92f0f285dff=com.xuantruongvu.datactu.searcher.SearchResult@2eb0cefe, 5802573c14cdc92c991d3c4d=com.xuantruongvu.datactu.searcher.SearchResult@5a2ae1ab, 58063d2714cdc9053631f7cf=com.xuantruongvu.datactu.searcher.SearchResult@2bec068b, 5802573014cdc92c991d3c23=com.xuantruongvu.datactu.searcher.SearchResult@7d59e968, 5802dbfa14cdc92f0f285e25=com.xuantruongvu.datactu.searcher.SearchResult@55361f03, 5802e3d114cdc9304fe59640=com.xuantruongvu.datactu.searcher.SearchResult@581c9bb7, 58063cc214cdc9053631f6c5=com.xuantruongvu.datactu.searcher.SearchResult@138f0661, 5802dba514cdc92f0f285d6d=com.xuantruongvu.datactu.searcher.SearchResult@212fafd1, 58063ce214cdc9053631f73f=com.xuantruongvu.datactu.searcher.SearchResult@448462f0, 5803419314cdc906d38387be=com.xuantruongvu.datactu.searcher.SearchResult@787988f4}
+2016-10-18 22:30:22 INFO  searcher:29 - 1 domains selected to search
+2016-10-18 22:30:22 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-18 22:30:22 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-18T15:24:17Z
+2016-10-18 22:30:22 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn"), timestamp:[2016-10-18T15:24:17Z TO NOW]] get 0 results
+2016-10-18 22:30:22 INFO  searcher:76 - {}
+2016-10-18 22:41:49 INFO  searcher:29 - 1 domains selected to search
+2016-10-18 22:41:49 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-18 22:41:49 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-18T15:30:22Z
+2016-10-18 22:41:49 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn"), timestamp:[2016-10-18T15:30:22Z TO NOW]] get 0 results
+2016-10-18 22:41:49 INFO  searcher:76 - {}
+2016-10-18 22:59:20 INFO  searcher:29 - 1 domains selected to search
+2016-10-18 22:59:20 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-18 22:59:20 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-18T15:41:49Z
+2016-10-18 22:59:20 INFO  searcher:43 - Query ("Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà") AND ("biển" OR "lễ hội") with filters [source:("vnexpress.net","thanhnien.vn"), timestamp:[2016-10-18T15:41:49Z TO NOW]] get 0 results
+2016-10-18 22:59:20 INFO  searcher:76 - {}

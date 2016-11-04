@@ -1,0 +1,1 @@
+["Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True, replicaset=u'rs0'), u'local'), u'oplog.rs')", 6319082861735444484]

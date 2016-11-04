@@ -1,0 +1,10 @@
+2016-09-10 15:09:54 INFO  crawler:28 - 2 domains selected to crawl
+2016-09-10 15:09:54 INFO  crawler:32 - vnexpress.net crawling started
+2016-09-10 15:10:25 WARN  crawler:58 - vnexpress.net crawling stopped caused by Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused}}]
+2016-09-10 15:10:25 INFO  crawler:32 - thanhnien.vn crawling started
+2016-09-10 15:15:39 INFO  crawler:28 - 0 domains selected to crawl
+2016-09-10 15:20:03 INFO  crawler:28 - 0 sources selected to crawl
+2016-09-10 15:22:51 INFO  crawler:28 - 2 sources selected to crawl
+2016-09-10 15:22:51 INFO  crawler:32 - vnexpress.net crawling started
+2016-09-10 15:23:22 WARN  crawler:58 - vnexpress.net crawling stopped caused by Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused}}]
+2016-09-10 15:23:22 INFO  crawler:32 - thanhnien.vn crawling started

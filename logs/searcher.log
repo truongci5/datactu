@@ -1,0 +1,56 @@
+2016-10-25 07:33:05 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 07:33:05 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 07:33:05 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:01:20Z
+2016-10-25 07:33:05 ERROR searcher:54 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:01:20Z TO NOW]] get no results as Server refused connection at: http://localhost:8983/solr/datactu
+2016-10-25 07:40:02 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 07:40:02 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 07:40:02 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-25T00:33:05Z
+2016-10-25 07:40:03 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-25T00:33:05Z TO NOW]] get 0 results
+2016-10-25 07:41:16 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 07:41:16 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 07:41:16 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T00:41:16Z
+2016-10-25 07:41:17 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T00:41:16Z TO NOW]] get 0 results
+2016-10-25 07:41:42 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 07:41:42 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 07:41:43 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T00:41:43Z
+2016-10-25 07:41:43 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T00:41:43Z TO NOW]] get 0 results
+2016-10-25 09:34:13 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 09:34:13 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 09:34:13 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-25T00:41:43Z
+2016-10-25 09:34:14 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-25T00:41:43Z TO NOW]] get 0 results
+2016-10-25 11:17:46 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 11:17:46 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 11:17:46 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:17:46Z
+2016-10-25 11:17:47 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:17:46Z TO NOW]] get 8 results
+2016-10-25 11:17:47 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-25 11:17:47 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
+2016-10-25 11:17:47 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
+2016-10-25 11:17:47 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
+2016-10-25 11:17:47 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-25 11:17:47 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
+2016-10-25 11:17:47 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
+2016-10-25 11:17:47 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
+2016-10-25 11:21:27 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 11:21:27 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 11:21:27 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:21:27Z
+2016-10-25 11:21:28 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:21:27Z TO NOW]] get 8 results
+2016-10-25 11:21:28 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-25 11:21:28 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
+2016-10-25 11:21:28 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
+2016-10-25 11:21:28 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
+2016-10-25 11:21:28 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-25 11:21:28 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
+2016-10-25 11:21:28 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
+2016-10-25 11:21:28 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
+2016-10-25 11:23:39 INFO  searcher:29 - 1 domains selected to search
+2016-10-25 11:23:39 INFO  searcher:36 - Đà Nẵng domain searching started
+2016-10-25 11:23:39 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:23:39Z
+2016-10-25 11:23:40 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:23:39Z TO NOW]] get 8 results
+2016-10-25 11:23:40 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
+2016-10-25 11:23:40 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
+2016-10-25 11:23:40 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
+2016-10-25 11:23:40 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
+2016-10-25 11:23:40 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
+2016-10-25 11:23:40 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
+2016-10-25 11:23:40 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
+2016-10-25 11:23:40 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
