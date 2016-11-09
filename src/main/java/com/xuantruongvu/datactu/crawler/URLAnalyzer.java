@@ -106,15 +106,17 @@ public class URLAnalyzer {
 			
 			for (String pair : pairs) {
 		        int idx = pair.indexOf("=");
-		        String key = pair.substring(0,idx).toLowerCase();
-		        if (key.equals(specialPattern)) {
-		        	return true;
-		        }
-		        
-		        for (String pattern : patterns) {
-		        	if (key.contains(pattern) || key.equals(specialPattern)) {
-		        		return true;
-		        	}
+		        if (idx > 0) {
+		        	String key = pair.substring(0,idx).toLowerCase();
+		        	if (key.equals(specialPattern)) {
+			        	return true;
+			        }
+			        
+			        for (String pattern : patterns) {
+			        	if (key.contains(pattern) || key.equals(specialPattern)) {
+			        		return true;
+			        	}
+			        }
 		        }
 		    }
 		}
