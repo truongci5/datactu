@@ -19,7 +19,7 @@ UP=$(pgrep mongod | wc -l);
 if [ "$UP" -ne 1 ];
 then
   echo "-> MongoDB is down, start MongoDB";
-  service mongod --config /etc/mongod.conf --replSet rs0
+  mongod --replSet rs0 &
 else
   echo "-> OK";
 fi

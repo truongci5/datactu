@@ -1,6 +1,13 @@
 1. Install JRE (version >= 1.7)
 
 2. Install & Run MongoDB (version >= 3.0)
+$ nano /etc/mongod.conf
+systemLog:
+  logRotate: reopen
+  
+storage:
+  engine: mmapv1
+
 $ mongod --config /etc/mongod.conf --replSet rs0
 $ mongo
 $ rs.initiate()
@@ -8,15 +15,18 @@ $ rs.status()
 $ use datactu
 $ db.createCollection("articles");
 $ db.createCollection("links");
+$ db.createCollection("domains");
+$ db.createUser({user:"datactu", pwd:"abc@123", roles:["readWrite"]});
 
 3. Install & Run Apache Solr (version >= 6.0)
-$ solr start
-$ solr create -c datactu
+$ cd $SOLRPATH
+$ bin/solr star
+$ bin/solr create -c datactu
 
 4. Add this line to /etc/hosts 
 $ 127.0.0.1 localhost.localdomain
 
-5. Add the following line to $SOLRPATH/server/solr/datactu/conf/solrconfig.xml
+5. Add the following line to c/server/solr/datactu/conf/solrconfig.xml
 <requestHandler name="/admin/luke" class="org.apache.solr.handler.admin.LukeRequestHandler" />
 
 6. Add the following lines to $SOLRPATH/server/solr/datactu/conf/managed-schema
