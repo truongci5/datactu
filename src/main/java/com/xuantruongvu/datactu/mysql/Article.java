@@ -37,9 +37,6 @@ public class Article implements Serializable {
 
 	@Column(name = "noidung", length = 20000)
 	private String content;
-	
-	@Column(name = "html", length = 60000)
-	private String html;
 
 	@Column(name = "nguontin_id")
 	private Integer sourceId;
@@ -111,24 +108,6 @@ public class Article implements Serializable {
 	}
 
 	/**
-	 * @param html the html to set
-	 */
-	public void setHtml(String html) {
-		try {
-	        int size = getClass().getDeclaredField("html").getAnnotation(Column.class).length();
-	        int inLength = html.length();
-	        if (inLength>size)
-	        {
-	            html = html.substring(0, size-1);
-	        }
-	    } catch (NoSuchFieldException ex) {
-	    } catch (SecurityException ex) {
-	    }
-		
-		this.html = html;
-	}
-
-	/**
 	 * @param sourceId the sourceId to set
 	 */
 	public void setSourceId(Integer sourceId) {
@@ -194,5 +173,9 @@ public class Article implements Serializable {
 	
 	public String getPublishedDate() {
 		return publishedDate.toString();
+	}
+
+	public Integer getId() {
+		return this.id;
 	}
 }

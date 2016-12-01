@@ -14,6 +14,8 @@ import com.xuantruongvu.datactu.mysql.Article;
 import com.xuantruongvu.datactu.mysql.ArticleService;
 import com.xuantruongvu.datactu.mysql.Domain;
 import com.xuantruongvu.datactu.mysql.DomainService;
+import com.xuantruongvu.datactu.mysql.Html;
+import com.xuantruongvu.datactu.mysql.HtmlService;
 import com.xuantruongvu.datactu.mysql.Source;
 import com.xuantruongvu.datactu.mysql.SourceService;
 import com.xuantruongvu.datactu.mysql.Topic;
@@ -116,6 +118,9 @@ public class SearcherController {
 		for (SearchResult result : list) {
 			Article article = result.getArticle();
 			ArticleService.insert(article);
+			Html html = result.getHtml();
+			html.setArticleId(article.getId());
+			HtmlService.insert(html);
 		}
 	}
 

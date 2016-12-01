@@ -1,0 +1,14 @@
+2016-08-15 22:26:04 INFO  crawler:28 - 2 domains selected to crawl
+2016-08-15 22:26:04 INFO  crawler:32 - vnexpress.net crawling started
+2016-08-15 22:26:06 INFO  crawler:112 - http://vnexpress.net/ content retrieved
+2016-08-15 22:26:45 INFO  crawler:56 - vnexpress.net crawling ended
+2016-08-15 22:26:45 INFO  crawler:32 - thanhnien.vn crawling started
+2016-08-15 22:26:45 INFO  crawler:112 - http://thanhnien.vn/ content retrieved
+2016-08-15 22:26:45 INFO  crawler:112 - http://game.thanhnien.vn/game-mobile/Pokemon-Go-Top-5-Pokemon-chat-luong-no-ra-tu-trung-10km-16715.html content retrieved
+2016-08-15 22:26:47 INFO  crawler:112 - http://thanhnien.vn/the-gioi/nga-va-my-sap-tien-hanh-chien-dich-quan-su-chung-o-aleppo-734355.html content retrieved
+2016-08-15 22:26:48 INFO  crawler:112 - http://game.thanhnien.vn/game-mobile/Loi-dung-trung-thu-Gym-khien-game-thu-Pokemon-Go-meo-mat-16721.html content retrieved
+2016-08-15 22:26:49 INFO  crawler:112 - http://game.thanhnien.vn/esports/Nhung-trang-phuc-Lien-Minh-Huyen-Thoai-hiem-nhat-qua-dat-Phan-1-16724.html content retrieved
+2016-08-15 22:26:51 INFO  crawler:112 - http://thanhnien.vn/the-gioi/nguoi-dan-vui-mung-ve-manbij-sau-khi-is-bi-danh-bai-733767.html content retrieved
+2016-08-15 22:26:51 INFO  crawler:112 - http://game.thanhnien.vn/game-mobile/Pokemon-Go-12-the-tien-hoa-doc-dao-o-Gen-2-ma-ban-nen-de-danh-keo-16720.html content retrieved
+2016-08-15 22:26:51 INFO  crawler:112 - http://game.thanhnien.vn/esports/LMHT-Faker-dan-dau-10-tuyen-thu-xuat-sac-nhat-the-gioi-do-ESPN-binh-chon-16717.html content retrieved
+2016-08-15 22:27:25 INFO  crawler:56 - thanhnien.vn crawling ended

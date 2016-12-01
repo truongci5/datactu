@@ -1,56 +1,51 @@
-2016-10-25 07:33:05 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 07:33:05 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 07:33:05 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:01:20Z
-2016-10-25 07:33:05 ERROR searcher:54 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:01:20Z TO NOW]] get no results as Server refused connection at: http://localhost:8983/solr/datactu
-2016-10-25 07:40:02 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 07:40:02 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 07:40:02 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-25T00:33:05Z
-2016-10-25 07:40:03 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-25T00:33:05Z TO NOW]] get 0 results
-2016-10-25 07:41:16 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 07:41:16 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 07:41:16 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T00:41:16Z
-2016-10-25 07:41:17 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T00:41:16Z TO NOW]] get 0 results
-2016-10-25 07:41:42 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 07:41:42 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 07:41:43 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T00:41:43Z
-2016-10-25 07:41:43 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T00:41:43Z TO NOW]] get 0 results
-2016-10-25 09:34:13 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 09:34:13 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 09:34:13 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-25T00:41:43Z
-2016-10-25 09:34:14 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-25T00:41:43Z TO NOW]] get 0 results
-2016-10-25 11:17:46 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 11:17:46 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 11:17:46 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:17:46Z
-2016-10-25 11:17:47 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:17:46Z TO NOW]] get 8 results
-2016-10-25 11:17:47 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
-2016-10-25 11:17:47 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
-2016-10-25 11:17:47 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
-2016-10-25 11:17:47 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
-2016-10-25 11:17:47 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
-2016-10-25 11:17:47 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
-2016-10-25 11:17:47 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
-2016-10-25 11:17:47 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
-2016-10-25 11:21:27 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 11:21:27 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 11:21:27 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:21:27Z
-2016-10-25 11:21:28 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:21:27Z TO NOW]] get 8 results
-2016-10-25 11:21:28 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
-2016-10-25 11:21:28 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
-2016-10-25 11:21:28 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
-2016-10-25 11:21:28 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
-2016-10-25 11:21:28 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
-2016-10-25 11:21:28 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
-2016-10-25 11:21:28 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
-2016-10-25 11:21:28 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
-2016-10-25 11:23:39 INFO  searcher:29 - 1 domains selected to search
-2016-10-25 11:23:39 INFO  searcher:36 - Đà Nẵng domain searching started
-2016-10-25 11:23:39 INFO  searcher:42 - Đà Nẵng domain last searched 2016-10-21T04:23:39Z
-2016-10-25 11:23:40 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-10-21T04:23:39Z TO NOW]] get 8 results
-2016-10-25 11:23:40 INFO  searcher:106 -  'Mang lại nụ cười cho người mình yêu' vào ngày 20/10 : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mang-lai-nu-cuoi-cho-nguoi-minh-yeu-vao-ngay-20-10-3482880.html
-2016-10-25 11:23:40 INFO  searcher:106 -  Đà Nẵng dừng xây kho lưu trữ để làm công viên : http://vnexpress.net/tin-tuc/thoi-su/da-nang-dung-xay-kho-luu-tru-de-lam-cong-vien-3488638.html
-2016-10-25 11:23:40 INFO  searcher:106 -  Phi hành đoàn toàn nam gây bất ngờ cho du khách ngày 20/10 : http://dulich.vnexpress.net/tin-tuc/viet-nam/phi-hanh-doan-toan-nam-gay-bat-ngo-cho-du-khach-ngay-20-10-3486773.html
-2016-10-25 11:23:40 INFO  searcher:106 -  Nguyên Bộ trưởng Vũ Huy Hoàng bị đề nghị cảnh cáo : http://vnexpress.net/tin-tuc/thoi-su/nguyen-bo-truong-vu-huy-hoang-bi-de-nghi-canh-cao-3488544.html
-2016-10-25 11:23:40 INFO  searcher:106 -  1.001 phòng khách sạn 3 sao giá 0 đồng : http://dulich.vnexpress.net/tin-tuc/viet-nam/1-001-phong-khach-san-3-sao-gia-0-dong-3481403.html
-2016-10-25 11:23:40 INFO  searcher:106 -  MIC kỷ niệm 9 năm thành lập : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mic-ky-niem-9-nam-thanh-lap-3488141.html
-2016-10-25 11:23:40 INFO  searcher:106 -  Cô gái bị tên cướp giật điện thoại trên phố Sài Gòn : http://video.vnexpress.net/tin-tuc/camera-ban-doc/co-gai-bi-ten-cuop-giat-dien-thoai-tren-pho-sai-gon-3488044.html
-2016-10-25 11:23:40 INFO  searcher:106 -  Tổng bí thư chỉ đạo kiểm tra khi có dấu hiệu vi phạm với nguyên bộ trưởng Vũ Huy Hoàng : http://vnexpress.net/tin-tuc/thoi-su/tong-bi-thu-chi-dao-kiem-tra-khi-co-dau-hieu-vi-pham-voi-nguyen-bo-truong-vu-huy-hoang-3438416.html
+2016-12-01 17:28:56 INFO  searcher:31 - 1 domains selected to search
+2016-12-01 17:28:56 INFO  searcher:38 - Đà Nẵng domain searching started
+2016-12-01 17:29:02 INFO  searcher:44 - Đà Nẵng domain last searched 2016-11-27T10:29:02Z
+2016-12-01 17:29:02 INFO  searcher:43 - Query "Đà Nẵng" OR "Danang" OR "Hoàng Sa" OR "Hải Châu" OR "Thanh Khê" OR "Sơn Trà" OR "tin" with filters [source:("vnexpress.net","thanhnien.vn","tuoitre.vn","nld.com.vn"), timestamp:[2016-11-27T10:29:02Z TO NOW]] get 47 results
+2016-12-01 17:29:02 INFO  searcher:108 -  Trường học Singapore dạy Toán bằng truyện : http://vnexpress.net/tin-tuc/giao-duc/truong-hoc-singapore-day-toan-bang-truyen-3507255.html
+2016-12-01 17:29:02 INFO  searcher:108 -  iPhone 7 hạ giá còn hơn 15 triệu đồng : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/iphone-7-ha-gia-con-hon-15-trieu-dong-3497687.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Kangaroo tặng vàng cho khách mua hàng : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/kangaroo-tang-vang-cho-khach-mua-hang-3501853.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Dầu nhờn thương hiệu Nhật cho người tiêu dùng Việt Nam : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/dau-nhon-thuong-hieu-nhat-cho-nguoi-tieu-dung-viet-nam-3505460.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Lời khai của kẻ trộm liên tiếp hiếp dâm thiếu phụ : http://vnexpress.net/tin-tuc/phap-luat/loi-khai-cua-ke-trom-lien-tiep-hiep-dam-thieu-phu-3506178.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Cô gái béo Hà Nội 2 năm rèn luyện để sở hữu vóc dáng đồng hồ cát : http://suckhoe.vnexpress.net/tin-tuc/khoe-dep/tham-my/co-gai-beo-ha-noi-2-nam-ren-luyen-de-so-huu-voc-dang-dong-ho-cat-3506877.html
+2016-12-01 17:29:02 INFO  searcher:108 -  '5 vé số Vietlott độc đắc trùng hợp kỳ lạ' nóng trên Vitalk : http://vnexpress.net/tin-tuc/cong-dong/5-ve-so-vietlott-doc-dac-trung-hop-ky-la-nong-tren-vitalk-3506050.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Galle Watch giảm đến 40% dịp Black Friday : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/galle-watch-giam-den-40-dip-black-friday-3502571.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Hàng nghìn sinh vật lạ giống thạch dẻo dạt vào bờ biển California : http://vnexpress.net/tin-tuc/khoa-hoc/chuyen-la/hang-nghin-sinh-vat-la-giong-thach-deo-dat-vao-bo-bien-california-3507129.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Bảng tuần hoàn hóa học chính thức bổ sung 4 nguyên tố mới : http://vnexpress.net/tin-tuc/khoa-hoc/bang-tuan-hoan-hoa-hoc-chinh-thuc-bo-sung-4-nguyen-to-moi-3507136.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Riedl dùng năm tiền vệ đối chọi Việt Nam ở bán kết AFF Cup : http://thethao.vnexpress.net/tin-tuc/aff-cup-2016/riedl-dung-nam-tien-ve-doi-choi-viet-nam-o-ban-ket-aff-cup-3507267.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Ông Đinh La Thăng: 'Bắn pháo hoa cuối tuần có thể là thương hiệu du lịch' : http://vnexpress.net/tin-tuc/thoi-su/ong-dinh-la-thang-ban-phao-hoa-cuoi-tuan-co-the-la-thuong-hieu-du-lich-3507172.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Bộ Nội vụ kiểm điểm trách nhiệm liên quan ông Trịnh Xuân Thanh : http://vnexpress.net/tin-tuc/thoi-su/bo-noi-vu-kiem-diem-trach-nhiem-lien-quan-ong-trinh-xuan-thanh-3483870.html
+2016-12-01 17:29:02 INFO  searcher:108 -  7 điểm nhỏ tiết lộ chính xác tính cách một người : http://giadinh.vnexpress.net/tin-tuc/to-am/7-diem-nho-tiet-lo-chinh-xac-tinh-cach-mot-nguoi-3506939.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Kangaroo khuyến mại lớn khi mua hàng online : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/kangaroo-khuyen-mai-lon-khi-mua-hang-online-3495380.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Sở hữu iPhone 7 chính hãng sớm với giá ưu đãi : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/so-huu-iphone-7-chinh-hang-som-voi-gia-uu-dai-3493384.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Những tình khúc ghi dấu ấn NSƯT Quang Lý : http://giaitri.vnexpress.net/tin-tuc/nhac/cam-xuc-am-nhac/nhung-tinh-khuc-ghi-dau-an-nsut-quang-ly-3507115.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Nữ tài xế BMW điên cuồng lao xe vào đối thủ : http://vnexpress.net/tin-tuc/oto-xe-may/nu-tai-xe-bmw-dien-cuong-lao-xe-vao-doi-thu-3506919.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Công ty KĐN áp dụng thành công chương trình 5S : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/cong-ty-kdn-ap-dung-thanh-cong-chuong-trinh-5s-3506645.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Xem phim 'thả ga' với 100.000 đồng : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/xem-phim-tha-ga-voi-100-000-dong-3503238.html
+2016-12-01 17:29:02 INFO  searcher:108 -  MISA tặng miễn phí phần mềm kế toán cho công ty khởi nghiệp : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/misa-tang-mien-phi-phan-mem-ke-toan-cho-cong-ty-khoi-nghiep-3502739.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Hơn 6.000 sản phẩm bị loại khỏi Online Friday vì giảm giá ảo : http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/hon-6-000-san-pham-bi-loai-khoi-online-friday-vi-giam-gia-ao-3505894.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Tiki.vn khuyến mãi ngày Online Friday : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/tiki-vn-khuyen-mai-ngay-online-friday-3506414.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Cơ hội dùng thử đệm Nhật Bản miễn phí trong 30 ngày : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/co-hoi-dung-thu-dem-nhat-ban-mien-phi-trong-30-ngay-3503410.html
+2016-12-01 17:29:02 INFO  searcher:108 -  1.000 vé liveshow Hà Anh Tuấn tại Hà Nội bán hết trong hai ngày : http://giaitri.vnexpress.net/tin-tuc/nhac/lang-nhac/1-000-ve-liveshow-ha-anh-tuan-tai-ha-noi-ban-het-trong-hai-ngay-3507270.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Hơn 60% người Nga muốn Putin tái đắc cử tổng thống : http://vnexpress.net/tin-tuc/the-gioi/hon-60-nguoi-nga-muon-putin-tai-dac-cu-tong-thong-3500099.html
+2016-12-01 17:29:02 INFO  searcher:108 -  BAE-146 : http://vnexpress.net/tin-tuc/the-gioi/tu-lieu/bae-146-chiec-phi-co-menh-danh-loi-thi-tham-roi-o-colombia-3506279.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Quang Lý : http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/quang-ly-con-nguoi-gian-di-trong-ky-uc-dong-nghiep-3507109.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Cá mập trắng ngoạm hải cẩu xám sát mép bờ biển Mỹ : http://vnexpress.net/tin-tuc/khoa-hoc/ca-map-trang-ngoam-hai-cau-xam-sat-mep-bo-bien-my-3507203.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Donald Trump ăn tối với ứng viên ngoại trưởng Mitt Romney : http://vnexpress.net/tin-tuc/the-gioi/donald-trump-an-toi-voi-ung-vien-ngoai-truong-mitt-romney-3506584.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Vợ ca sĩ Quang Lý: 'Chồng tôi mất mà chưa kịp trăn trối gì' : http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/vo-ca-si-quang-ly-chong-toi-mat-ma-chua-kip-tran-troi-gi-3507127.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Tin Gia đình: đời sống, tổ ấm, chăm con, nội trợ, tiêu dùng : http://giadinh.vnexpress.net/
+2016-12-01 17:29:02 INFO  searcher:108 -  Donald Trump có quyền nhắn tin cho cả nước Mỹ : http://sohoa.vnexpress.net/tin-tuc/doi-song-so/donald-trump-co-quyen-nhan-tin-cho-ca-nuoc-my-3507138.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Những hình ảnh trùng hợp đến bất ngờ : http://vnexpress.net/tin-tuc/cuoi/anh/nhung-hinh-anh-trung-hop-den-bat-ngo-3506126.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Hoàn tiền đến 50% khi thanh toán qua VnExpress Pay : http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/pay/hoan-tien-den-50-khi-thanh-toan-qua-vnexpress-pay-3507199.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Nhan sắc cô gái 19 tuổi Hoài Lâm vừa hỏi cưới : http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/nhan-sac-co-gai-19-tuoi-hoai-lam-vua-hoi-cuoi-3506716.html
+2016-12-01 17:29:02 INFO  searcher:108 -  NSƯT Quang Lý: 'Có ca sĩ hát như dọa người khác' : http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/nsut-quang-ly-co-ca-si-hat-nhu-doa-nguoi-khac-3230302.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Online Friday 2016 kiểm soát tình trạng khuyến mãi ảo : http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/tin-tuc/online-friday-2016-kiem-soat-tinh-trang-khuyen-mai-ao-3502358.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Công an giăng bẫy 'nam nhân kế' với bà trùm khát tình : http://vnexpress.net/tin-tuc/phap-luat/ho-so-pha-an/cong-an-giang-bay-nam-nhan-ke-voi-ba-trum-khat-tinh-3506622.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Nguyễn Kim ưu đãi khởi động mùa mua sắm cuối năm : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/nguyen-kim-uu-dai-khoi-dong-mua-mua-sam-cuoi-nam-3503944.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Ngày hội mua sắm với nhiều ưu đãi lớn gần hồ Gươm : http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/ngay-hoi-mua-sam-voi-nhieu-uu-dai-lon-gan-ho-guom-3507069.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Có nên nói cho vợ anh biết tôi đã yêu anh 10 năm : http://vnexpress.net/tin-tuc/tam-su/co-nen-noi-cho-vo-anh-biet-toi-da-yeu-anh-10-nam-3506838.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Đảng cầm quyền Hàn Quốc tính bầu tổng thống vào năm sau : http://vnexpress.net/tin-tuc/the-gioi/dang-cam-quyen-han-quoc-tinh-bau-tong-thong-vao-nam-sau-3507089.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Người đàn ông lừa bán hơn 300 ôtô sang trên giấy : http://vnexpress.net/tin-tuc/phap-luat/nguoi-dan-ong-lua-ban-hon-300-oto-sang-tren-giay-3507193.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Cầu thủ Brazil được giải cứu sau 6 giờ nằm dưới xác máy bay rơi : http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/cau-thu-brazil-duoc-giai-cuu-sau-6-gio-nam-duoi-xac-may-bay-roi-3506894.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Tham gia thử thách cùng dầu nhớt Motul Tekma : http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/tham-gia-thu-thach-cung-dau-nhot-motul-tekma-3505643.html
+2016-12-01 17:29:02 INFO  searcher:108 -  Chương trình khuyến mãi 'Mình không một mình' nhân Ngày độc thân : http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/chuong-trinh-khuyen-mai-minh-khong-mot-minh-nhan-ngay-doc-than-3496835.html

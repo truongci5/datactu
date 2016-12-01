@@ -17,6 +17,7 @@ public class ArticleService {
 		try {
 			et.begin();
 			em.persist(article);
+			em.flush();
 			et.commit();
 		} catch (Exception e) {
 			if(et != null && et.isActive()) et.rollback();
