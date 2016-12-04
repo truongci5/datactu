@@ -24,7 +24,7 @@ public class SearchResult {
 		article.setContent(doc.getContent());
 		article.setImage(doc.getImage());
 		article.setUrl(doc.getUrl());
-		article.setPublishedDate(new Date(doc.getCreatedAt()*1000L));
+		article.setPublishedDate(new Date(doc.getCreatedAt()*1000L + 7*3600*1000L));
 		html.setHtml(doc.getHtml());
 	}
 

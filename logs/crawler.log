@@ -1,252 +1,60 @@
-2016-11-03 16:45:48 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 16:45:48 INFO  crawler:47 - noivu.danang.gov.vn crawling started
-2016-11-03 16:46:39 INFO  crawler:72 - noivu.danang.gov.vn crawling ended
-2016-11-03 17:30:04 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:30:04 INFO  crawler:47 - noivu.danang.gov.vn crawling started
-2016-11-03 17:30:09 INFO  crawler:139 - http://www.noivu.danang.gov.vn/doanh-nghiep-do-nha-nuoc-lam-chu-so-huu-thuoc-ubnd-thanh-pho content retrieved
-2016-11-03 17:30:13 INFO  crawler:139 - http://www.noivu.danang.gov.vn/dien-tich-so-luong-can-bo-cong-chuc-thuoc-ubnd-quan content retrieved
-2016-11-03 17:33:09 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:33:09 INFO  crawler:47 - noivu.danang.gov.vn crawling started
-2016-11-03 17:34:09 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:34:09 INFO  crawler:47 - noivu.danang.gov.vn crawling started
-2016-11-03 17:34:16 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=312211 content retrieved
-2016-11-03 17:34:16 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=292415 content retrieved
-2016-11-03 17:34:17 INFO  crawler:139 - http://www.noivu.danang.gov.vn/doanh-nghiep-do-nha-nuoc-lam-chu-so-huu-thuoc-ubnd-thanh-pho content retrieved
-2016-11-03 17:34:18 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=351201 content retrieved
-2016-11-03 17:34:19 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=320501 content retrieved
-2016-11-03 17:34:20 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=349701 content retrieved
-2016-11-03 17:34:20 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=350179 content retrieved
-2016-11-03 17:34:21 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=349817 content retrieved
-2016-11-03 17:34:22 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=333811 content retrieved
-2016-11-03 17:34:24 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352301 content retrieved
-2016-11-03 17:34:25 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=351117 content retrieved
-2016-11-03 17:34:25 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=350001 content retrieved
-2016-11-03 17:34:26 INFO  crawler:139 - http://www.noivu.danang.gov.vn/dien-tich-so-luong-can-bo-cong-chuc-thuoc-ubnd-quan content retrieved
-2016-11-03 17:34:28 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=330216 content retrieved
-2016-11-03 17:34:29 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=344744 content retrieved
-2016-11-03 17:34:30 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352333 content retrieved
-2016-11-03 17:34:32 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=304915 content retrieved
-2016-11-03 17:34:34 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352459 content retrieved
-2016-11-03 17:34:35 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=332502 content retrieved
-2016-11-03 17:34:37 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=349746 content retrieved
-2016-11-03 17:34:39 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=350160 content retrieved
-2016-11-03 17:34:40 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=243146 content retrieved
-2016-11-03 17:34:41 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=269811 content retrieved
-2016-11-03 17:34:44 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=347901 content retrieved
-2016-11-03 17:34:45 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=346015 content retrieved
-2016-11-03 17:34:49 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=346504 content retrieved
-2016-11-03 17:34:51 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=348915 content retrieved
-2016-11-03 17:34:53 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=340871 content retrieved
-2016-11-03 17:34:55 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352521 content retrieved
-2016-11-03 17:34:56 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=350101 content retrieved
-2016-11-03 17:36:11 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=300715 content retrieved
-2016-11-03 17:36:13 INFO  crawler:139 - http://www.noivu.danang.gov.vn/trien-khai-luat-to-chuc-chinh-quyen-ia-phuong-bau-cu-ai-bieu-quoc-hoi-khoa-xiv-va-ai-bieu-h-nd-cac-cap-nhiem-ky-2016-2021 content retrieved
-2016-11-03 17:36:15 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=338574 content retrieved
-2016-11-03 17:36:16 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352427 content retrieved
-2016-11-03 17:36:17 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=349931 content retrieved
-2016-11-03 17:36:19 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=192545 content retrieved
-2016-11-03 17:36:20 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=351101 content retrieved
-2016-11-03 17:36:22 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=326929 content retrieved
-2016-11-03 17:36:23 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352317 content retrieved
-2016-11-03 17:36:25 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352443 content retrieved
-2016-11-03 17:36:26 INFO  crawler:139 - http://www.noivu.danang.gov.vn/chi-tiet-tin-tuc?articleId=352401 content retrieved
-2016-11-03 17:37:00 INFO  crawler:72 - noivu.danang.gov.vn crawling ended
-2016-11-03 17:37:20 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:37:20 INFO  crawler:47 - ipc.danang.gov.vn crawling started
-2016-11-03 17:37:35 INFO  crawler:139 - http://ipc.danang.gov.vn/ content retrieved
-2016-11-03 17:37:35 INFO  crawler:139 - http://ipc.danang.gov.vn/web/guest/-/tinh-hinh-thu-hut-đau-tu-nuoc-ngoai-9-thang-nam-2016 content retrieved
-2016-11-03 17:37:40 INFO  crawler:139 - http://ipc.danang.gov.vn/web/guest/-/thu-hut-von-đau-tu-nuoc-ngoai-đap-ung-nhu-cau-phat-trien-nen-kinh-te-ben-vung-cua-đat-nuoc content retrieved
-2016-11-03 17:38:24 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:38:24 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 17:38:29 INFO  crawler:139 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 17:39:05 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 17:39:52 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:39:52 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 17:39:55 INFO  crawler:139 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 17:40:33 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 17:40:54 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 17:40:54 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 17:41:35 INFO  crawler:72 - hpa.gov.vn crawling ended
-2016-11-03 21:48:40 INFO  crawler:30 - 0 sources selected to crawl
-2016-11-03 21:49:02 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:49:02 INFO  crawler:47 - ipaquangnam.gov.vn crawling started
-2016-11-03 21:49:44 INFO  crawler:72 - ipaquangnam.gov.vn crawling ended
-2016-11-03 21:50:00 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:50:00 INFO  crawler:47 - danviet.vn crawling started
-2016-11-03 21:51:34 INFO  crawler:30 - 0 sources selected to crawl
-2016-11-03 21:51:51 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:51:51 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 21:53:55 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:53:55 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 21:54:01 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-chuong-trinh-giao-thuong-tai-hoi-cho-thuc-pham-hong-kong-a2231 content retrieved
-2016-11-03 21:54:01 INFO  crawler:147 - http://hpa.gov.vn/default.aspx content retrieved
-2016-11-03 21:54:02 INFO  crawler:147 - http://hpa.gov.vn/thuong-mai/tin-tuc/trong-nuoc/thuc-day-hop-tac-tieu-thu-thanh-long-va-san-pham-nong-san-cua-binh-thuan-tai-ha-noi-a2945 content retrieved
-2016-11-03 21:54:04 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/to-chuc-hoi-nghi-hop-tac-phat-trien-vung-kinh-te-trong-diem-bac-bo-vung-dong-bang-song-hong-nam-2016-a2963 content retrieved
-2016-11-03 21:54:05 INFO  crawler:147 - http://hpa.gov.vn/du-lich/tin-tuc-su-kien/tin-tuc/to-chuc-“nhung-ngay-seoul-tai-ha-noi”-a2954 content retrieved
-2016-11-03 21:54:06 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/thanh-pho-ha-noi-tham-gia-hoi-sach-quoc-te-frankfurt-2016-tai-chlb-duc-a2955 content retrieved
-2016-11-03 21:54:07 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/ha-noi-to-chuc-hoi-nghi-“gap-mat-doi-thoai-doanh-nghiep”-a2964 content retrieved
-2016-11-03 21:54:09 INFO  crawler:147 - http://hpa.gov.vn/dau-tu/tin-tuc-su-kien/tin-tuc/cam-ket-thuc-hien-‘3-dong-hanh-5-ho-tro’-voi-doanh-nghiep-thu-do-a2944 content retrieved
-2016-11-03 21:54:10 INFO  crawler:147 - http://hpa.gov.vn/du-lich/tin-tuc-su-kien/tin-tuc/vinh-danh-nghe-truyen-thong-co-te-xa-phu-tuc-phu-xuyen-a2960 content retrieved
-2016-11-03 21:54:11 INFO  crawler:147 - http://hpa.gov.vn/su-kien-dia-phuong-khac/hoi-cho-nong-nghiep-cong-nghe-cao-va-cong-nghiep-thuc-pham-2016-–-lan-5-a2946 content retrieved
-2016-11-03 21:54:12 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-trien-lam-thailand-manufacturing-expo-2016-tai-thai-lan-a2033 content retrieved
-2016-11-03 21:54:14 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-le-hoi-banh-dan-gian-nam-bo-lan-v-nam-2016-tai-can-tho-a1939 content retrieved
-2016-11-03 21:54:15 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/hoi-cho-tokyo-international-gift-show-2016-va-giao-dich-thuong-mai-tai-nhat-ban-a2254 content retrieved
-2016-11-03 21:54:17 INFO  crawler:147 - http://hpa.gov.vn/su-kien-dia-phuong-khac/hai-duong-khai-hoi-mua-thu-con-son-–-kiep-bac-a2302 content retrieved
-2016-11-03 21:54:18 INFO  crawler:147 - http://hpa.gov.vn/du-lich/tin-tuc-su-kien/tin-tuc/ha-noi-ky-ket-hop-tac-du-lich-voi-13-tinh-thanh-tay-nam-bo-a2956 content retrieved
-2016-11-03 21:54:20 INFO  crawler:147 - http://hpa.gov.vn/su-kien-quoc-gia/moi-tham-du-hoi-cho-quoc-te-thuong-mai-hang-hoa-ho-nam-asean-a2941 content retrieved
-2016-11-03 21:54:21 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/gioi-thieu/chuong-trinh-xuc-tien-dau-tu-thuong-mai-du-lich content retrieved
-2016-11-03 21:54:23 INFO  crawler:147 - http://hpa.gov.vn/su-kien-dia-phuong-khac/moi-tham-gia-chuong-trinh-xttmqg-hoi-cho-quoc-te-thuong-mai-–-du-lich-va-dau-tu-hanh-lang-kinh-te-dong-tay-da-nang-2016-a2241 content retrieved
-2016-11-03 21:54:24 INFO  crawler:147 - http://hpa.gov.vn/su-kien-quoc-gia/hoi-thao-“xuc-tien-thuong-mai-sang-thi-truong-trung-dong-–-chau-phi-a2279 content retrieved
-2016-11-03 21:54:25 INFO  crawler:147 - http://hpa.gov.vn/dau-tu/tin-tuc-su-kien/tin-tuc/ha-noi-chi-so-san-xuat-cong-nghiep-thang-10-tang-8-6-a2953 content retrieved
-2016-11-03 21:54:26 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/hoi-cho-dac-san-vung-mien-viet-nam-2016-a2172 content retrieved
-2016-11-03 21:54:27 INFO  crawler:147 - http://hpa.gov.vn/su-kien-quoc-gia/trien-lam-caexpo-viet-nam-2016-a2246 content retrieved
-2016-11-03 21:54:29 INFO  crawler:147 - http://hpa.gov.vn/thuong-mai/tin-tuc/trong-nuoc/day-manh-xuat-khau-hang-thu-cong-my-nghe-cua-thu-do-a2950 content retrieved
-2016-11-03 21:54:31 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/hoi-nghi-acmecs-7-clmv-8-hanh-dong-de-dinh-hinh-tuong-lai-a2959 content retrieved
-2016-11-03 21:54:32 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-chuong-trinh-xuc-tien-du-lich-tai-uc-a2288 content retrieved
-2016-11-03 21:54:34 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/thong-bao-ket-qua-kiem-tra-ho-so-thi-sinh-tham-du-xet-tuyen-dac-cach-vao-vien-chuc-lam-viec-tai-trung-tam-nam-2016-a2961 content retrieved
-2016-11-03 21:54:36 INFO  crawler:147 - http://hpa.gov.vn/thuong-mai/tin-tuc/trong-nuoc/10-thang-kim-ngach-xuat-khau-ha-noi-dat-hon-8-8-ty-usd-a2952 content retrieved
-2016-11-03 21:54:42 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:54:42 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 21:54:46 INFO  crawler:147 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 21:55:23 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 21:55:37 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:55:37 INFO  crawler:47 - ipaquangnam.gov.vn crawling started
-2016-11-03 21:55:41 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/ content retrieved
-2016-11-03 21:55:43 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/thuc-hien-thu-tuc-hanh-chinh-qua-dich-vu-buu-chinh-cong-ich.html content retrieved
-2016-11-03 21:55:44 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/quy-dau-tu-phat-trien-quang-nam.html content retrieved
-2016-11-03 21:55:44 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-hong-cong-muon-tim-nha-may-san-xuat-hang-quan-ao-va-hang-gom-su-tai-viet-nam.html content retrieved
-2016-11-03 21:55:45 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-san-pham-que-.html content retrieved
-2016-11-03 21:55:46 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-cac-san-pham-may-mac.html content retrieved
-2016-11-03 21:55:47 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/cong-ty-cp-lam-san-pisico-quang-nam.html content retrieved
-2016-11-03 21:55:48 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/dien-dan-doanh-nghiep-phap-viet-nam-tai-thanh-pho-ho-chi-minh.html content retrieved
-2016-11-03 21:55:48 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-cac-san-pham-vai-100-to-tam-tu-nhien.html content retrieved
-2016-11-03 21:55:50 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/du-an-uu-tien/cac-du-an-uu-tien-thu-hut-dau-tu.html content retrieved
-2016-11-03 21:55:51 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/doan-nha-dau-tu-tu-tp-ho-chi-minh-tim-hieu-dau-tu-tai-quang-nam.html content retrieved
-2016-11-03 21:55:52 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/cai-thien-moi-truong-dau-tu-cuoc-chay-dua-nuoc-rut.html content retrieved
-2016-11-03 21:55:52 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/cong-ty-tnhh-mtv-huu-toan-chu-lai.html content retrieved
-2016-11-03 21:55:53 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/hoat-dong-cong-doan-chi-tiet/hoi-thao-xuc-tien-dau-tu-han-quoc-vao-tinh-quang-nam-nam-2015.html content retrieved
-2016-11-03 21:55:54 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/cn-cong-ty-xang-dau-khu-vuc-v-tnhh-mtv-tai-quang-nam.html content retrieved
-2016-11-03 21:55:55 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-cac-san-pham-do-go-thu-cong-my-nghe.html content retrieved
-2016-11-03 21:55:58 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/cac-khu-quy-hoach-chi-tiet/khu-cong-nghiep-co-khi-da-dung-va-oto-tap-trung.html content retrieved
-2016-11-03 21:55:58 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/cong-ty-co-phan-du-lich-dich-vu-hoi-an.html content retrieved
-2016-11-03 21:55:59 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/to-chuc-thuong-mai/to-chuc-xttm-nuoc-ngoai-tai-vn.html content retrieved
-2016-11-03 21:56:00 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/chinh-sach-ho-tro-dao-tao-lao-dong-cho-chuong-trinh-du-an-trong-diem-va-cac-doanh-nghiep-tren-dia-ban-tinh-quang-nam-giai-doan-2016-2020.html content retrieved
-2016-11-03 21:56:02 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/hoat-dong-cong-doan-chi-tiet/dien-dan-doi-thoai-doanh-nghiep-tren-linh-vuc-cong-nghiep.html content retrieved
-2016-11-03 21:56:02 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-cac-san-pham-tu-tram-huong.html content retrieved
-2016-11-03 21:56:03 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-phan-phoi-han-quoc-can-tim-nha-san-xuat-hat-dieu.html content retrieved
-2016-11-03 21:56:04 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/gioi-thieu/trung-tam-hanh-chinh-cong-va-xuc-tien-dau-tu-tinh-quang-nam.html content retrieved
-2016-11-03 21:56:05 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/cac-khu-quy-hoach/cac-khu-kinh-te-khu-cong-nghiep.html content retrieved
-2016-11-03 21:56:06 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/tiep-va-lam-viec-voi-cong-ty-german-asean-power-cong-hoa-lien-bang-duc-ve-tim-hieu-dau-tu-du-an-dien-nang-luong-mat-troi-tai-tinh-quang-nam.html content retrieved
-2016-11-03 21:56:07 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/tinh-hinh-kinh-te-xa-hoi-thang-9-9-thang-dau-nam-2016-va-nhiem-vu-cong-tac-trong-tam-quy-iv2016.html content retrieved
-2016-11-03 21:56:08 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/xuc-tien-dau-tu/thu-tuc-hanh-chinh-mot-cua-lien-thong.html content retrieved
-2016-11-03 21:56:09 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/moi-tham-gia-hoi-cho-trien-lam-tu-hao-hang-viet-da-nang-2016.html content retrieved
-2016-11-03 21:57:41 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:57:41 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 21:57:43 INFO  crawler:147 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 21:58:22 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 21:59:47 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 21:59:47 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 21:59:49 INFO  crawler:148 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 22:00:28 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 22:04:05 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:04:05 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 22:04:12 INFO  crawler:148 - http://hpa.gov.vn/su-kien-quoc-gia/moi-doanh-nghiep-tham-du-hoi-cho-sial-paris-2016-a1928 content retrieved
-2016-11-03 22:04:13 INFO  crawler:148 - http://hpa.gov.vn/default.aspx content retrieved
-2016-11-03 22:04:14 INFO  crawler:148 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-du-trien-lam-quoc-te-cong-nghiep-thuc-pham-viet-nam-2016-a1799 content retrieved
-2016-11-03 22:04:15 INFO  crawler:148 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-doan-giao-dich-thuong-mai-ve-nganh-det-may-tai-an-do-ket-hop-hoat-dong-xuc-tien-dau-tu-a2249 content retrieved
-2016-11-03 22:04:16 INFO  crawler:148 - http://hpa.gov.vn/su-kien-quoc-gia/moi-tham-gia-hoi-cho-du-lich-quoc-te-ite-hcmc-thanh-pho-ho-chi-minh-2016-a2289 content retrieved
-2016-11-03 22:05:32 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:05:32 INFO  crawler:47 - ipaquangnam.gov.vn crawling started
-2016-11-03 22:05:36 INFO  crawler:148 - http://ipaquangnam.gov.vn/vie/ content retrieved
-2016-11-03 22:05:38 INFO  crawler:148 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/thuc-hien-thu-tuc-hanh-chinh-qua-dich-vu-buu-chinh-cong-ich.html content retrieved
-2016-11-03 22:06:36 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:06:36 INFO  crawler:47 - ipaquangnam.gov.vn crawling started
-2016-11-03 22:07:17 INFO  crawler:72 - ipaquangnam.gov.vn crawling ended
-2016-11-03 22:16:29 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:16:29 INFO  crawler:47 - ipaquangnam.gov.vn crawling started
-2016-11-03 22:16:34 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/ content retrieved
-2016-11-03 22:16:36 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/thuc-hien-thu-tuc-hanh-chinh-qua-dich-vu-buu-chinh-cong-ich.html content retrieved
-2016-11-03 22:16:47 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/lien-ket-chi-tiet/cong-ty-tnhh-sai-gon-coop-tam-ky.html content retrieved
-2016-11-03 22:16:47 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-gao-luong-thuc-va-thuy-san.html content retrieved
-2016-11-03 22:16:51 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-can-banxuat-khau-cac-san-pham-nhang-que.html content retrieved
-2016-11-03 22:16:52 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/cac-khu-quy-hoach-chi-tiet/khu-cong-nghiep-co-khi-o-to-chu-lai-truong-hai.html content retrieved
-2016-11-03 22:16:53 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tiep-doanh-nghiep/quy-dinh-ve-to-chuc-tiep-doanh-nghiep.html content retrieved
-2016-11-03 22:16:54 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/mot-cong-ty-cua-an-do-co-nhu-cau-giao-thuong-cac-nganh-hang-san-pham-dac-trung-cua-tinh-quang-nam.html content retrieved
-2016-11-03 22:16:54 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/ddoanh-nghiep-can-banxuat-khau-cac-san-pham-tu-sam-ngoc-linh-nam-lim-xanh-quang-nam.html content retrieved
-2016-11-03 22:16:55 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/hoat-dong-cong-doan-chi-tiet/hoi-nghi-trien-khai-cong-tac-nam-2014-va-quy-che-phoi-hop-thuc-hien-co-che-mot-cua-lien-thong.html content retrieved
-2016-11-03 22:16:56 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/dieu-kien-thanh-lap-co-so-giao-duc-nghe-nghiep.html content retrieved
-2016-11-03 22:16:57 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/hoat-dong-cong-doan-chi-tiet/hoi-nghi-trien-khai-nghi-quyet-cua-tinh-uy-quang-nam-ve-cong-tac-cai-cach-hanh-chinh-cong-bo-chi-so-cai-cach-hanh-chinh-nam-2015-ban-giai-phap-nang-cao-chi-so-pci-va-chi-so-papi.html content retrieved
-2016-11-03 22:16:58 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/huong-den-thanh-lap-trung-tam-hanh-chinh-cong-va-xuc-tien-dau-tu-tinh-kien-toan-he-thong-phan-mem.html content retrieved
-2016-11-03 22:16:59 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tim-kiem-doi-tac-chi-tiet/doanh-nghiep-han-quoc-muon-tim-nha-san-xuat-do-trang-suc-bang-bac.html content retrieved
-2016-11-03 22:17:00 INFO  crawler:147 - http://ipaquangnam.gov.vn/vie/tin-tuc-chi-tiet/moi-tham-du-giao-luu-ket-noi-voi-doanh-nghiep-malaysia.html content retrieved
-2016-11-03 22:17:32 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:17:32 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 22:17:38 INFO  crawler:147 - http://hpa.gov.vn/default.aspx content retrieved
-2016-11-03 22:17:58 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:17:58 INFO  crawler:47 - hpa.gov.vn crawling started
-2016-11-03 22:18:04 INFO  crawler:147 - http://hpa.gov.vn/su-kien-ha-noi/moi-tham-gia-chuong-trinh-giao-thuong-tai-hoi-cho-thuc-pham-hong-kong-a2231 content retrieved
-2016-11-03 22:18:04 INFO  crawler:147 - http://hpa.gov.vn/default.aspx content retrieved
-2016-11-03 22:18:05 INFO  crawler:147 - http://hpa.gov.vn/thuong-mai/tin-tuc/trong-nuoc/thuc-day-hop-tac-tieu-thu-thanh-long-va-san-pham-nong-san-cua-binh-thuan-tai-ha-noi-a2945 content retrieved
-2016-11-03 22:18:08 INFO  crawler:147 - http://hpa.gov.vn/trang-chu/tin-tong-hop/to-chuc-hoi-nghi-hop-tac-phat-trien-vung-kinh-te-trong-diem-bac-bo-vung-dong-bang-song-hong-nam-2016-a2963 content retrieved
-2016-11-03 22:18:08 INFO  crawler:147 - http://hpa.gov.vn/du-lich/tin-tuc-su-kien/tin-tuc/to-chuc-“nhung-ngay-seoul-tai-ha-noi”-a2954 content retrieved
-2016-11-03 22:18:31 INFO  crawler:30 - 0 sources selected to crawl
-2016-11-03 22:18:46 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:18:46 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 22:18:48 INFO  crawler:147 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 22:18:49 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/News.aspx?CatId=39 content retrieved
-2016-11-03 22:19:27 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 22:20:44 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:20:44 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 22:20:46 INFO  crawler:149 - http://ipcn.mpi.gov.vn/ content retrieved
-2016-11-03 22:20:47 INFO  crawler:149 - http://ipcn.mpi.gov.vn/Home/News.aspx?CatId=39 content retrieved
-2016-11-03 22:21:25 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 22:23:21 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:23:21 INFO  crawler:47 - ipcn.mpi.gov.vn crawling started
-2016-11-03 22:23:25 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=50&id=444 content retrieved
-2016-11-03 22:23:26 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=53&id=364 content retrieved
-2016-11-03 22:23:27 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=39&id=766 content retrieved
-2016-11-03 22:23:27 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=52&id=442 content retrieved
-2016-11-03 22:23:28 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=51&id=440 content retrieved
-2016-11-03 22:23:29 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=39&id=768 content retrieved
-2016-11-03 22:23:30 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=39&id=755 content retrieved
-2016-11-03 22:23:31 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=45&id=375 content retrieved
-2016-11-03 22:23:31 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=59&id=438 content retrieved
-2016-11-03 22:23:32 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=39&id=761 content retrieved
-2016-11-03 22:23:33 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=35&id=280 content retrieved
-2016-11-03 22:23:34 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=39&id=749 content retrieved
-2016-11-03 22:23:35 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=137&id=725 content retrieved
-2016-11-03 22:23:35 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=41&id=322&relate=no content retrieved
-2016-11-03 22:23:35 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=32&id=279 content retrieved
-2016-11-03 22:23:36 INFO  crawler:147 - http://ipcn.mpi.gov.vn/Home/NewsDetail.aspx?CatId=49&id=436 content retrieved
-2016-11-03 22:24:12 INFO  crawler:72 - ipcn.mpi.gov.vn crawling ended
-2016-11-03 22:25:58 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:25:58 INFO  crawler:47 - danviet.vn crawling started
-2016-11-03 22:26:01 INFO  crawler:146 - http://danviet.vn/cong-nghe/ra-mat-dich-vu-mang-di-dong-4g-dau-tien-tai-viet-nam-720442.html content retrieved
-2016-11-03 22:26:01 INFO  crawler:146 - http://danviet.vn/ngon-sach-la/trong-rau-mam-duoi-duong-tau-dien-ngam-710954.html content retrieved
-2016-11-03 22:26:02 INFO  crawler:146 - http://danviet.vn/cuoi/nong-mat-ngam-chi-em-tao-dang-cung-hoa-qua-720378.html content retrieved
-2016-11-03 22:26:02 INFO  crawler:146 - http://danviet.vn/tin-tuc/mo-phong-3d-toan-canh-vu-chay-quan-karaoke-13-nguoi-chet-720424.html content retrieved
-2016-11-03 22:26:03 INFO  crawler:146 - http://danviet.vn/ngu-dan-bam-bien/tau-dut-day-neo-3-ngu-dan-keu-cuu-giua-bien-720188.html content retrieved
-2016-11-03 22:26:03 INFO  crawler:146 - http://danviet.vn/nha-nong/vua-lua-tay-nam-bo-vap-noi-lo-co-che-chinh-sach-720131.html content retrieved
-2016-11-03 22:26:03 INFO  crawler:146 - http://danviet.vn/the-thao/hau-truong-311-ronaldo-dung-mo-bong-vang-pogba-chuon-khoi-mu-720411.html content retrieved
-2016-11-03 22:26:04 INFO  crawler:146 - http://danviet.vn/doanh-nghiep/vietinbank-3-nam-lien-tiep-duoc-vinh-danh-doanh-nghiep-vi-nguoi-lao-dong-719783.html content retrieved
-2016-11-03 22:26:04 INFO  crawler:146 - http://danviet.vn/chuyen-la/phat-hien-da-trung-ki-la-tren-be-mat-hanh-tinh-do-720282.html content retrieved
-2016-11-03 22:26:33 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:26:33 INFO  crawler:47 - danviet.vn crawling started
-2016-11-03 22:26:37 INFO  crawler:145 - http://danviet.vn/cong-nghe/ra-mat-dich-vu-mang-di-dong-4g-dau-tien-tai-viet-nam-720442.html content retrieved
-2016-11-03 22:26:37 INFO  crawler:145 - http://danviet.vn/cuoi/chi-la-tinh-co-ma-xem-xong-lai-day-bat-ngo-720014.html content retrieved
-2016-11-03 22:26:37 INFO  crawler:145 - http://danviet.vn/the-gioi/tong-thong-philippines-bat-dau-nem-trai-dang-vi-gan-trung-xa-my-720412.html content retrieved
-2016-11-03 22:26:37 INFO  crawler:145 - http://danviet.vn/van-hoa/xem-lai-chum-anh-hiem-nhung-vai-dien-cua-nsut-pham-bang-40-nam-truoc-720217.html content retrieved
-2016-11-03 22:26:38 INFO  crawler:145 - http://danviet.vn/y-te/tre-mac-cum-mua-ho-ga-tay-chan-mieng-nhap-vien-la-liet-720470.html content retrieved
-2016-11-03 22:26:38 INFO  crawler:145 - http://danviet.vn/the-gioi/vn-noi-ve-viec-philippines-muon-giai-quyet-song-phuong-voi-tq-ve-bien-dong-720402.html content retrieved
-2016-11-03 22:26:39 INFO  crawler:145 - http://danviet.vn/du-lich/thot-tim-voi-cac-pha-ho-vo-trong-so-thu-720379.html content retrieved
-2016-11-03 22:26:39 INFO  crawler:145 - http://danviet.vn/ngon-sach-la/6-loai-rau-ho-cai-se-len-am-am-neu-trong-ngay-dau-thang-11-716600.html content retrieved
-2016-11-03 22:26:40 INFO  crawler:145 - http://danviet.vn/sao/can-canh-nhan-sac-chung-han-dong-sau-8-nam-scandal-lo-anh-nong-720187.html content retrieved
-2016-11-03 22:26:40 INFO  crawler:145 - http://danviet.vn/o-to-xe-may/top-10-logo-day-an-y-thu-vi-tren-xe-hoi-719180.html content retrieved
-2016-11-03 22:27:12 INFO  crawler:30 - 1 sources selected to crawl
-2016-11-03 22:27:12 INFO  crawler:47 - danviet.vn crawling started
-2016-11-03 22:27:15 INFO  crawler:145 - http://danviet.vn/cong-nghe/ra-mat-dich-vu-mang-di-dong-4g-dau-tien-tai-viet-nam-720442.html content retrieved
-2016-11-03 22:27:15 INFO  crawler:145 - http://danviet.vn/bi-quyet-nuoi-trong/danh-thuc-tiem-nang-lam-giau-cua-nha-nong-ven-bien-720147.html content retrieved
-2016-11-03 22:27:15 INFO  crawler:145 - http://danviet.vn/tin-tuc/xot-xa-canh-cha-cut-1-tay-trang-dem-boi-tim-thi-the-con-giua-con-lu-720083.html content retrieved
-2016-11-03 22:27:17 INFO  crawler:145 - http://danviet.vn/du-lich/30-diem-den-cuc-chat-cho-nguoi-thich-vi-vu-mot-minh-720106.html content retrieved
-2016-11-03 22:27:17 INFO  crawler:145 - http://danviet.vn/gia-dinh/ngam-phong-cach-thoi-trang-cua-mau-nhi-noi-tieng-bac-nhat-ha-thanh-720009.html content retrieved
-2016-11-03 22:27:17 INFO  crawler:145 - http://danviet.vn/ban-doc/vu-chay-quan-karaoke-o-tran-thai-tong-ai-se-phai-chiu-trach-nhiem-720065.html content retrieved
+2016-12-04 18:28:28 INFO  crawler:30 - 0 sources selected to crawl
+2016-12-04 18:29:01 INFO  crawler:30 - 1 sources selected to crawl
+2016-12-04 18:29:01 INFO  crawler:47 - nguyentandung.org crawling started
+2016-12-04 18:29:09 INFO  crawler:145 - http://nguyentandung.org/tong-thu-ky-lhq-ban-ki-moon-gui-thu-chuc-mung-dien-dan-toan-cau-boston-nhan-ngay-an-ninh-mang-toan-cau.html content retrieved
+2016-12-04 18:29:10 INFO  crawler:145 - http://nguyentandung.org/vu-trinh-xuan-thanh-thi-hanh-ky-luat-nhieu-can-bo-cao-cap.html content retrieved
+2016-12-04 18:29:11 INFO  crawler:145 - http://nguyentandung.org/tien-si-gia-re-va-chuyen-len-cung-trang.html content retrieved
+2016-12-04 18:29:12 INFO  crawler:145 - http://nguyentandung.org/10-nghin-dong-mua-giac-mo-ty-phu.html content retrieved
+2016-12-04 18:29:17 INFO  crawler:145 - http://nguyentandung.org/lop-hoc-kich-nao-dao-tao-thien-tai-va-tu-duy-an-xoi.html content retrieved
+2016-12-04 18:29:19 INFO  crawler:145 - http://nguyentandung.org/thu-tuong-dong-y-gia-han-goi-30-000-ty-dong-den-khi-giai-ngan-het.html content retrieved
+2016-12-04 18:29:19 INFO  crawler:145 - http://nguyentandung.org/csgt-da-nang-lap-facebook-nhan-phan-anh-cua-dan.html content retrieved
+2016-12-04 18:29:20 INFO  crawler:145 - http://nguyentandung.org/tieu-su-thu-tuong-viet-nam-nguyen-tan-dung.html content retrieved
+2016-12-04 18:29:25 INFO  crawler:145 - http://nguyentandung.org/cac-nghi-can-am-sat-ong-erdogan-bi-de-nghi-muc-an-tu-chung-than.html content retrieved
+2016-12-04 18:29:26 INFO  crawler:145 - http://nguyentandung.org/gia-vang-sjc-bat-tang-theo-da-cua-thi-truong-the-gioi.html content retrieved
+2016-12-04 18:29:27 INFO  crawler:145 - http://nguyentandung.org/4-nguy-co-xung-dot-du-trump-rut-khoi-thuong-truong.html content retrieved
+2016-12-04 18:29:28 INFO  crawler:145 - http://nguyentandung.org/cha-con-toi-bat-ngo-khi-quen-vi-tren-xe-buyt-duc.html content retrieved
+2016-12-04 18:29:34 INFO  crawler:145 - http://nguyentandung.org/nhung-y-tuong-khoi-nghiep-dang-gia-trieu-do.html content retrieved
+2016-12-04 18:29:34 INFO  crawler:145 - http://nguyentandung.org/nen-kinh-te-viet-nam-co-4-dong-co-thi-3-dang-truc-trac-2.html content retrieved
+2016-12-04 18:29:36 INFO  crawler:145 - http://nguyentandung.org/thu-tuong-nguyen-tan-dung-phe-chuan-nhan-su-ubnd-2-tinh.html content retrieved
+2016-12-04 18:29:36 INFO  crawler:145 - http://nguyentandung.org/gia-vang-dao-chieu-tang-manh-phien-dau-tuan.html content retrieved
+2016-12-04 18:29:40 INFO  crawler:145 - http://nguyentandung.org/dang-xanh-tu-bo-yeu-cau-tai-kiem-phieu-bau-cu-tong-thong-my.html content retrieved
+2016-12-04 18:29:41 INFO  crawler:145 - http://nguyentandung.org/nguyen-thu-tuong-nguyen-tan-dung-truyen-dat-kinh-nghiem-trong-quan-ly-nha-nuoc-cho-can-bo-tphcm.html content retrieved
+2016-12-04 18:29:41 INFO  crawler:145 - http://nguyentandung.org/he-mo-hai-cau-hoi-kho-ve-trinh-xuan-thanh-va-ong-vu-huy-hoang.html content retrieved
+2016-12-04 18:29:43 INFO  crawler:145 - http://nguyentandung.org/khanh-thanh-truong-thpt-vo-van-kiet-o-kien-giang.html content retrieved
+2016-12-04 18:29:45 INFO  crawler:145 - http://nguyentandung.org/da-nang-thao-do-hon-80-biet-phu-khong-phep-cua-dai-gia-vang-tren-nui-hai-van.html content retrieved
+2016-12-04 18:29:46 INFO  crawler:145 - http://nguyentandung.org/vu-ki-luat-ki-luc-va-noi-lo-ve-danh-hieu-rat-thoa-dang.html content retrieved
+2016-12-04 18:29:48 INFO  crawler:145 - http://nguyentandung.org/bao-nuoc-ngoai-soc-voi-that-bai-cua-viet-nam.html content retrieved
+2016-12-04 18:29:48 INFO  crawler:145 - http://nguyentandung.org/cu-ho-tran-la-con-cai-cua-chu-tich-nuoc-tran-dai-quang.html content retrieved
+2016-12-04 18:29:51 INFO  crawler:145 - http://nguyentandung.org/gia-vang-hom-nay-112-xuong-day-10-thang-doan-cuoi-dau-don.html content retrieved
+2016-12-04 18:29:52 INFO  crawler:145 - http://nguyentandung.org/le-phi-cap-moi-the-can-cuoc-cong-dan.html content retrieved
+2016-12-04 18:29:53 INFO  crawler:145 - http://nguyentandung.org/stephen-hawking-thoi-ky-nguy-hiem-nhat-tren-trai-dat-da-bat-dau.html content retrieved
+2016-12-04 18:29:54 INFO  crawler:145 - http://nguyentandung.org/wsj-nghi-van-kho-nhom-khong-lo-cua-ty-phu-trung-quoc-tai-viet-nam.html content retrieved
+2016-12-04 18:29:57 INFO  crawler:145 - http://nguyentandung.org/nguyen-thu-tuong-nguyen-tan-dung-di-bo-phieu.html content retrieved
+2016-12-04 18:29:58 INFO  crawler:145 - http://nguyentandung.org/thai-lan-chinh-thuc-co-quoc-vuong-moi.html content retrieved
+2016-12-04 18:30:00 INFO  crawler:145 - http://nguyentandung.org/tiep-dien-cac-vu-tan-cong-quan-doi-o-mien-bac-myanmar.html content retrieved
+2016-12-04 18:30:01 INFO  crawler:145 - http://nguyentandung.org/tong-thong-phap-is-dung-sau-vu-tan-cong-nha-tho-sat-hai-linh-muc.html content retrieved
+2016-12-04 18:30:03 INFO  crawler:145 - http://nguyentandung.org/khi-tan-the-xay-ra-day-se-la-noi-ma-chung-ta-can-tim-den-dau-tien.html content retrieved
+2016-12-04 18:30:05 INFO  crawler:145 - http://nguyentandung.org/thong-bao-bien-dong-lao-dong-tai-cac-don-vi-bo-quoc-phong-bo-cong-an.html content retrieved
+2016-12-04 18:30:05 INFO  crawler:145 - http://nguyentandung.org/nguyen-thu-tuong-nguyen-tan-dung-di-bo-den-diem-bau-cu-o-tp-hcm.html content retrieved
+2016-12-04 18:30:07 INFO  crawler:145 - http://nguyentandung.org/ukraine-va-ba-lan-dong-thuan-chong-sieu-du-an-dong-chay-phuong-bac-2-cua-nga.html content retrieved
+2016-12-04 18:30:08 INFO  crawler:145 - http://nguyentandung.org/khoi-cong-co-so-2-benh-vien-ung-buou-1-000-giuong.html content retrieved
+2016-12-04 18:30:09 INFO  crawler:145 - http://nguyentandung.org/trung-quoc-khong-noi-ung-ho-thanh-lap-vung-bao-ton-tai-scarborough.html content retrieved
+2016-12-04 18:30:10 INFO  crawler:145 - http://nguyentandung.org/is-co-the-dang-chon-thu-linh-moi.html content retrieved
+2016-12-04 18:30:12 INFO  crawler:145 - http://nguyentandung.org/viet-nam-xep-thu-7-chau-a-ve-nang-luc-tieng-anh.html content retrieved
+2016-12-04 18:30:13 INFO  crawler:145 - http://nguyentandung.org/ve-co-kinh-cua-ngoi-chua-dep-nhat-the-gioi-tai-viet-nam.html content retrieved
+2016-12-04 18:30:14 INFO  crawler:145 - http://nguyentandung.org/bang-chung-dong-troi-my-bat-tay-voi-is-o-mosuliraq.html content retrieved
+2016-12-04 18:30:44 INFO  crawler:30 - 1 sources selected to crawl
+2016-12-04 18:30:44 INFO  crawler:47 - tttt.danang.gov.vn crawling started
+2016-12-04 18:30:51 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/danh-sach-tin;jsessionid=E4B5A4FA305C8FB59F9F8E4AE37B82E5?p_p_col_count=4&p_p_col_id=column-7&p_p_col_pos=1&p_p_id=101_INSTANCE_e45gRDXMrG15&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal&p_r_p_564233524_categoryId=12452&p_r_p_564233524_resetCur=true content retrieved
+2016-12-04 18:30:52 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/co-mot-truong-day-nghe-va-uom-mam-y-tuong-sang-tao-cntt-ra-đoi-tren-vung-cat-trang-hoang-can-o-ngoai-o-đa-nang content retrieved
+2016-12-04 18:30:54 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/danh-sach-cac-to-chuc-giam-đinh-tu-phap-va-nguoi-giam-đinh-tu-phap-tren-đia-ban-thanh-pho-đa-nang content retrieved
+2016-12-04 18:30:56 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/tham-gia-binh-chon-“cong-dan-đa-nang-tieu-bieu” content retrieved
+2016-12-04 18:30:58 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/ke-hoach-to-chuc-ngay-phap-luat-cua-so-thong-tin-va-truyen-thong content retrieved
+2016-12-04 18:31:00 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/giai-bao-chi-tuyen-truyen-“đa-nang-thanh-pho-moi-truong”-tiep-tuc-nhan-bai-du-thi-đen-25-11-2016 content retrieved
+2016-12-04 18:31:01 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/đe-vet-thuong-long-me-khong-con-nang-mang- content retrieved
+2016-12-04 18:31:03 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/so-thong-tin-va-truyen-thong-tp-đa-nang-to-chuc-đot-sinh-hoat-chinh-tri-sau-rong-va-xuyen-suot-2016-2017-voi-chu-đe-“đay-manh-viec-hoc-tap-va-lam-theo content retrieved
+2016-12-04 18:31:05 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/thong-tin-bao-chi/-/asset_publisher/MCy6V0g9Avp9/content/danh-sach-cac-co-quan-bao-chi-tren-%C4%91ia-ban-thanh-pho-%C4%91a-nang-cap-nhat-ngay-9-8-2016-?redirect=http%3A%2F%2Ftttt.danang.gov.vn%2Fweb%2Fguest%2Fthong-tin-bao-chi%3Fp_p_id%3D101_INSTANCE_MCy6V0g9Avp9%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1 content retrieved
+2016-12-04 18:31:07 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/huong-dan-cong-tac-phat-ngon-va-cung-cap-thong-tin-bao-chi content retrieved
+2016-12-04 18:31:10 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/thanh-tra-so-thong-tin-va-truyen-thong-xu-ly-nghiem-4-co-so-kinh-doanh-sach-in-lau-tai-đa-nang content retrieved
+2016-12-04 18:31:12 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/danh-sach-so-%C4%91ien-thoai-quang-cao-rao-vat-sai-quy-%C4%91inh-tren-%C4%91ia-ban-thanh-pho-%C4%91a-nang content retrieved
+2016-12-04 18:31:13 INFO  crawler:145 - http://tttt.danang.gov.vn/web/guest/-/chinh-thuc-đoi-ma-vung-đien-thoai-co-đinh-tu-11-2-2017 content retrieved
