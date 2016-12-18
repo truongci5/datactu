@@ -1,5 +1,7 @@
 package com.xuantruongvu.datactu.mysql;
 
+import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -7,14 +9,13 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-
+@SuppressWarnings("serial")
 @Entity
 @Table(name = "datactu_html")
-public class Html {
+public class Html implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
-	
 
 	@Column(name = "html", length = 60000)
 	private String html;

@@ -15,6 +15,7 @@ public class HtmlService {
 		try {
 			et.begin();
 			em.persist(html);
+			em.flush();
 			et.commit();
 		} catch (Exception e) {
 			if(et != null && et.isActive()) et.rollback();
