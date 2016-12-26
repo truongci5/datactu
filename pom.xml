@@ -119,5 +119,10 @@
 			<artifactId>javax.persistence</artifactId>
 			<version>2.1.1</version>
 		</dependency>
+		<dependency>
+			<groupId>com.craterdog.java-security-framework</groupId>
+			<artifactId>java-security-utilities</artifactId>
+			<version>3.23</version>
+		</dependency>
 	</dependencies>
 </project>

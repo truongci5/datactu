@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
 import com.xuantruongvu.datactu.mongodb.ArticleDocument;
 import com.xuantruongvu.datactu.mongodb.LinkDocument;
 import com.xuantruongvu.datactu.mongodb.MongoService;
+import com.xuantruongvu.datactu.util.HashUtil;
 
 import de.l3s.boilerpipe.BoilerpipeExtractor;
 import de.l3s.boilerpipe.BoilerpipeProcessingException;
@@ -60,6 +61,7 @@ public class DatactuCrawler extends WebCrawler {
 		}
 				
 		href = URLAnalyzer.removeUtmParameters(href);
+		
 		if (newUrls.contains(href)) {
 			return false;
 		} else {
@@ -88,7 +90,15 @@ public class DatactuCrawler extends WebCrawler {
 		} catch (MalformedURLException e) {
 		}
 
-		if (recentUrls.contains(href)) {
+		
+		String hashedHref;
+		try {
+			hashedHref = HashUtil.hashString(href);
+		} catch (Exception e) {
+			hashedHref = href;
+		}
+		
+		if (recentUrls.contains(hashedHref)) {
 			return false;
 		}
 

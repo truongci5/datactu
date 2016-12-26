@@ -23,7 +23,7 @@ import edu.uci.ics.crawler4j.robotstxt.RobotstxtServer;
 public class CrawlerController {
 	private static final Logger logger = LoggerFactory.getLogger("crawler");
 	
-	private static final Integer recentUrlNumber = 400; 
+	private static final Integer recentUrlNumber = 800; 
 	
 	public static void crawl() {
 		List<Source> sources = SourceService.findAll();

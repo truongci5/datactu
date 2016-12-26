@@ -2,6 +2,7 @@ package com.xuantruongvu.datactu.mongodb;
 
 import com.mongodb.BasicDBObjectBuilder;
 import com.mongodb.DBObject;
+import com.xuantruongvu.datactu.util.HashUtil;
 
 public class LinkDocument {
 	private String url;
@@ -21,7 +22,11 @@ public class LinkDocument {
 	 * @param url the url to set
 	 */
 	public void setUrl(String url) {
-		this.url = url;
+		try {
+			this.url = HashUtil.hashString(url);
+		} catch (Exception e) {
+			this.url = url;
+		}
 	}
 
 	/**
