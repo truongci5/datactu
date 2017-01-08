@@ -115,6 +115,13 @@ public class Article implements Serializable {
 	}
 
 	/**
+	 * @return the domainId
+	 */
+	public Integer getDomainId() {
+		return domainId;
+	}
+
+	/**
 	 * @param url the url to set
 	 */
 	public void setUrl(String url) {
