@@ -31,7 +31,7 @@ public class MongoService {
 	    DBCursor cursor = collection.find(query).sort(new BasicDBObject("created_at",-1)).limit(limit);
 	    
 	    while (cursor.hasNext()) {
-	    	links.add(cursor.next().get("url").toString());
+	    	links.add(cursor.next().get("hashed_url").toString());
 	    }
 		
 		return links;

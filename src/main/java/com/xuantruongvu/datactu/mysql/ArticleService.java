@@ -44,7 +44,7 @@ public class ArticleService {
 		em.getTransaction().begin();
 		Query query = em
 				.createQuery(
-						"SELECT a FROM Article a WHERE a.url = :url AND s.domainId = :domainId")
+						"SELECT a FROM Article a WHERE a.url = :url AND a.domainId = :domainId")
 				.setParameter("url", article.getUrl()).setParameter("domainId", article.getDomainId());
 		@SuppressWarnings("unchecked")
 		List<Article> articles = query.getResultList();

@@ -69,18 +69,15 @@ public class DatactuCrawler extends WebCrawler {
 		}
 		
 		if (FILTERS.matcher(href).matches()) {
-//			System.out.println(1);
 			return false;
 		}
 
 		if (href.indexOf(domain) < 0) {
-//			System.out.println(2);
 			return false;
 		}
 
 		try {
 			if (URLAnalyzer.isCategory(href)) {
-//				System.out.println(3);
 				return false;
 			}
 

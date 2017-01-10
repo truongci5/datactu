@@ -7,6 +7,8 @@ import com.xuantruongvu.datactu.util.HashUtil;
 public class LinkDocument {
 	private String url;
 	
+	private String hashedUrl;
+	
 	private String source;
 
 	private Long createdAt; 
@@ -22,12 +24,15 @@ public class LinkDocument {
 	 * @param url the url to set
 	 */
 	public void setUrl(String url) {
+		this.url = url;
+		
 		try {
-			this.url = HashUtil.hashString(url);
+			this.hashedUrl = HashUtil.hashString(url);
 		} catch (Exception e) {
-			this.url = url;
+			this.hashedUrl = url;
 		}
 	}
+
 
 	/**
 	 * @return the source
@@ -61,6 +66,7 @@ public class LinkDocument {
 		BasicDBObjectBuilder docBuilder = BasicDBObjectBuilder.start();
         
         docBuilder.append("url", url);
+        docBuilder.append("hashed_url", hashedUrl);
         docBuilder.append("source", source);
         docBuilder.append("created_at", createdAt);
         return docBuilder.get();
