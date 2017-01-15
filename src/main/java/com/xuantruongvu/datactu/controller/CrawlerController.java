@@ -20,11 +20,24 @@ import edu.uci.ics.crawler4j.fetcher.PageFetcher;
 import edu.uci.ics.crawler4j.robotstxt.RobotstxtConfig;
 import edu.uci.ics.crawler4j.robotstxt.RobotstxtServer;
 
+
+/**
+ * @author xuantruongvu
+ * This class calls and handles the crawling steps.
+ */
 public class CrawlerController {
 	private static final Logger logger = LoggerFactory.getLogger("crawler");
 	
+	/**
+	 * The number of last saved URLs of a source (to compare with newly discovered URL during crawling)
+	 */
 	private static final Integer recentUrlNumber = 800; 
 	
+	/**
+	 * This method does:
+	 * - Retrieve from MySQL DB the list of active sources (nguon tin)
+	 * - For each source, get its recently published articles  
+	 */
 	public static void crawl() {
 		List<Source> sources = SourceService.findAll();
 		logger.info("{} sources selected to crawl", sources.size());
@@ -36,6 +49,7 @@ public class CrawlerController {
 			currentDomain = source.getDomain();
 			currentUrl = source.getUrl();
 			
+			//This block to catch bad URL 
 			try {
 				@SuppressWarnings("unused")
 				URL ou = new URL(currentUrl);
@@ -45,7 +59,9 @@ public class CrawlerController {
 			
 			try {								
 				logger.info("{} crawling started", currentDomain);
+				
 				CrawlConfig config = new CrawlConfig();
+				
 				config.setCrawlStorageFolder(CrawlerConfig.getCrawlStorageFoler()
 						+ "/single");
 				config.setPolitenessDelay(CrawlerConfig.getPolitenessDelay());
@@ -61,14 +77,18 @@ public class CrawlerController {
 						pageFetcher);
 				
 				CrawlController controller = new CrawlController(config, pageFetcher, robotstxtServer);
+				
 				CustomData customData = new CustomData();
+				
 				customData.setDomain(currentDomain);
 				customData.setDomainUrl(currentUrl);
 				customData.setRecentUrls(getRecentUrls(currentDomain));
+				
 				controller.setCustomData(customData);
 				controller.addSeed(currentUrl);
 				controller.startNonBlocking(DatactuCrawler.class, CrawlerConfig.getConcurrentThreadNumber());
 				controller.waitUntilFinish();
+				
 				logger.info("{} crawling ended", source.getDomain());
 			} catch (Exception e) {
 				logger.warn("{} crawling stopped caused by {}", currentDomain, e.getMessage());
@@ -76,6 +96,12 @@ public class CrawlerController {
 		}
 	}
 
+	
+	/**
+	 * This method retreives from MongoDB the list of last saved URLs of a domain
+	 * @param domain
+	 * @return
+	 */
 	private static List<String> getRecentUrls(String domain) {
 		List<String> links = MongoService.findLinks(domain, recentUrlNumber);
 		return links;

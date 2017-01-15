@@ -45,7 +45,6 @@ public class MongoConnection {
 	
 	public MongoClient getConnection() {
 		if (mongo == null) {
-			System.out.println("ok");
 			return null;
 		}
 		return mongo; 

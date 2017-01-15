@@ -3,6 +3,10 @@ package com.xuantruongvu.datactu.mongodb;
 import com.mongodb.BasicDBObjectBuilder;
 import com.mongodb.DBObject;
 
+/**
+ * @author xuantruongvu
+ * This class represents the object corresponding to the Article document stored within MongoDB
+ */
 public class ArticleDocument {
 	private String title;
 	
@@ -132,6 +136,10 @@ public class ArticleDocument {
 		this.createdAt = createdAt;
 	}
 
+	/**
+	 * Convert to MongoDB native object
+	 * @return
+	 */
 	public DBObject createDBObject() {
 		BasicDBObjectBuilder docBuilder = BasicDBObjectBuilder.start();
         

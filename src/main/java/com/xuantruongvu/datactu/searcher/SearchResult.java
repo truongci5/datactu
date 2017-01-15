@@ -7,6 +7,10 @@ import com.xuantruongvu.datactu.mongodb.MongoService;
 import com.xuantruongvu.datactu.mysql.Article;
 import com.xuantruongvu.datactu.mysql.Html;
 
+/**
+ * @author xuantruongvu
+ * This class represents a result matching a query, returned by Solr Service
+ */
 public class SearchResult {
 	private String id;
 	private ArticleDocument doc;

@@ -5,6 +5,10 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 
+/**
+ * @author xuantruongvu
+ * This class provides with method to hash strings
+ */
 public class HashUtil {
 	private static String algorithm = "MD5";
 	

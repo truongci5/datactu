@@ -1,5 +1,9 @@
 package com.xuantruongvu.datactu.crawler;
 
+/**
+ * @author xuantruongvu
+ * This class stores the meta-data of the article
+ */
 public class MetaData {
 	private String title;
 	private String description;

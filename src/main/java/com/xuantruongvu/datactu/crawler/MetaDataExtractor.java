@@ -4,6 +4,10 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
+/**
+ * @author xuantruongvu
+ * This class allows to extract the meta-data from html code of the article
+ */
 public class MetaDataExtractor {
 	public static final MetaDataExtractor INSTANCE = new MetaDataExtractor();
 
@@ -11,12 +15,22 @@ public class MetaDataExtractor {
 		return INSTANCE;
 	}
 	
+	/**
+	 * Parses html code to dom document
+	 * @param html HTML code
+	 * @return Dom document
+	 */
 	public MetaData extract(String html) {
 		Document document;
 		document = Jsoup.parse(html);
 		return extract(document);
 	}
 	
+	/**
+	 * Extract meta-data
+	 * @param document Dom document
+	 * @return Extracted values
+	 */
 	public MetaData extract(Document document) {
 		MetaData metaData = new MetaData();
 		

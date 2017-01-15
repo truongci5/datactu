@@ -5,6 +5,11 @@ import java.io.InputStream;
 import java.util.Properties;
 
 
+/**
+ * @author xuantruongvu
+ * This class stores configuration parameters for the custom crawler,
+ * The configuration values are stored in the crawler.properties file. 
+ */
 public class CrawlerConfig {
 	private static Properties properties;
 	

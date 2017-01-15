@@ -3,6 +3,10 @@ package com.xuantruongvu.datactu.crawler;
 import de.l3s.boilerpipe.BoilerpipeProcessingException;
 import de.l3s.boilerpipe.extractors.ArticleExtractor;
 
+/**
+ * @author xuantruongvu
+ * This class stores the article meta-data and main content  
+ */
 public class ExtractedPage {
 	private MetaData metadata;
 	private String content;

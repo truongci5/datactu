@@ -3,6 +3,10 @@ package com.xuantruongvu.datactu.crawler;
 import java.util.HashSet;
 import java.util.List;
 
+/**
+ * @author xuantruongvu
+ * This class allows to inject some specific input into the custom crawler. 
+ */
 public class CustomData {
 	private String domain;
 	private String domainUrl;

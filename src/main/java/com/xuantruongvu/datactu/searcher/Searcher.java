@@ -15,11 +15,23 @@ import org.apache.solr.common.SolrDocumentList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
+/**
+ * @author xuantruongvu
+ * This class implements one unique method to interact with the Solr Server to get search results. 
+ */
 public class Searcher {
 	private static final Logger logger = LoggerFactory.getLogger("searcher");
+	
+	/**
+	 * The maximum number of results for a given query could be accepted
+	 */
 	private static int fetchSize = 1000;
+	
+	/**
+	 * Solr webservice URL   
+	 */
 	private static String url = "http://localhost:8983/solr/datactu";
+	
 	private static SolrClient solr;
 	
 	static {
@@ -27,6 +39,14 @@ public class Searcher {
 	}
 	
 	
+	/**
+	 * Sends a request to Solr server and gets back results, if any
+	 * @param sources List of enabled sources
+	 * @param start The timestamp from which the recent articles should be returned   
+	 * @param domainKeywords List of domain keywords
+	 * @param topicKeywords List of topic keywords
+	 * @return
+	 */
 	public static List<String> search(List<String> sources, String start, List<String> domainKeywords, List<String> topicKeywords) {
 		SolrQuery query = new SolrQuery();
 		query.setRequestHandler("/select");
@@ -59,6 +79,11 @@ public class Searcher {
 		return ids;
 	}
 	
+	/**
+	 * Appends the time filter to the query
+	 * @param start
+	 * @return
+	 */
 	private static String getTimestampFilter(String start) {
 		if (start == null) {
 			return "timestamp:[* TO *]";
@@ -67,6 +92,11 @@ public class Searcher {
 		return "timestamp:[" + start + " TO NOW]";
 	}
 
+	/**
+	 * Stringtify and appends source filter to the query
+	 * @param sources
+	 * @return
+	 */
 	private static String getSourceFilter(List<String> sources) {
 		String filter = "source:(";
 		for (String source: sources) {
@@ -77,6 +107,13 @@ public class Searcher {
 		return filter;
 	}
 
+	
+	/**
+	 * Merges domain keywords with topic keywords
+	 * @param domainKeywords
+	 * @param topicKeywords
+	 * @return
+	 */
 	private static String getQuery(List<String> domainKeywords, List<String> topicKeywords) {
 		String domainPart = serialize(domainKeywords, "OR");
 		String topicPart = serialize(topicKeywords, "OR");
@@ -89,6 +126,13 @@ public class Searcher {
 		return query;
 	}
 	
+	
+	/**
+	 * Concatenate keywords together using operators AND, OR
+	 * @param keywords
+	 * @param operator
+	 * @return
+	 */
 	private static String serialize(List<String> keywords, String operator) {
 		String suffix = "\"";
 		String prefix = "\" " + operator + " ";

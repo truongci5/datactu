@@ -4,6 +4,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
+/**
+ * @author xuantruongvu
+ * This class provides with utilities to manipulate datetime objects (values)
+ */
 public class DatetimeUtil {
 	
 	public static int getCurrentHour() {

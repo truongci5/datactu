@@ -15,6 +15,10 @@ import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.WriteResult;
 
+/**
+ * @author xuantruongvu
+ * This class allows to interact with the MongoDB
+ */
 public class MongoService {
 	private static DB db;
 	
@@ -22,6 +26,12 @@ public class MongoService {
 		db = MongoConnection.getInstance().getDatabase();
 	}
 	
+	/**
+	 * Get a number of links which were most recently discovered
+	 * @param source The source that the links belong to
+	 * @param limit The number of links to be returned
+	 * @return
+	 */
 	public static List<String> findLinks(String source, Integer limit) {
 		List<String> links = new ArrayList<String>();
 		DBCollection collection = db.getCollection("links");
@@ -37,21 +47,11 @@ public class MongoService {
 		return links;
 	}
 	
-	public static List<String> findTitles(String source, Integer limit) {
-		List<String> links = new ArrayList<String>();
-		DBCollection collection = db.getCollection("articles");
-		
-		BasicDBObject query = new BasicDBObject("source", source.toLowerCase());
-		
-	    DBCursor cursor = collection.find(query).sort(new BasicDBObject("created_at",-1)).limit(limit);
-	    
-	    while (cursor.hasNext()) {
-	    	links.add(cursor.next().get("title").toString());
-	    }
-		
-		return links;
-	}
 	
+	/**
+	 * Saves new link documents
+	 * @param links
+	 */
 	public static void insertLinks(List<LinkDocument> links) {
 		DBCollection collection = db.getCollection("links");
 		for (LinkDocument link : links) {
@@ -59,11 +59,19 @@ public class MongoService {
 		}
 	}
 	
+	/**
+	 * Saves a new link document
+	 * @param link
+	 */
 	public static void insertLink(LinkDocument link) {
 		DBCollection collection = db.getCollection("links");
 		collection.insert(link.createDBObject());
 	}
 	
+	/**
+	 * Saves new article documents
+	 * @param articles
+	 */
 	public static void insertArticles(List<ArticleDocument> articles) {
 		DBCollection collection = db.getCollection("articles");
 		for (ArticleDocument article: articles) {
@@ -71,68 +79,20 @@ public class MongoService {
 		}
 	}
 
+	/**
+	 * Saves a new article document
+	 * @param article
+	 */
 	public static void insertArticle(ArticleDocument article) {
 		DBCollection collection = db.getCollection("articles");
 		collection.insert(article.createDBObject());
 	}
 	
-	public static List<ArticleDocument> searchArticles(String source, String query) {
-		DBCollection collection = db.getCollection("articles");
-		
-		DBObject findCommand = new BasicDBObject(new BasicDBObject("source", source).append("$text", new BasicDBObject("$search", query)));
-		DBObject projectCommand = new BasicDBObject("score", new BasicDBObject("$meta", "textScore"));
-		DBObject sortCommand = new 	BasicDBObject("score", new BasicDBObject("$meta", "textScore"));
-		
-		
-		DBCursor cursor = collection.find(findCommand, projectCommand).sort(sortCommand);
-		List<ArticleDocument> articles = new ArrayList<ArticleDocument>();
-		
-		while(cursor.hasNext()) {
-			ArticleDocument article = new ArticleDocument();
-			DBObject object = cursor.next();
-			article.setTitle((String)object.get("title"));
-			article.setDescription((String)object.get("description"));
-			article.setContent((String)object.get("content"));
-			article.setHtml((String)object.get("html"));
-			article.setImage((String)object.get("image"));
-			article.setSource((String)object.get("source"));
-			article.setUrl((String)object.get("url"));
-			articles.add(article);
-		}
-		
-		return articles;
-	}
-	
-	public static List<ArticleDocument> findArticleByID(List<String> ids) {
-		List<ArticleDocument> articles = new ArrayList<ArticleDocument>();
-		List<ObjectId> vals = new ArrayList<ObjectId>();
-		for (String id : ids) {
-			vals.add(new ObjectId(id));
-		}
-		
-		DBCollection collection = db.getCollection("articles");
-		BasicDBObject query = new BasicDBObject();
-	    query.put("_id", new BasicDBObject("$in", vals));
-	    
-	    DBCursor cursor = collection.find(query);
-	    
-	    while(cursor.hasNext()) {
-			ArticleDocument article = new ArticleDocument();
-			DBObject object = cursor.next();
-			article.setTitle((String)object.get("title"));
-			article.setDescription((String)object.get("description"));
-			article.setContent((String)object.get("content"));
-			article.setHtml((String)object.get("html"));
-			article.setImage((String)object.get("image"));
-			article.setSource((String)object.get("source"));
-			article.setUrl((String)object.get("url"));
-			article.setCreatedAt((Long)object.get("created_at"));
-			articles.add(article);
-		}
-		
-		return articles;
-	}
-	
+	/**
+	 * Searches for an article by its ID
+	 * @param id the article ID
+	 * @return
+	 */
 	public static ArticleDocument findArticleByID(String id) {
 		ArticleDocument article = new ArticleDocument();
 		DBCollection collection = db.getCollection("articles");
@@ -149,6 +109,11 @@ public class MongoService {
 		return article;
 	}
 	
+	/**
+	 * Gets the last time that a source was checked for new articles
+	 * @param domain The domain to be checked
+	 * @return
+	 */
 	public static String getLastSearchTime(String domain) {
 		DBCollection collection = db.getCollection("domains");
 		
@@ -168,6 +133,11 @@ public class MongoService {
 	    return (String)dom.get("searched_at");
 	}
 	
+	/**
+	 * Sets the new last time
+	 * @param domain The domain to be checked
+	 * @param searchedAt The new value (use the current time)
+	 */
 	public static void setLastSearchTime(String domain, String searchedAt) {
 		DBCollection collection = db.getCollection("domains");
 		BasicDBObject newDocument = new BasicDBObject();
@@ -176,6 +146,12 @@ public class MongoService {
 		collection.update(searchQuery, newDocument);
 	}
 	
+	
+	/**
+	 * Removes old article documents
+	 * @param since The time that every document which was inserted before, will be removed
+	 * @return
+	 */
 	public static int removeArticles(Long since) {
 		DBCollection collection = db.getCollection("articles");
 		BasicDBObject query = new BasicDBObject();
@@ -184,6 +160,11 @@ public class MongoService {
 		return result.getN();
 	}
 	
+	/**
+	 * Removes old link documents
+	 * @param since The time that every document which was inserted before, will be removed
+	 * @retur
+	 */
 	public static int removeLinks(Long since) {
 		DBCollection collection = db.getCollection("links");
 		BasicDBObject query = new BasicDBObject();

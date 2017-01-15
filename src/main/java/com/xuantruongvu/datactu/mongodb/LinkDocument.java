@@ -4,6 +4,10 @@ import com.mongodb.BasicDBObjectBuilder;
 import com.mongodb.DBObject;
 import com.xuantruongvu.datactu.util.HashUtil;
 
+/**
+ * @author xuantruongvu
+ * This class represents the object corresponding to the Link document stored within MongoDB
+ */
 public class LinkDocument {
 	private String url;
 	
@@ -62,6 +66,10 @@ public class LinkDocument {
 		this.createdAt = createdAt;
 	}
 	
+	/**
+	 * Converts to the MongoDB native object
+	 * @return
+	 */
 	public DBObject createDBObject() {
 		BasicDBObjectBuilder docBuilder = BasicDBObjectBuilder.start();
         

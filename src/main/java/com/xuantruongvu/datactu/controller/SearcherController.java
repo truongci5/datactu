@@ -23,11 +23,23 @@ import com.xuantruongvu.datactu.searcher.SearchResult;
 import com.xuantruongvu.datactu.searcher.Searcher;
 import com.xuantruongvu.datactu.util.DatetimeUtil;
 
+/**
+ * @author xuantruongvu
+ * This class calls and handles the searching steps
+ */
 public class SearcherController {
 	private static final Logger logger = LoggerFactory.getLogger("searcher");
 	
+	
+	/**
+	 * This method does:
+	 * - Retrieve from Mysql DB the list of active domains (Linh vuc)
+	 * - For each domain, get its topics (Chu de), if any, and create the corresponding queries, 
+	 * match these queries with Solr and save the results into Mysql DB, if any.
+	 */
 	public static void search() {
 		List<Domain> domains = DomainService.findAll();
+		
 		logger.info("{} domains selected to search", domains.size());
 		
 		Map<String, Integer> sourceMap = getSourceMap();
@@ -35,24 +47,28 @@ public class SearcherController {
 		
 		for (Domain domain : domains) {
 			currentDomain = domain.getName();
-			logger.info("{} domain searching started", currentDomain);
 			
+			logger.info("{} domain searching started", currentDomain);
+			  
 			Map<String, SearchResult> resultMap = new HashMap<String, SearchResult>();
 			
-			String lastSearch = MongoService.getLastSearchTime(currentDomain);
+			// The last search time prevents getting the same articles which were already retrieved at the last search
+			String lastSearch = MongoService.getLastSearchTime(currentDomain);			
 			MongoService.setLastSearchTime(currentDomain, DatetimeUtil.getUTCDatetime());
+			
 			logger.info("{} domain last searched {}", currentDomain, lastSearch);
 			
 			List<String> domainKeywords = domain.getKeywords();
 			List<Source> sources = domain.getSources();
-			List<String> sourceNames = new ArrayList<String>();
 			
+			List<String> sourceNames = new ArrayList<String>();
 			for (Source source : sources) {
 				sourceNames.add(source.getDomain());
 			}
 			
 			List<Topic> topics = domain.getTopics();
 			
+			// If the domain contains any topic, get the topic keywords and merge them with the domain keywords.   
 			if (topics.size() > 0) {
 				for (Topic topic : topics) {
 					List<String> topicKeywords = topic.getKeywords();
@@ -102,7 +118,6 @@ public class SearcherController {
 			}
 			
 			
-			
 			for (Map.Entry<String, SearchResult> entry : resultMap.entrySet())
 			{
 				logger.info(" {} : {}", entry.getValue().getArticle().getTitle(), entry.getValue().getArticle().getUrl());
@@ -112,6 +127,11 @@ public class SearcherController {
 		}
 	}
 
+	
+	/**
+	 * Insert matching articles into Mysql DB
+	 * @param resultMap
+	 */
 	private static void insertArticles(Map<String, SearchResult> resultMap) {
 		List<SearchResult> list = new ArrayList<SearchResult>(resultMap.values());
 		
@@ -124,6 +144,10 @@ public class SearcherController {
 		}
 	}
 
+	/**
+	 * Store temporarily the (url, id) pairs of the sources
+	 * @return
+	 */
 	private static Map<String, Integer> getSourceMap() {
 		List<Source> sources = SourceService.findAll();
 		Map<String, Integer> sourceMap = new HashMap<String, Integer>();
