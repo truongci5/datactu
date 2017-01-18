@@ -1,5 +1,7 @@
 package com.xuantruongvu.datactu.controller;
 
+import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
@@ -91,7 +93,10 @@ public class CrawlerController {
 				
 				logger.info("{} crawling ended", source.getDomain());
 			} catch (Exception e) {
-				logger.warn("{} crawling stopped caused by {}", currentDomain, e.getMessage());
+				StringWriter errors = new StringWriter();
+				e.printStackTrace(new PrintWriter(errors));
+				//logger.warn("{} crawling stopped caused by {}", currentDomain, e.getMessage());
+				logger.warn("{} crawling stopped caused by {}", currentDomain, errors.toString());
 			}
 		}
 	}
