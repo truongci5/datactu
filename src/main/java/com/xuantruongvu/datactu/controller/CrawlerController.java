@@ -95,7 +95,6 @@ public class CrawlerController {
 			} catch (Exception e) {
 				StringWriter errors = new StringWriter();
 				e.printStackTrace(new PrintWriter(errors));
-				//logger.warn("{} crawling stopped caused by {}", currentDomain, e.getMessage());
 				logger.warn("{} crawling stopped caused by {}", currentDomain, errors.toString());
 			}
 		}

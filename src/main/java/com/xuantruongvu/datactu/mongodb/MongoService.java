@@ -13,6 +13,7 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
+import com.mongodb.MongoException;
 import com.mongodb.WriteResult;
 
 /**
@@ -40,14 +41,22 @@ public class MongoService {
 		
 	    DBCursor cursor = collection.find(query).sort(new BasicDBObject("created_at",-1)).limit(limit);
 	    
-	    while (cursor.hasNext()) {
-	    	try {
-	    		links.add(cursor.next().get("hashed_url").toString());
-	    	} catch  (Exception e) {
-	    		links.add(cursor.next().get("url").toString());
-	    	}
-	    }
-		
+	    try {
+	    	while (cursor.hasNext()) {
+		    	DBObject obj = cursor.next();		    	
+		    	
+		    	if (obj.containsField("hashed_url")) {
+		    		links.add(cursor.next().get("hashed_url").toString());
+		    	} else if (obj.containsField("url")) {
+		    		links.add(cursor.next().get("url").toString());
+		    	} else {
+		    		continue;
+		    	}
+		    }
+    	} catch (MongoException e) {
+    		throw e;
+    	}
+	    	
 		return links;
 	}
 	
