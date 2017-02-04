@@ -46,9 +46,9 @@ public class MongoService {
 		    	DBObject obj = cursor.next();		    	
 		    	
 		    	if (obj.containsField("hashed_url")) {
-		    		links.add(cursor.next().get("hashed_url").toString());
+		    		links.add(obj.get("hashed_url").toString());
 		    	} else if (obj.containsField("url")) {
-		    		links.add(cursor.next().get("url").toString());
+		    		links.add(obj.get("url").toString());
 		    	} else {
 		    		continue;
 		    	}
