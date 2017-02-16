@@ -45,12 +45,12 @@ public class SearcherController {
 		Map<String, Integer> sourceMap = getSourceMap();
 		String currentDomain = "";
 		
+		Map<String, SearchResult> resultMap = new HashMap<String, SearchResult>();
+		
 		for (Domain domain : domains) {
 			currentDomain = domain.getName();
 			
 			logger.info("{} domain searching started", currentDomain);
-			  
-			Map<String, SearchResult> resultMap = new HashMap<String, SearchResult>();
 			
 			// The last search time prevents getting the same articles which were already retrieved at the last search
 			String lastSearch = MongoService.getLastSearchTime(currentDomain);			
@@ -80,6 +80,7 @@ public class SearcherController {
 							SearchResult result = resultMap.get(id);
 							Article article = result.getArticle();
 							article.attachTopic(topic);
+							article.attachDomain(domain);
 						} else {
 							SearchResult result;							
 							try {
@@ -90,7 +91,7 @@ public class SearcherController {
 							
 							Article article = result.getArticle();
 							ArticleDocument doc = result.getDoc();
-							article.setDomainId(domain.getId());
+							article.attachDomain(domain);
 							article.setSourceId(sourceMap.get(doc.getSource()));
 							article.attachTopic(topic);
 							resultMap.put(id, result);
@@ -111,7 +112,7 @@ public class SearcherController {
 					
 					Article article = result.getArticle();
 					ArticleDocument doc = result.getDoc();
-					article.setDomainId(domain.getId());
+					article.attachDomain(domain);
 					article.setSourceId(sourceMap.get(doc.getSource()));
 					resultMap.put(id, result);
 				}
@@ -122,9 +123,9 @@ public class SearcherController {
 			{
 				logger.info(" {} : {}", entry.getValue().getArticle().getTitle(), entry.getValue().getArticle().getUrl());
 			}
-			
-			insertArticles(resultMap);
 		}
+		
+		insertArticles(resultMap);
 	}
 
 	

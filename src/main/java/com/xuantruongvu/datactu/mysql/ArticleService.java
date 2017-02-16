@@ -44,8 +44,8 @@ public class ArticleService {
 		em.getTransaction().begin();
 		Query query = em
 				.createQuery(
-						"SELECT a FROM Article a WHERE a.url = :url AND a.domainId = :domainId")
-				.setParameter("url", article.getUrl()).setParameter("domainId", article.getDomainId());
+						"SELECT a FROM Article a WHERE a.url = :url")
+				.setParameter("url", article.getUrl());
 		@SuppressWarnings("unchecked")
 		List<Article> articles = query.getResultList();
 		if (articles.size() > 0) existed = true;

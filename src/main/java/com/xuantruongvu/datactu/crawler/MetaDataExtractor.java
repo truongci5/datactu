@@ -3,6 +3,7 @@ package com.xuantruongvu.datactu.crawler;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 /**
  * @author xuantruongvu
@@ -28,7 +29,7 @@ public class MetaDataExtractor {
 	
 	/**
 	 * Extract meta-data
-	 * @param document Dom document
+	 * @param document DOM document
 	 * @return Extracted values
 	 */
 	public MetaData extract(Document document) {
@@ -57,5 +58,23 @@ public class MetaDataExtractor {
 		}
 		
 		return metaData;
+	}
+	
+	/**
+	 * Extract value of a specified tag using Jsoup selector syntax
+	 * @param document DOM document
+	 * @param selector Jsoup selector syntax
+	 * @return the extracted value
+	 */
+	public String extractElementValue(Document document, String selector) {
+		String value = "";
+		
+		Elements elements = document.select(selector);
+		if (elements.size() > 0) {
+			Element element = elements.first();
+			value = element.text();
+		}
+		
+		return value;
 	}
 }

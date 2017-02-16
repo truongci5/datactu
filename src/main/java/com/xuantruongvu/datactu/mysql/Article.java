@@ -50,9 +50,14 @@ public class Article implements Serializable {
 	@Column(name = "ngaydang")
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date publishedDate;
+
 	
-	@Column(name = "linhvuc_id")
-	private Integer domainId;
+	@ManyToMany(fetch = FetchType.LAZY)
+	@JoinTable(
+		name="datactu_tin2linhvuc",
+		joinColumns=@JoinColumn(name="tin_id", referencedColumnName="id"),
+		inverseJoinColumns=@JoinColumn(name="linhvuc_id", referencedColumnName="id"))
+	private Set<Domain> domains;
 	
 	@ManyToMany(fetch = FetchType.LAZY)
 	@JoinTable(
@@ -115,25 +120,12 @@ public class Article implements Serializable {
 	}
 
 	/**
-	 * @return the domainId
-	 */
-	public Integer getDomainId() {
-		return domainId;
-	}
-
-	/**
 	 * @param url the url to set
 	 */
 	public void setUrl(String url) {
 		this.url = url;
 	}
 
-	/**
-	 * @param domainId the domainId to set
-	 */
-	public void setDomainId(Integer domainId) {
-		this.domainId = domainId;
-	}
 
 	/**
 	 * @return the topics
@@ -164,6 +156,27 @@ public class Article implements Serializable {
 		topics.add(topic);
 	}
 	
+	/**
+	 * @return the topics
+	 */
+	public Set<Domain> getDomains() {
+		return domains;
+	}
+
+	/**
+	 * @param topics the topics to set
+	 */
+	public void setDomains(Set<Domain> domains) {
+		this.domains = domains;
+	}
+	
+	public void attachDomain(Domain domain) {
+		if (domains == null) {
+			domains = new HashSet<Domain>();
+		}
+		
+		domains.add(domain);
+	}	
 	
 	
 	public String getUrl() {
